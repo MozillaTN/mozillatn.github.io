@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>MozillaTN</title>
+    <description>Mozilla Tamilnadu Community Website, highlights more about contributors contribution and tutorials to get started with Community contribution.</description>
+    <link>http://mozillatn.github.io</link>
+    <atom:link href="http://mozillatn.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Prasanth is budding FSA started contribution with Localization</title>
+        
+        
+          <description>&lt;p&gt;&lt;strong&gt;1) Please introduce yourself and give us three keywords that would define you the best.&lt;img class=&quot;  wp-image-560 alignright&quot; src=&quot;/assets/prashantj.jpg&quot; alt=&quot;Prashantj&quot; width=&quot;380&quot; height=&quot;380&quot; /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;My name is P.Prasanth.I am studying 2nd year BE Computer Science and Engineering in Sri Krishna College of Engineering and Technology, Coimbatore. A passionate programmer , An active social media user and a kind of a person who always look forward for an opportunity to meet new people.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2) What area are you from [city]?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I am from Madurai. But staying in Coimbatore as I am studying here.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3) What do you do as a career [job/school/retired]?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Student.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4) List a favorite hobby or something about yourself that you&#39;d like to share.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hearing musics,reading books, blogging are my hobbies.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5) Links to your website, blog, etc.?&lt;/strong&gt;&lt;br /&gt;
+Blog :-    &lt;a href=&quot;http://foxprasanth.github.io/&quot;&gt;http://foxprasanth.github.io/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;6) How did you discover the Web?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;During my childhood,it was my elder sister, who introduced me to web, by calling me to accompany her, whenever she went to internet cafes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;7) How did you hear about Mozilla and Mozilla Tamilnadu Community?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I heard about Mozilla during a tech meetup in Madurai. I was introduced to Mozilla TamilNadu Community by Gautham Venkat, a fellow FSA from Amritha University.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;8) How and why did you start contributing to Mozilla?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;It all started in localisation event which took place during inauguration of MozMadurai.&lt;/p&gt;
+&lt;p&gt;I started contributing to Mozilla because I felt that such contribution would have a great positive impact me. As I felt , I have grown my skills over the past months.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;10) What’s the contribution you’re the most proud of?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The best contribution that I made is “The privacy campaign” which I conducted in my college.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;11) What advice would you give to someone who is new and interested in contributing to Mozilla?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The common problem faced by the begineers is hesitation to mingle. Never hesitate to ask doubts. Because with each doubts , we get each new ideas.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;12) If you had one word or sentence to describe Mozilla, what would it be?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I will describe Mozilla as “the best community for learning and teaching as well!”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;13) What exciting things do you envision for you and Mozilla in the future?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I could see Mozilla community growing in a rapid pace. With more events coming up, more contributions generated, there comes more innovation. Mozilla will strive hard to keep the Web open and I could see myself helping for it’s great cause.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;14) Is there anything else you&#39;d like to say or add to the above questions?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Nothing more.Start working today! and make a better tomorrow.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;15) Please tell us more about your community. Is there anything you find particularly interesting or special about it?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The speciality of Mozilla TamilNadu community is it active participation and its nature to help new FSAs and guide them.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;16) What’s your best memory with your fellow community members?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The best event is the localization event by Gautham @MozspaceMadurai.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://foxprasanth.github.io/events/2015/12/21/MozMdu-inaugration/&quot;&gt;http://foxprasanth.github.io/events/2015/12/21/MozMdu-inaugration/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+        
+        <pubDate>Fri, 11 Mar 2016 17:06:46 +0530</pubDate>
+        <link>http://mozillatn.github.io/blog/contributor%20post/prasanth-is-budding-fsa-started-contribution-with-localization/</link>
+        <guid isPermaLink="true">http://mozillatn.github.io/blog/contributor%20post/prasanth-is-budding-fsa-started-contribution-with-localization/</guid>
+      </item>
+    
+      <item>
+        <title>Writing My First Extension (Firefox Add-ons)</title>
+        
+        
+          <description>&lt;p&gt;In last post I was writing about &lt;a href=&quot;&quot;&gt;Getting Started with WebExtension&lt;/a&gt;. Its very exicting to learn something new in Web each and everyday. And as a developer the feel when we know our software (General term you can replace with WebExtension)  is going to reach many users its awesome feeling.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 10 Mar 2016 07:50:00 +0530</pubDate>
+        <link>http://mozillatn.github.io/clubs/Writing-My-First-Extension/</link>
+        <guid isPermaLink="true">http://mozillatn.github.io/clubs/Writing-My-First-Extension/</guid>
+      </item>
+    
+      <item>
+        <title>Lets Learn about Mozilla Products on Womens Day</title>
+        
+        
+          <description>&lt;p&gt;The New Social Media team our MozillaTN has came up with interesting idea to share more information about Mozilla Products and Open source Products.&lt;/p&gt;
+&lt;p&gt;On March 8th, yes on Women&#39;s day they will sharing question about various Mozilla Products.&lt;/p&gt;
+&lt;p&gt;They will be posting question in both &lt;a href=&quot;https://www.facebook.com/MozillaTN/?ref=hl&quot; target=&quot;_blank&quot;&gt;Facebook&lt;/a&gt; and also to &lt;a href=&quot;https://twitter.com/mozillatn&quot; target=&quot;_blank&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can simply reply to the post they make, at the end of the week the results will be announced. We will be finding the top 3 Women Contributors who have awesome knowledge about Mozilla Products. So keep eye on Facebook and twitter profiles between 10.00 AM and 10.00 PM on 8th March&lt;/p&gt;
+</description>
+        
+        <pubDate>Mon, 07 Mar 2016 20:12:57 +0530</pubDate>
+        <link>http://mozillatn.github.io/blog/contest/lets-learn-about-mozilla-products-on-womens-day/</link>
+        <guid isPermaLink="true">http://mozillatn.github.io/blog/contest/lets-learn-about-mozilla-products-on-womens-day/</guid>
+      </item>
+    
+      <item>
+        <title>Makilan is Mechanical Engineering student with passion to take web at Remote Places</title>
+        
+        
+          <description>&lt;p&gt;&lt;strong&gt;&lt;img class=&quot;  wp-image-539 alignright&quot; src=&quot;/assets/makilan.jpg&quot; alt=&quot;makilan&quot; width=&quot;300&quot; height=&quot;300&quot; /&gt;1) Please introduce yourself and give us three keywords that would define you the best.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I’m Selva Makilan, doing Mechanical Engineering at SASTRA University.&lt;/li&gt;
+&lt;li&gt;I can and I will.&lt;/li&gt;
+&lt;li&gt;Innovative thinker and Dreamer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2) What area are you from [city]&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Native: Avinangudi, Cuddalore.&lt;/li&gt;
+&lt;li&gt;Currently in Thanjavur.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;3) What do you do as a career [job/school/retired]?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Student / SASTRA University.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;4) List a favorite hobby or something about yourself that you&#39;d like to share.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hobbies are making Crafts, Popupology.&lt;/li&gt;
+&lt;li&gt;Mobography (Mobile Photography), Music, Dance Lover.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;5) Links to your website, blog, etc.?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;IRC: Selva_Makilan&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://m.facebook.com/selva.m.mech.35?ref=bookmarks&quot;&gt;Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/selva_makilan&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt; &lt;a href=&quot;https://www.linkedin.com/in/selva-makilan-9a1580105?trk=hp-identity-name&quot;&gt;Linkedin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.instagram.com/selva_makilan/&quot;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.flickr.com/photos/138226376@N08/&quot;&gt;Flickr&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt; &lt;a href=&quot;https://plus.google.com/111857443512570695288/posts&quot;&gt;Google+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;6) How did you discover the Web?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Through my family and friends. Well, it all started with creating mail then got associated with the web as such.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;7) How did you hear about Mozilla and Mozilla Tamilnadu Community?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;At my University, I attended an orientation. In the orientation, one of my seniors took the session about Mozilla and its Contributing areas. After that orientation, I came to my room and searched about Firefox Student Ambassador. Then I saw one Mozcafe event which was conducted by D.Vigneshwar in Thanjavur. I attended the session and then joined the Mozilla Tamil Nadu community.&lt;/p&gt;
+&lt;p&gt;.&lt;strong&gt;8) How and why did you start contributing to Mozilla?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Actually, I like to learn something new apart from my academics and improve my skills by those concerns, I  joined in Mozilla then became a Mozilla FSA. It’s really pretty cool to get some ideas. Before entering into Mozilla I didn’t have much knowledge in Computer Science and by contributing in Mozilla Localization Service and done with great Success, I am in a great hope to contribute in other areas and now I am interested in Mozilla L10N.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;9) What’s the contribution you’re the proudest of?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Secured third place in Tamilnadu in Mozilla Location Service(MLS) is my proudest moment as of now as it is my first contributing area.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;10) What advice would you give to someone who is new and interested in contributing to Mozilla?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Feel free with Mozilla Community, don’t feel shy to ask anything. Language doesn’t matter and your basic knowledge is enough to do everything because here you have a chance to learn a lot. Community members are always ready to help you anytime.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;11) If you had one word or sentence to describe Mozilla, what would it be?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Simply Awesome&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;12) What exciting things do you envision for you and Mozilla in the future?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I concentrate on developing this Mozilla community in remote areas, due to less awareness in rural areas we are in the position to improve there also.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;13) Is there anything else you&#39;d like to say or add to the above questions?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;No, I feel these questions are more than enough.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;14) Please tell us more about your community. Is there anything you find particularly interesting or special about it?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Like I said before, here after my community will be improved in rural areas. Since after coming to a reputed University, I got a chance to know about Mozilla, before that I know Mozilla Firefox as a browser alone, I wasn’t aware of these things behind Mozilla and really am amazed.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;15) What’s your best memory of your fellow community members?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;After I joined in a Mozilla community, I didn’t know anything about it, what I have to do, which area would suit me I confused a lot and assumed myself that I am not fit for these things. Then a guy Gowtham encouraged me and helped me a lot. Representatives gave some ideas to do my basic steps for creating a blog, manage a GitHub etc...&lt;/p&gt;
+</description>
+        
+        <pubDate>Thu, 03 Mar 2016 18:10:54 +0530</pubDate>
+        <link>http://mozillatn.github.io/blog/contributor%20spotlight/makilan-is-mechanical-engineering-student-with-passion-to-take-web-at-remote-places/</link>
+        <guid isPermaLink="true">http://mozillatn.github.io/blog/contributor%20spotlight/makilan-is-mechanical-engineering-student-with-passion-to-take-web-at-remote-places/</guid>
+      </item>
+    
+      <item>
+        <title>Introducing MozillaTN social Media Team</title>
+        
+        
+          <description>&lt;p&gt;So in July 2014 some of the contributors in Tamilnadu came forward and wanted to form a Mozilla Tamilnadu Community (Contributors Community). They planned for events both online and offline tried to gather every Mozilla Contributor in Tamilnadu under Common banner. At the time of Start there were various city level community which still actively exist, we had Chennai, Coimbaore, Villupuram, Erode, Trichy, and so on. At that time when we looked at community we were very small in size, and also knowledge transfer was very less compared to What we have now. On Average we had 1 event per month.&lt;/p&gt;
+&lt;p&gt;Now all the contributors from  cities in Tamilnadu came forward to build Mozilla Tamilnadu Community, it looks really very big. Some of the interesting stats to check are below&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.facebook.com/MozillaTN&quot; target=&quot;_blank&quot;&gt;Facebook&lt;/a&gt; - 419 Likes 30- Reach avg&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/mozillaTN/&quot; target=&quot;_blank&quot;&gt;Twitter&lt;/a&gt; -   113 Followers&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://mozillatn.github.io/&quot; target=&quot;_blank&quot;&gt;Website&lt;/a&gt; -  5 Visits per day Avg&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://web.telegram.org/#/im?p=@mozillatn&quot; target=&quot;_blank&quot;&gt;Telegram Channel &lt;/a&gt;-  64 Followers 40 reach avg&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We still have some left like Google Groups, Facebook groups, personal Emails exchanged and so on.&lt;/p&gt;
+&lt;p&gt;But even today we have not made many things properly  like creating event in Facebook or Google+ for each and every event done by Contributors, share about the awesome events done by contributors, sharing thoughts about Awesome Contributors (just recently we started &lt;a href=&quot;https://mozillianstn.wordpress.com/category/contributor-spotlight/&quot; target=&quot;_blank&quot;&gt;contributor spotlight&lt;/a&gt;). We have some to-do lists below&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Improving the engagement in Facebook and Twitter&lt;/li&gt;
+&lt;li&gt;Branding events in college by FSA in Tamilnadu. (helping in setting up event in FB, hashtag)&lt;/li&gt;
+&lt;li&gt;Making Contributors blogpost Visible to all community members.&lt;/li&gt;
+&lt;li&gt;If possible bringing content in Tamil&lt;/li&gt;
+&lt;li&gt;Maintaining the Community Calendar&lt;/li&gt;
+&lt;li&gt;Creating designs for Community events.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To do the above mentioned things we need a dedicated set of contributors who have focused much in Social Media. Two weeks back I have asked people to share how they can improve our Social Media presence. 7 people shown interest among them 3 have been chosen to maintain our Social Media accounts along with the existing Admin.&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;alignnone size-full wp-image-514&quot; src=&quot;/assets/mozilltn_socialmediateam.png&quot; alt=&quot;MozillTN_SocialMediaTeam.png&quot; width=&quot;640&quot; height=&quot;400&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;It was really great to select this three people among 7 who shown interest. They have very good ideas running in their mind and wanted to try those and bring awesome interaction to our Community.&lt;/p&gt;
+&lt;p&gt;Some of the Goals shared by them which they would like to achieve by the end of 2016.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1500 Facebook Likes&lt;/li&gt;
+&lt;li&gt;750 Twitter Followers&lt;/li&gt;
+&lt;li&gt;200+ followers in Telegram&lt;/li&gt;
+&lt;li&gt;100+ unique visitors to MozillaTN website&lt;/li&gt;
+&lt;li&gt;2 Online Meetups each month&lt;/li&gt;
+&lt;li&gt;Localizing blog posts in Tamil&lt;/li&gt;
+&lt;li&gt;Publicising events and having online quiz&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Lets welcome this people to our Social Media Team. #mozillaTN&lt;/p&gt;
+</description>
+        
+        <pubDate>Mon, 29 Feb 2016 17:47:49 +0530</pubDate>
+        <link>http://mozillatn.github.io/blog/functional%20team/introducing-mozillatn-social-media-team/</link>
+        <guid isPermaLink="true">http://mozillatn.github.io/blog/functional%20team/introducing-mozillatn-social-media-team/</guid>
+      </item>
+    
+      <item>
+        <title>Karthickeyan is calm community builder</title>
+        
+        
+          <description>&lt;p&gt;&lt;strong&gt;1) Please introduce yourself and give us three keywords that would define you the best.&lt;img class=&quot; size-medium wp-image-482 alignright&quot; src=&quot;/assets/k.jpg?w=300&quot; alt=&quot;K&quot; width=&quot;300&quot; height=&quot;300&quot; /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I am karthickeyan.N, Regional Ambassador Lead-FSA program, Community builder, Mozilla Evangelist &amp;amp; an open source enthusiast.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2) What area are you from [city]?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I am from Vellore[Tamilnadu],&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3) What do you do as a career [job/school/retired]?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I am a final year B.Tech IT student in Easwari Engineering College, Ramapuram, Chennai.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4) List a favorite hobby or something about yourself that you&#39;d like to share.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I love Playing piano,listening music, watching movies, I Involve in Social Service activities, visit orphanages &amp;amp; old age homes during weekends. I learn something new on internet everyday &amp;amp; share my knowledge with people. Teaching is the field i am very much passionate about. I live as a freelance web designer rest of the time.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5) Links to your website, blog, etc.?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.mozkarthic.wordpress.com&quot;&gt;www.mozkarthic.wordpress.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.fb.com/hellokarthic&quot;&gt;www.fb.com/hellokarthic&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.twitter.com/hellokarthic&quot;&gt;www.twitter.com/hellokarthic&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.linkedin.com/in/hellokarthic&quot;&gt;www.linkedin.com/in/hellokarthic&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.github.com/hellokarthic.&quot;&gt;www.github.com/hellokarthic.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;6) How did you discover the Web?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Internet is a great public resources which extends oppurtunity, power, freedom, discover &amp;amp; innovation. Web has given me the choice, opportunities to learn &amp;amp; discover many new things that has built my knowledge, improved my career and developed my personality.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;7) How did you hear about Mozilla and Mozilla Tamilnadu Community?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Mozilla Firefox has been my favorite browser. I am a great fan of it&#39;s rich &amp;amp; varied add-ons. I came to know about the Mozilla Community through the FSA program while googling for existing Students Ambassador Program. Then Mozilla wiki came handy to learn about the community, how to contribute &amp;amp; involve in building the community.&lt;/p&gt;
+&lt;p&gt;I was a part of the Mozilla tamilnadu community during the initial stages while it had very few countable contributors. With guidance of Reps from the Tamilnadu Community, I involved in recruiting many new FSA’s in and around tamilnadu. Thanks to the Mozilla reps from tamilnadu community. They were the reason why I’m here and a Strong community base in Tamilnadu.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;8) How and why did you start contributing to Mozilla?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Initially I joined the program expecting to learn something new and stand out of the crowd in my College.Mozilla brand itself is something everyone would love to take part in. I enrolled to the program. Shreyas narayana kutty- Mozilla rep was the one whom i contacted first and met him in person. He helped me understand about the FSA program. He invited me to volunteer Mozilla Makerparty chennai.This was my first involvement. I then turned up to few meetups in Chennai. After few months of gradual involvement, I was guided by Viswaprasath-Mozilla rep from tamilnadu who was the key motivator for me to organize events and I started involving in Mozilla Activites with lot of passion and dedication.This was the turning point for me in my Contribution to Mozilla.&lt;/p&gt;
+&lt;p&gt;One thing i learnt from mozilla is “ have the passion to learn and a mind to share”.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;10) What’s the contribution you’re the most proud of?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;what gives more happiness than sharing knowledge to people and helping them develop their Skills &amp;amp; personality. I cherish my Contribution in reaching the rural part of tamilnadu in teaching the power of web. Involving in Kidzilla activity in rural &amp;amp; low income schools is always the most cherished memories.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;11) What advice would you give to someone who is new and interested in contributing to Mozilla?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;-Mozilla is not Just a Community. It is an opportunity where you get to learn &amp;amp; Share things shaping your personal as well as professional growth all along building a free &amp;amp; open web striving to achieve the Mozilla’s Mission.&lt;/p&gt;
+&lt;p&gt;-Ask other Mozillians for any sort of help. Mozillians are the best people in the world.&lt;/p&gt;
+&lt;p&gt;-Be passionate &amp;amp; do your work with dedication, Recognition &amp;amp; Rewards will come automatically.&lt;/p&gt;
+&lt;p&gt;-Internet is the best teacher. learn about Mozilla activities you can get involved, through Wiki docs. You have plenty of resources to start which is infact growing now, than we had few years back.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;12) If you had one word or sentence to describe Mozilla, what would it be?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Empowers the user..&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;13) What exciting things do you envision for you and Mozilla in the future?&lt;/strong&gt;&lt;br /&gt;
+Mozilla has given me a lot. Now its time to give back to the society.&lt;/p&gt;
+&lt;p&gt;I want to build a strong community and produce wonderful leaders of tomorrow who shall work hard with love to keep the web free and open as well as to empower others.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;14) Is there anything else you&#39;d like to say or add to the above questions?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Enough said. Act now. Be the change. coz you are a part of Awesomeness!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;15) Please tell us more about your community. Is there anything you find particularly interesting or special about it?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Mozilla TN community is more like a  family to me. I have brothers and sisters who have been a part of my personal &amp;amp; career growth.&lt;/p&gt;
+&lt;p&gt;Mozilla TN Community recognizes your efforts and sends Appreciations and rewards for your hard work.&lt;/p&gt;
+&lt;p&gt;Every individual’s talent is recognized here and also helps them improve their skills &amp;amp; ability.&lt;/p&gt;
+&lt;p&gt;We are a strong growing community and be a part of it. trust me! You’ll write a book on us :)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;16) What’s your best memory with your fellow community members?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;meeting with Viswaprasath, Achyuth, Abhiram, manivannan &amp;amp; other mozillians during Android Amaze.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mozkarthic.files.wordpress.com/2015/04/11081154_10205755330258005_242936334565058324_n.jpg?w=1029&amp;amp;h=761&quot;&gt;https://mozkarthic.files.wordpress.com/2015/04/11081154_10205755330258005_242936334565058324_n.jpg?w=1029&amp;amp;h=761&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;meeting with Khaleel jageer, Gowtham venkat, Raghav &amp;amp; other mozillians during Amrita Univ l10n Sprint.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mozkarthic.files.wordpress.com/2015/11/img_20151114_131920.jpg?w=700&quot;&gt;https://mozkarthic.files.wordpress.com/2015/11/img_20151114_131920.jpg?w=700&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;meeting with naresh kumar, Vigneshwar D, Mohammed adam and others during Chennai meetup&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mozkarthic.files.wordpress.com/2015/10/1.png?w=882&amp;amp;h=562&quot;&gt;https://mozkarthic.files.wordpress.com/2015/10/1.png?w=882&amp;amp;h=562&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;meeting with Akshay tiwari, Kaustav Das Modak, Srusthika, Abhiram and other mozillians during Mozstall at Ingenius hackathon in bangalore&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mozkarthic.files.wordpress.com/2015/10/c__data_users_defapps_appdata_internetexplorer_temp_saved-images_21880034642_be6f446d6f_z.jpg?w=700&quot;&gt;https://mozkarthic.files.wordpress.com/2015/10/c__data_users_defapps_appdata_internetexplorer_temp_saved-images_21880034642_be6f446d6f_z.jpg?w=700&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;meeting Abdul mohassin, Mohammed saqib and other mozillians during igniting the Mozilla vellore Community.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://farm1.staticflickr.com/475/19987253466_4782e8c94c_z.jpg&quot;&gt;https://farm1.staticflickr.com/475/19987253466_4782e8c94c_z.jpg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+        
+        <pubDate>Fri, 26 Feb 2016 18:17:56 +0530</pubDate>
+        <link>http://mozillatn.github.io/blog/contributor%20spotlight/karthickeyan-is-calm-community-builder/</link>
+        <guid isPermaLink="true">http://mozillatn.github.io/blog/contributor%20spotlight/karthickeyan-is-calm-community-builder/</guid>
+      </item>
+    
+      <item>
+        <title>Adam is Free Software Activist and prefers Quality more than Quantity</title>
+        
+        
+          <description>&lt;p&gt;&lt;b&gt;1) Please introduce yourself and give us three keywords that would define you the best.&lt;img class=&quot; size-full wp-image-469 alignright&quot; src=&quot;//assets/adam.jpg&quot; alt=&quot;adam&quot; width=&quot;206&quot; height=&quot;274&quot; /&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;A &lt;b&gt;FreeSoftware Activist and A Firefox Student Ambassador&lt;/b&gt; who has an Internet to learn Newtrends of Technology, who spends his time evangelize Free Software and Mozilla Firefox interested in working with ideas. &lt;b&gt;Travels a lot and living with Engineering. A professional dreamer &lt;/b&gt;and a lefty sometimes. The mystery behind Space drives me mad. Have a lot of questions and need to find the answers within myself.&lt;/p&gt;
+&lt;p&gt;I Follow those lines in my LifeTime &lt;b&gt;&quot;Talent can Makes more Opportunities&quot;.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;2) What area are you from [city]?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Viluppuram, Tamilnadu, India&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;3) What do you do as a career [job/school/retired]?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Pursuing FinalYear  B.E(Computer Science and Engineering) in Mailam Engineering College&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;4) List a favorite hobby or something about yourself that you&#39;d like to share.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Reading Books like(Leadership Wisdom, KarlMarx, Steve jobs, Imperialism, che guevara, confessions of an Economic hitman,  Indian Economics, &lt;i&gt;Why I am an Atheist&lt;/i&gt; by bhagat singh etc),&lt;/p&gt;
+&lt;p&gt;Hearing Music, etc.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;5) Links to your website, blog, etc.?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Blog: &lt;/b&gt;&lt;a href=&quot;http://adamlaskas24.wordpress.com/&quot;&gt;http://adamlaskas24.wordpress.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Website:&lt;/b&gt; &lt;a href=&quot;http://amdadam.github.io/&quot; target=&quot;_blank&quot;&gt;http://amdadam.github.io/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;6) How did you discover the Web?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;In My Schooling, My Father Bought me a &lt;b&gt;Mobilephone,&lt;/b&gt; it was an Basic Handset with GPRS Capability, I do not have the Knowledge of Internet or Browser. In that I Know about Only GOOGLE Search Engine.  When Im with My brother Viewed GOOGLE Search Engine , It was an Awesome Enjoyment and Happy in my Face. Wow man, We Get the Internet In our City like that Feelings. Thats time&lt;b&gt; I First Discover the Web with an Mobile Handset.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;7) How did you hear about Mozilla and Mozilla Tamilnadu Community?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;First thing I&#39;m Verymuch Thankful to&lt;b&gt; (REP)  SyedKhaleel &lt;/b&gt;bro, because He Only Said About Firefox Student Ambassador Program and He only Introduced me Mozilla. He told me the links of MozillaWiki page, I Started following What he is Contributing  Towards Mozilla. When I Searched in Mozilla Wiki page, There I Found a &lt;b&gt;RAL&lt;/b&gt; Name &lt;b&gt;Mayur Patil&lt;/b&gt;, I Asked him about what can I do, What are contributions I Can do from my City, Who can Help me out, then he give an facebook link of &lt;b&gt;Mozillians Tamilnadu, &lt;/b&gt;So he Tell me to Follow the Page, They Posted an update about Weeks of Contributions in Mozillians Tamilnadu, I Participated and Learn Manythings from them. Then by &lt;b&gt;(REP) Viswa Prasath&lt;/b&gt; Guided me more by Shaping my Contribution towards mozilla. He had given me So many Ideas and Advices to me. Thanks to Mozilla Tamilnadu Community. And verymuch Thankful to Viswa Prasath bro,Naresh(REP) bro, and to my Friend RAL Karthickeyan too.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;8) How and why did you start contributing to Mozilla?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;I&#39;m verymuch Intrested to Contribute towards Mozilla. Because there are many Computer Science Students in myCity or in my College, but I want to be an Real Engineer in myCity, Which means to be an Thoughtful Engineer, Working with Technological Internet of things, Contributing towards OpenSource projects. So I choosen Mozilla. When I Started Following SyedKhaleel bro, he Teached me more about Localisation(&lt;b&gt;L10&lt;/b&gt;), He conducted Several Events in our Hometown Viluppuram, I Participated and I attended the  Many events in Tamilnadu, Hyderabad, kerala etc. and contributed to L10n too. Then Im Verymuch Interested in Blogging and Documentation, I Started My Contribution towards&lt;b&gt; MDN&lt;/b&gt; and then Im  intrested more in Testing &amp;amp; QA. So Now Im  Activiely Contributing to&lt;b&gt; QA. &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;9) What’s the contribution you’re the most proud of?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The Contribution made me Proud is that When Im Made an meetup and Made an Event in Thiruvannamalai for the SKP College Students and Recurit 40 new Students in FSA Program and mozilla Too. That Contribution is much Loved by Mozilla and They Given me&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;FSA of the Month &lt;/b&gt;recognition received from mozilla in WorldWide. Then I So much Excited to do more Contributions towards Mozilla in QA pathways and Made Several Events too. Then I Surprised to get recognition as &lt;b&gt;FSA Superstars &lt;/b&gt;in Mozilla. These Two things Prouded  me Most.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;10) What advice would you give to someone who is new and interested in contributing to Mozilla?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;i&gt;Learn fully, Read the Activities of Exciting FSA’s or Read the Blogposts of FSA and Reps too.  Contribute More then Make an huge Event, got Recognition or Proof of Identification from Mozilla&lt;/i&gt;&lt;/b&gt; then request the College management. Because most of the &lt;b&gt;&lt;i&gt;Colleges expect proofs &lt;/i&gt;&lt;/b&gt;to execute such things like Building Community etc.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;11) If you had one word or sentence to describe Mozilla, what would it be?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Best Place for the OpenWeb &lt;/b&gt;and Best Place for Learning Morethings about openSource Contribution by all pathways. Best Place for all College Students to &lt;b&gt;Gain More Experience&lt;/b&gt; in Contribution over OpenSource and &lt;b&gt;Exploring&lt;/b&gt; their Experience in this world.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;12) What exciting things do you envision for you and Mozilla in the future?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The NewContributors or New FSA can be Handled by Senior FSA or by RAL or by REP. So they can Easily Contribute to any parts of Mozilla. So It can make an Healthy Community or it can make an Good Knowledge Sharing platform.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;13) Is there anything else you&#39;d like to say or add to the above questions?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;FSA program and Mozilla Communities all over the world can make the Students Life more better then they think. It is the Best Part of Mozilla.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;15) Please tell us more about your community. Is there anything you find particularly interesting or special about it?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Mozilla Tamilnadu Community is always think unique, Because they will follow all the contributors work, and mentoring them in a RightWay what all the contributors  are Intrested, what they needed, guide them in any pathways.That is the Special One about MozillaTN Community.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;16) What’s your best memory with your fellow community members?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;The Best Memory is When I Attended MozCoffeeEvents in Viluppuram and Chennai, I meeted more new Contributors and exciting contributors too. I Learned more things, gained more experience with @khaleel bro, @Viswa bro, @Naresh bro, @karthic frnd, @Abhiram @gautham bro @vigneshwar bro @Sarath frnd @Balaji frnd etc. Im Verymuch Thankful to those frnds. Thanks to MozillaTamilnadu Community Too.&lt;/p&gt;
+</description>
+        
+        <pubDate>Wed, 24 Feb 2016 21:34:17 +0530</pubDate>
+        <link>http://mozillatn.github.io/blog/contributor%20spotlight/adam-is-free-software-activist-and-prefers-quality-more-than-quantity/</link>
+        <guid isPermaLink="true">http://mozillatn.github.io/blog/contributor%20spotlight/adam-is-free-software-activist-and-prefers-quality-more-than-quantity/</guid>
+      </item>
+    
+      <item>
+        <title>PRIVACY CAMPAIGN @ SASTRA HOSTEL</title>
+        
+        
+          <description>&lt;p&gt;You can also spend Good times in Hostel with your Friends, proved by our Contributor Makilan. He shared his knowledge during his after college hours in his hostel to his friends (second family in College life)&lt;br /&gt;
+&lt;img class=&quot;alignnone size-full wp-image-457&quot; src=&quot;/assets/makilan.jpg&quot; alt=&quot;makilan.jpg&quot; width=&quot;632&quot; height=&quot;474&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Check out his blog &lt;a href=&quot;https://selvamakilan.wordpress.com/2016/01/22/privacy-campaign-sastra-hostel/&quot; target=&quot;_blank&quot;&gt;post here&lt;/a&gt;. One of the Most exciting thing about his contribution is he also wrote about his experience in &lt;a href=&quot;https://selvamakilan.wordpress.com/2016/01/26/sastra-%E0%AE%B5%E0%AE%BF%E0%AE%9F%E0%AF%81%E0%AE%A4%E0%AE%BF%E0%AE%AF%E0%AE%BF%E0%AE%B2%E0%AF%8D-%E0%AE%A4%E0%AE%A9%E0%AE%BF%E0%AE%AF%E0%AF%81%E0%AE%B0%E0%AE%BF%E0%AE%AE%E0%AF%88-%E0%AE%AA%E0%AE%BF/&quot; target=&quot;_blank&quot;&gt;Tamil &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+        
+        <pubDate>Fri, 29 Jan 2016 17:00:16 +0530</pubDate>
+        <link>http://mozillatn.github.io/blog/fsa%20activities/privacy-campaign-sastra-hostel/</link>
+        <guid isPermaLink="true">http://mozillatn.github.io/blog/fsa%20activities/privacy-campaign-sastra-hostel/</guid>
+      </item>
+    
+      <item>
+        <title>Awesome Many FSA Got Badges</title>
+        
+        
+          <description>&lt;p&gt;Last week, Firefox Student Ambassador team has released badges for FSA&#39;s who applied and meet criteria. It is awesome we have some of our MozillaTN contributor who got spotlighted there.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Senior FSA&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Mohammed Adam&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Junior FSA&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Venkat Raman&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Trainee FSA&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Tharun Rajendran&lt;/li&gt;
+&lt;li&gt;Mohammad Aamir&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;alignnone size-full wp-image-440&quot; src=&quot;/assets/badges.jpg&quot; alt=&quot;badges.jpg&quot; width=&quot;599&quot; height=&quot;502&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;We are very excited and we will be having more concentration on Campus in upcoming days. Very are creating exciting things for FSA in upcoming days stay tuned.&lt;/p&gt;
+</description>
+        
+        <pubDate>Fri, 29 Jan 2016 16:27:42 +0530</pubDate>
+        <link>http://mozillatn.github.io/blog/awesome-many-fsa-got-badges/</link>
+        <guid isPermaLink="true">http://mozillatn.github.io/blog/awesome-many-fsa-got-badges/</guid>
+      </item>
+    
+      <item>
+        <title>Mozilla Leadership Summit</title>
+        
+        
+          <description>&lt;p&gt;Last week Mozilla Organised &quot;Mozilla Leadership summit&quot;, in that two of our contributors Gautham Raj and Khaleel participated. The theme of the summit was around improving our leadership skills and also Improving the community through Campus Campaign activities and Connected devices.&lt;/p&gt;
+&lt;p&gt;Our Contributor, Gautham Raj shared his vast learning in his &lt;a href=&quot;http://mozraj.blogspot.in/2016/01/my-reflections-on-mozilla-leadership.html&quot; target=&quot;_blank&quot;&gt;blog&lt;/a&gt;. He is also interested to get questions we contributor have. Shoot him mail or telegram chat without fail.&lt;/p&gt;
+</description>
+        
+        <pubDate>Fri, 29 Jan 2016 16:09:16 +0530</pubDate>
+        <link>http://mozillatn.github.io/blog/contributor%20post/mozilla-leadership-summit/</link>
+        <guid isPermaLink="true">http://mozillatn.github.io/blog/contributor%20post/mozilla-leadership-summit/</guid>
+      </item>
+    
+  </channel>
+</rss>

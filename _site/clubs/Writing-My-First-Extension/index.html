@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="google-site-verification" content="ZfPaSlr3bwFrxIPqW-2BYwe7bEGwZF8SaJ1kj8UX88A" />
+  <title>MozillaTN - Writing My First Extension (Firefox Add-ons)</title>
+  <link rel="shortcut icon" href="/assets/images/favicon.ico">
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="alternate" type="application/rss+xml" title="My Blog" href="/rss.xml">
+  <link rel="stylesheet" href="/assets/css/highlight.css">
+</head>
+<body>
+
+  <nav class="main-nav">
+        <a href="/"> Home </a>
+            <a href="/blog">Blog </a>
+            <a href="/cal">Events</a>
+            <a href="/contact">Event Request </a>
+</nav>
+
+
+  
+
+  <section id="wrapper" class="">
+    <script src="https://apis.google.com/js/platform.js" async defer></script>
+<article class="post">
+    <header>
+        <h1>Writing My First Extension (Firefox Add-ons)</h1>
+        <h2 class="headline">March 10, 2016</h2>
+    </header>
+    <section id="post-body">
+        <p>In last post I was writing about <a href="">Getting Started with WebExtension</a>. Its very exicting to learn something new in Web each and everyday. And as a developer the feel when we know our software (General term you can replace with WebExtension)  is going to reach many users its awesome feeling.</p>
+
+<p>Often many times I have the habit of visiting some website daily and very frequently. So I decided to have top three websites I visit and open them in a single click. I developed an Add-on which will be opening the websites choosen.</p>
+
+<p>So the main API which do this action is n</p>
+
+<blockquote>
+  <p><em>chrome.tabs.create({“url”: chrome.extension.getURL(domain)});</em></p>
+</blockquote>
+
+<p>The above API is for Firefox Add-on and for Chrome we have slightly little bit different API</p>
+
+<blockquote>
+  <p><em>chrome.tabs.create({“url”: domain});</em></p>
+</blockquote>
+
+<p>And in the manifest file there was a minor change, the below line should be there in the Firefox Extension while it need not be there in the Chrome manifest file.</p>
+
+<p><code class="highlighter-rouge">"applications": {
+    "gecko": {
+      "id": "shihan.viswa@gmail.com"
+    }
+  },</code></p>
+
+<p>You can download the <a href="https://github.com/iamVP7/MyExtensions/tree/master/tabopen">Source code</a> of this Add-on and use for your favorite top website which you want quick access.</p>
+
+<p>In the upcoming post will share more details about the code flow of this Extension and also we can try different API.</p>
+
+    
+
+	
+
+</section>	
+</article>
+<footer id="post-meta" class="clearfix">
+	    
+	<a href="http://twitter.com/iamvp7">
+        <img class="avatar" src="http://www.gravatar.com/avatar/41c39033134359ca0171685f5171d298">
+        <div>
+            <span class="dark">Viswaprasth</span>
+            <span>WebExtensions Contributor</span>
+        </div>
+    </a>
+<p>Posted with <i class="fa fa-tags"></i>: <a href="/blog/tag/addons/">Add-ons</a>, <a href="/blog/tag/firefox/">Firefox</a></p>
+    <section id="sharing">
+        <a class="twitter" href="https://twitter.com/intent/tweet?text=http://mozillatn.github.io/clubs/Writing-My-First-Extension/ - Writing My First Extension (Firefox Add-ons) by @MozillaTN   #addons   #firefox "><span class="icon-twitter"> Tweet</span></a>
+
+<a class="facebook" href="#" onclick="
+    window.open(
+      'https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),
+      'facebook-share-dialog',
+      'width=626,height=436');
+    return false;"><span class="icon-facebook-rect"> Share</span>
+</a>
+
+
+
+    </section>
+</footer>
+
+<nav id="post-nav">
+    
+    
+</nav>
+<!-- Disqus comments -->
+
+    <div class="archive readmore">
+        <h3>Comments</h3>
+        <section class="disqus">
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+        var disqus_shortname = 'MozillaTN';
+        var disqus_developer = 0; // developer mode is on
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</section>
+    </div>
+
+
+<!-- Archive post list -->
+
+
+
+
+
+  </section>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script src="/assets/js/main.js"></script>
+  <script src="/assets/js/highlight.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script>
+
+
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-63310670-1', 'auto');
+    ga('send', 'pageview');
+  </script>
+</body>
+</html>
+
+
+

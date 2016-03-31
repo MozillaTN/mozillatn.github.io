@@ -1,0 +1,45 @@
+name: MozillaTN 
+description: Mozilla Tamilnadu Community Website, highlights more about contributors contribution and tutorials to get started with Community contribution.
+meta_description: "Mozilla Tamilnadu Community Website"
+gems: [jekyll-paginate, jekyll-gist]
+aboutPage: true
+blogPage: true
+
+
+highlighter: rouge
+
+paginate: 5
+paginate_path: "/page:num" 
+baseurl: /
+domain_name: 'http://mozillatn.github.io'
+google_analytics: 'UA-63310670-1'
+disqus: true
+disqus_shortname: 'MozillaTN'
+
+# Details for the RSS feed generator
+url:            'http://mozillatn.github.io'
+author:         'mozillatn'
+authorTwitter:  'MozillaTN'
+
+permalink:      /:categories/:title/
+
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+    -
+        scope:
+            path: ""
+            type: drafts
+        values:
+            layout: post
+

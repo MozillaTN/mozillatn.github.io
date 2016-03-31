@@ -1,0 +1,19 @@
+<nav class="main-nav">
+    {% if page.url != "/index.html" %}
+        <a href="{{ site.baseurl }}"> Home </a>
+    {% endif %}
+
+    {% if page.url != "/blog/" %}
+            <a href="{{ site.baseurl }}blog">Blog </a>
+    {% endif %}
+
+
+
+    {% if page.url != "/cal/" %}
+            <a href="{{ site.baseurl }}cal">Events</a>
+    {% endif %}
+
+    {% if page.url != "/contact/" %}
+            <a href="{{ site.baseurl }}contact">Event Request </a>
+    {% endif %}
+</nav>
