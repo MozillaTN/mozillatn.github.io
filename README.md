@@ -5,7 +5,7 @@ You can visit us at http://mozillatn.github.io/
 
 ## Adding Contributor as author
 ####authornick:
-name: author-name<br />
+>name: author-name<br />
 >twitter: author-twitterhandle<br />
 >description: about-author <br />
 >gravatar: author-gravatar pic <br />
