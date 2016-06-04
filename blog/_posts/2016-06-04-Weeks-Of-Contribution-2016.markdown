@@ -23,6 +23,6 @@ But we are not going to restrict with these places alone, we are inviting contri
 
 **Last Date for Submission:** *15 June 2016*
 
-We are hearing you feedbacks and comments, use #mozillatn for community related things you do and #mozillatn #woc2016 for Weeks of Contribution, so we can track easily
+We are hearing you feedbacks and comments, use **#mozillatn** for community related things you do and **#mozillatn #woc2016** for Weeks of Contribution, so we can track easily
 
 We are availabel in [Twitter](https://twitter.com/mozillatn), [Facebook](https://www.facebook.com/MozillaTN/), [Telegram](https://telegram.me/mozillatn)
