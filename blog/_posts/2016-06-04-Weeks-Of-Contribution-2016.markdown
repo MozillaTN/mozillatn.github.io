@@ -23,6 +23,24 @@ But we are not going to restrict with these places alone, we are inviting contri
 
 **Last Date for Submission:** *15 June 2016*
 
+For Sure we want many contributors to take knowledge to their friends, but we wanted to track how all contributors contribute and also want to assign tasks to everyone who participate.
+
+For convenience & sharing knowledge uniformly we are going to request Trainers to have offline events on Saturdays.
+
+So We are planning to start on July 1st Weekend and plan as follows, but trainers can change dates so will be easier for them to teach.
+
+- July 2nd - Localization
+- July 16th - Firefox Nigthly (QA)
+- July 30th - SUMO
+-  August 13th - Add-ons (using Webextension API)
+
+So for Trainers before event we will training on these areas, the dates as follows
+
+- June 29th - Localization
+- July 13th - Firefox Nigthly (QA)
+- July 27th - SUMO
+- August 10th - Add-ons (using Webextension API)
+
 We are hearing you feedbacks and comments, use **#mozillatn** for community related things you do and **#mozillatn #woc2016** for Weeks of Contribution, so we can track easily
 
 We are availabel in [Twitter](https://twitter.com/mozillatn), [Facebook](https://www.facebook.com/MozillaTN/), [Telegram](https://telegram.me/mozillatn)
