@@ -373,7 +373,7 @@ thead th,th {
 
 img {
 	width: 90%;
-	max-width: 90%;
+	max-width: 100%;
 	border-radius: 3px;
 	height:572px;
 	left:15%;
