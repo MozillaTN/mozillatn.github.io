@@ -1,6 +1,6 @@
 ---
 title:  "Weeks of Contribution 2016"
-date:   2016-06-04 17:20:00
+date:   2016-06-04 17:20:00 +0530
 description: Summer Learning program by MozillaTN Community
 categories: blog
 tags: [community]
