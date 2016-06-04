@@ -13,6 +13,7 @@ Last year Mozilla Tamilnadu community contributors started an initiative  called
 We are again bringing this back to bring awesome set of contributors to Mozilla again. Last year we had some difficulties in teaching to our contributors, as we had most of the things in online. This time we are making a small change. We are going to bring Weeks of Contribution near you in different community spaces  and Colleges. Interested people can goto the spaces and learn. As of now the plan is to start on July 1st Weekend and have in the alternative weeks, and trainers will be teaching regarding Localisation, Support Mozilla, Add-ons development, Quality Assurance. 
 
 **As of now community spaces where Weeks of Contribution going to happen are as follows**
+
 - Villupuram(Bodhi Academy)
 - Erode (F-infotech)
 - Madurai (Community Space)
