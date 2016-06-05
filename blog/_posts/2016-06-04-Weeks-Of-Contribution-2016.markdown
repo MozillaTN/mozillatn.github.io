@@ -42,6 +42,6 @@ So for Trainers before event we will training on these areas, the dates as follo
 - July 27th - SUMO
 - August 10th - Add-ons (using Webextension API)
 
-We are hearing you feedbacks and comments, use **#mozillatn** for community related things you do and **#mozillatn #woc2016** for Weeks of Contribution, so we can track easily
+We are hearing you feedbacks and comments, use **#mozillatn** for community related things you do and **#mozillaTNwoc16** for Weeks of Contribution, so we can track easily
 
 We are availabel in [Twitter](https://twitter.com/mozillatn), [Facebook](https://www.facebook.com/MozillaTN/), [Telegram](https://telegram.me/mozillatn)
