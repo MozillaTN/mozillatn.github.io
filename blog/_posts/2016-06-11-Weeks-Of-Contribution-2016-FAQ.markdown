@@ -87,6 +87,7 @@ Yes, We Mentors (4) are planning to restrict upto 20 Trainers. We need to focus 
 - For Trainers alone we are planning to give recommendation on Linkedin
 
 **Where will the mentors train the trainers?**
+
 - All the trainers will be trained by Mentors in Closed Google Hangouts call, we also will prefer to use Etherpad to get the questions
 - If many Prefer to learn in IRC channel we will go with IRC
 
