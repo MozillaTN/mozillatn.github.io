@@ -53,7 +53,7 @@ author: iamvp7
 - On The same day, the Presentations in the Mail for those who attended, so the same presentation can be used for Training other contributors Under Trainers.
 
 
-** Where will we trainers do the WOC? In specific locations or our colleges or any place?**
+**Where will we trainers do the WOC? In specific locations or our colleges or any place?**
 
 - WOC is fully a volunteer initiative, every one here are contributors, there can be different places to share knowledge. It is upto Trainer to choose any offline place.
 
