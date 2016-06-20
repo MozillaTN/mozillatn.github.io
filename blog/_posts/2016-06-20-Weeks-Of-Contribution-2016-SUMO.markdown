@@ -7,6 +7,8 @@ tags: [community]
 author: karthic
 ---
 
+![Weeks of Contribution SUMO]({{ site.url }}/assets/SUMO_TN.jpg)
+
 **What is SUMO ?**
 
 SUMO (SUpport.MOzilla.org) is a global gathering of many enthusiastic and dedicated people whose passion is to help all users of Mozilla's software and products. SUMO operates on the same principle that Mozilla does: a core of staff coordinating the operations and an army of contributors powering them.
