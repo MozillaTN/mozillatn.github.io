@@ -1,3 +1,11 @@
+---
+title:  "Weeks of Contribution 2016 - Localization"
+date:   2016-06-20 21:50:00 +0530
+description: Mozilla Tamilnadu Community Localization event plans
+categories: blog
+tags: [community]
+author: karthic
+---
 <b>What is SUMO ?</b>
 
 SUMO (SUpport.MOzilla.org) is a global gathering of many enthusiastic and dedicated people whose passion is to help all users of Mozilla's software and products. SUMO operates on the same principle that Mozilla does: a core of staff coordinating the operations and an army of contributors powering them.
