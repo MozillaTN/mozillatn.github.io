@@ -1,7 +1,7 @@
 ---
-title:  "Weeks of Contribution 2016 - Localization"
+title:  "Weeks of Contribution 2016 - SUMO"
 date:   2016-06-20 21:50:00 +0530
-description: Mozilla Tamilnadu Community Localization event plans
+description: Mozilla Tamilnadu Community Support Mozilla event plans
 categories: blog
 tags: [community]
 author: karthic
