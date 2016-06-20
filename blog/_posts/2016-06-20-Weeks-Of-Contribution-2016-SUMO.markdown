@@ -7,7 +7,7 @@ tags: [community]
 author: karthic
 ---
 
-->![Weeks of Contribution SUMO]({{ site.url }}/assets/SUMO_TN.jpg)<-
+![Weeks of Contribution SUMO]({{ site.url }}/assets/SUMO_TN.jpg)
 
 **What is SUMO ?**
 
