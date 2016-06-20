@@ -21,14 +21,14 @@ With over 30 million visits a month , we help users around the world by providin
 With content in 74 languages, SUMO has global reach. Almost 60% of our visitors seek answers in languages other than English.
 
 **Contribution Areas:**
-- **Write Help Articles for the Knowledge Base**- The KB is the main point of contact for our users that receives 30+ million views a month. Base articles are created in English.
+- *Write Help Articles for the Knowledge Base* - The KB is the main point of contact for our users that receives 30+ million views a month. Base articles are created in English.
 
-- **Answer Questions in the Support Forum** - The forums are our User to User help channel manned by our amazing contributors. Users add 150-200 questions a day.
+- *Answer Questions in the Support Forum* - The forums are our User to User help channel manned by our amazing contributors. Users add 150-200 questions a day.
 
-- **Translate Articles to your Languages**- Our articles are localized into 74 different languages. Nearly 60% of our visitors don’t see the site in English.
+- *Translate Articles to your Languages* - Our articles are localized into 74 different languages. Nearly 60% of our visitors don’t see the site in English.
 Help users in Social Channels
 
-- **Social Media Support** - Social media helps Firefox better understand its users. There are about 14,000 questions/comments on Firefox social media platforms every month. More often than not, when people experience issues with Firefox, they tend to share them on Twitter and Facebook before submitting bugs or seeking out solutions from SUMO. We're here to help, share our knowledge and build relationships that will empower our users to get the most out of their Firefox.
+- *Social Media Support* - Social media helps Firefox better understand its users. There are about 14,000 questions/comments on Firefox social media platforms every month. More often than not, when people experience issues with Firefox, they tend to share them on Twitter and Facebook before submitting bugs or seeking out solutions from SUMO. We're here to help, share our knowledge and build relationships that will empower our users to get the most out of their Firefox.
 
 - **Army of Awesome**
 
