@@ -28,7 +28,7 @@ came forward to build Mozilla Tamilnadu Community. A special mention to Gowtham 
 who worked on this idea. The fruits of our hard work were explained by the following statistics
 
 - 1500 Facebook Likes
-- 750 Twitter Followers
+- 165 Twitter Followers
 - 200+ followers in Telegram
 - 100+ unique visitors to MozillaTN website
 - 2 Online Meetups each month
