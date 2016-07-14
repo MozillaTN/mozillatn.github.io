@@ -12,8 +12,8 @@ Hello Mozillians,
 we are here to share about MozillaTN's social media team works and goals. before that let me
 introduce the members of the team 1.Makilan, 2.Gowtham Venkat and Kanitha .
 
-<img height="20%" width="100%" src="https://github.com/MozillaTN/mozillatn.github.io/blob/master/assets/mozilltn_socialmediateam.png>
-
+<img height="20%" width="100%" src="https://github.com/MozillaTN/mozillatn.github.io/blob/master/assets/mozilltn_socialmediateam.png />
+ 
 During the startup of the social media team, the stats were like
 
 - Facebook - 419 Likes 30- Reach Avg
