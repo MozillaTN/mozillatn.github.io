@@ -19,7 +19,7 @@ During the startup of the social media team, the stats were like
 - Facebook - 419 Likes 30- Reach Avg
 - Twitter -   113 Followers
 - Website -  5 Visits per day Avg
-- Telegram Channel -  64 Followers 40 reach Avg
+- Telegram Group -  64 Members 
 
 As a result of a collective idea from the team, Community was brought into a single group through the
 integration of city level pages so we had successfully merged the various city pages of  Chennai,
@@ -29,7 +29,8 @@ who worked on this idea. The fruits of our hard work were explained by the follo
 
 - 1500 Facebook Likes
 - 165 Twitter Followers
-- 200+ followers in Telegram
+- 64 followers in Telegram Channel
+- 135 Members in Telegram Group
 - 100+ unique visitors to MozillaTN website
 - 2 Online Meetups each month
 - Localizing blog posts in Tamil
