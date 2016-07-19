@@ -1,0 +1,24 @@
+<!--<div id="post-meta" class="clearfix">
+        {% assign author = site.data.people[page.author] %}
+        <a href="http://twitter.com/{{ author.twitter }}">
+        <img class="avatar" src="{{ author.gravatar}}">
+        </a>
+	<div>
+            <span class="dark">About {{ author.name }}</span>
+            <span>{{ author.description }}</span>
+        </div> 
+</div>
+-->
+<div class="profile">
+    <section id="wrapper">
+        <header id="header">
+            <a href="{{ site.baseurl }}about">
+                <img id="avatar" class="2x" src="{{ author.gravatar}}"/>
+            </a>
+            <h1>{{ author.name }}</h1>
+            <h2>{{ author.description }}</h2>
+        </header>
+    </section>
+</div>
+
+
