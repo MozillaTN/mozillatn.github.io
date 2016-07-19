@@ -2,7 +2,7 @@ name: MozillaTN
 description: Mozilla Tamilnadu Community Website, highlights more about contributors contribution and tutorials to get started with Community contribution.
 meta_description: "Mozilla Tamilnadu Community Website"
 gems: [jekyll-paginate, jekyll-gist]
-aboutPage: true
+aboutPage: false
 blogPage: true
 
 
