@@ -33,13 +33,13 @@ archive: true
 </article>
 <footer id="post-meta" class="clearfix">
 	{% assign author = site.data.people[page.author] %}    
-	<a href="http://twitter.com/{{ author.twitter }}">
+	<a href="/about/{{ page.author }}">
         <img class="avatar" src="{{ author.gravatar}}">
-        <div>
+        
+	<div>
             <span class="dark">{{ author.name }}</span>
-            <span>{{ author.description }}</span>
         </div>
-    </a>
+	</a>
 <p>{{ tags_content }}</p>
     <section id="sharing">
         {% include share.html %}
