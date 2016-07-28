@@ -1,0 +1,15 @@
++---
+ +title: About Karthickeyan
+ +permalink: about/karthickeyan
+ +author: Karthickeyan
+ +---
+ +
+ +
+ +{% include about.html %}
+ +
+ +A proud mozillian, product developer by profession,avid writer, frequent speaker, loves humor,horror,thriller genre movies.
+ +Loves to teach, build and facilitate a team. Contributes as RAL for FSA program, SUMO ta-In Locale lead,AMO Feature board member. 
+ +
+ +ping me @hellokarthic on telegram
+ +
+ +{% include authorpost.html %}
