@@ -1,6 +1,6 @@
 ---
 title:  "Weeks of Contribution 2016 - Localization Update"
-date:   2016-06-17 01:20:00 +0530
+date:   2016-08-03 01:20:00 +0530
 description: Mozilla Tamilnadu Community Localization Event Report
 categories: blog
 tags: [community]
