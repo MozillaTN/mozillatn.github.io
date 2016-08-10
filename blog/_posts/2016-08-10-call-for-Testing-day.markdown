@@ -1,5 +1,5 @@
 ---
-title:  "Firefox 49.0a2 Aurora Test day invitation"
+title:  "Firefox 49.0b3 Beta Test day invitation"
 date:   2016-08-10 21:50:00 +0530
 description: Mozilla Tamilnadu Community Testing day invitation
 categories: blog
