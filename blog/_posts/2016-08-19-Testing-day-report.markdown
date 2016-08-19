@@ -1,6 +1,6 @@
 ---
 title:  "Result - Firefox 49.0b3 Beta Test day "
-date:   2016-07-21 21:50:00 +0530
+date:   2016-08-19 21:50:00 +0530
 description: Mozilla India Community Testing day result
 categories: blog
 tags: [community]
