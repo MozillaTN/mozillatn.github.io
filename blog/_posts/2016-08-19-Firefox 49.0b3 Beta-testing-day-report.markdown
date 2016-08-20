@@ -15,14 +15,14 @@ author: prasanthp96
 <p>With more than 10 awesome contributors, the testday took place. Here are the bug hunters.</p>
 <ul>
 	<li><a href="https://twitter.com/simu17feb">Md Shahbaz Alam</a></li>
-	<li><a href="https://twitter.com/paarilovely">Paartibalaji</a></li>
+	<li><a href="https://twitter.com/paarilovely">Paarttipaabhalaji</a></li>
 	<li><a href="https://twitter.com/selva_makilan">Selva Makilan</a></li>
 	<li><a href="https://twitter.com/bhuvanakotees1">Bhuvana Meenakshi</a></li>
 	<li><a href="https://twitter.com/surentharan7">Surentharan</a></li>
 	<li><a href="https://twitter.com/nagarajnaidu921">Nagaraj Naidu</a></li>
 	<li><a href="https://twitter.com/ashlirosemathew">Ashly Rose Mathew</a></li>
 	<li><a href="https://twitter.com/Kvilpura">Kamlesh Vilpura</a></li>
-	<li><a href="">Dinesh Aj</a></li>
+	<li><a href="https://twitter.com/Dhinesh_kumar_M">Dinesh Aj</a></li>
 	<li><a href="">Pavithra </a></li>
 </ul>
 <br>
