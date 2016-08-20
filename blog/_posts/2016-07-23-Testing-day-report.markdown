@@ -16,7 +16,7 @@ author: prasanthp96
 <ul>
 	<li><a href="https://twitter.com/simu17feb">Md Shahbaz Alam</a></li>
 	<li><a href="https://twitter.com/NilimaC04">Nilima Chavan</a></li>
-	<li><a href="https://twitter.com/paarilovely">Paartibalaji</a></li>
+	<li><a href="https://twitter.com/paarilovely">Paarttipaabhalaji</a></li>
 	<li><a href="https://twitter.com/selva_makilan">Selva Makilan</a></li>
 	<li><a href="https://twitter.com/bhuvanakotees1">Bhuvana Meenakshi</a></li>
 </ul>
