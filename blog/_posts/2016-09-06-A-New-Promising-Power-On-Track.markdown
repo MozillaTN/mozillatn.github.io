@@ -26,19 +26,20 @@ This is a symbolic representation of incoming women strength to our community. M
 
 The list of contributors and their suggestions in pontoon are:
 
-S.no      Name of the Contributor       Suggestions made
-1          Ashly Rose Mathew M                 253
-2           Fahima Zulfath. A                  139
-3              Pavithra R                      117
-4              Aishwarya B                     113
-5            Vaishnavi Devi R                   81
-6                Vinusha                        75
-7          krithika sowbarnika R                53
-8           Bhuvana Meenakshi K                 48
-9              Vaishanavi O                     37
-10            Shanmuga priya                    34
-11                Shiny                         25
-12               Renuga                         21
+S.no  |    Name of the Contributor   |    Suggestions made
+------|------------------------------|----------------------
+1     |     Ashly Rose Mathew M      |           253
+2     |      Fahima Zulfath. A       |           139
+3     |         Pavithra R           |           117
+4     |         Aishwarya B          |           113
+5     |       Vaishnavi Devi R       |            81
+6     |           Vinusha            |            75
+7     |     krithika sowbarnika R    |            53
+8     |      Bhuvana Meenakshi K     |            48
+9     |         Vaishanavi O         |            37
+10    |        Shanmuga priya        |            34
+11    |            Shiny             |            25
+12    |            Renuga            |            21
  
 
  
