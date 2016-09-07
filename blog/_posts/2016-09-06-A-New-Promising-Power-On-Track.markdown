@@ -4,7 +4,7 @@ date:   2016-09-06 06:50:00 +0530
 description: Mozilla Tamilnadu Community WoMoz participation in localisation
 categories: blog
 tags: [community]
-author: Ashlyrose
+author: ashly_rose
 ---
 *'It took me quite a long time to develop a voice, and now I have it, I am not going to be silent.'* 
  
