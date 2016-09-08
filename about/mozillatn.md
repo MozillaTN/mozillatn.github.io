@@ -31,8 +31,13 @@ And remember to code.
 Buckle up for your journey into the world of open source. 
 
 Get started today
-(Pls. Add MozTN social media links)
+We are available in Social Media Channels
 
+ - [Our Website](http://mozillatn.github.io/)
+ - [Twitter](https://twitter.com/mozillaTN)
+ - [Facebook](https://www.facebook.com/MozillaTN/)
+ - [Telegram](https://telegram.me/mozillatn)
+ - [Google Groups](https://groups.google.com/forum/#!forum/mozillianstn)
 
 
 {% include authorpost.html %}
