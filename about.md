@@ -1,12 +1,3 @@
----
-title: About MozillaTN
-permalink: about/mozillatn
-author: mozillatn
----
-
-{% include about.html %}
-
-
 Mozilla Tamilnadu is a volunteer community functioning under Mozilla India. 
 
 We believe in keeping the power of web in people's hands. We envision a world where web is free* and fair. 
