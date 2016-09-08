@@ -1,3 +1,8 @@
+---
+title: About
+permalink: about/
+profile: true
+---
 Mozilla Tamilnadu is a volunteer community functioning under Mozilla India. 
 
 We believe in keeping the power of web in people's hands. We envision a world where web is free* and fair. 
