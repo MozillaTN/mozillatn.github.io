@@ -31,6 +31,8 @@ One main thing we are going to do is, sharing the features about these add-ons i
  - **Content team:** Ashly, Varsheni, Soundarya - Drafting Contents for the blog explaining the features of the addons for helping users to
    understand about them.
  -   **Design team:** Nirmal Gl, Bhuvana - Designing posters for each post and making users to install add-ons.
+ 
+ 
 
 
 
