@@ -3,7 +3,7 @@ title:  "Firefox Test Pilot"
 date:   2016-09-11 13:30:00 +0530
 description: Introduction to Firefox test pilot addon
 categories: blog
-tags: [firefox] [testpilot]
+tags: [community]
 author: karthic
 ---
 **Let's get started with Firefox test pilot**
