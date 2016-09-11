@@ -36,7 +36,7 @@ One main thing we are going to do is, sharing the features about these add-ons i
 
  *Share this blog posts made by our contributors to your friends and family members so they can learn about these addons.*
 
- *Organize an install fest in your college, and let us know what others think about these add-ons.*
+ *Organize an install fest in your college and share your [contact details](https://goo.gl/forms/LldEokewgAoOWZku2) we will try to provide resources and useful link.*
 
  *If you are techie, go ahead and contribute to the codebase hosted on github.*
 
