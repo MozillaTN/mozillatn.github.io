@@ -28,24 +28,19 @@ One main thing we are going to do is, sharing the features about these add-ons i
 
  - **Team lead :** Karthickeyan - Drafting plans and helping others to know about the Test pilot initiative. 
  - **Social media :** Makilan - connecting with contributors in twitter and Facebook to Share knowledge about this project.
- - **Content team:** Ashly, Varsheni, Soundarya - Drafting Contents for the blog explaining the features of the addons for helping users to
-   understand about them.
+ - **Content team:** Ashly, Varsheni, Soundarya - Drafting Contents for the blog explaining the features of the addons for helping users to understand about them.
  -   **Design team:** Nirmal Gl, Bhuvana - Designing posters for each post and making users to install add-ons.
  
- 
-
-
-
 
 ***How to contribute ?*** 
 
-- *Share this blog posts made by our contributors to your friends and family members so they can learn about these addons.*
+ *Share this blog posts made by our contributors to your friends and family members so they can learn about these addons.*
 
-- *Organize an install fest in your college, and let us know what others think about these add-ons.*
+ *Organize an install fest in your college, and let us know what others think about these add-ons.*
 
-- *If you are techie, go ahead and contribute to the codebase hosted on github.*
+ *If you are techie, go ahead and contribute to the codebase hosted on github.*
 
-- *If you are localization expert please stay tuned to learn more about the opportunity to contribute in upcoming days.* 
+ *If you are localization expert please stay tuned to learn more about the opportunity to contribute in upcoming days.* 
 
 
 In this post we will be exploring more how to install Firefox Test Pilot Addons in our browser. Test pilot are amazing add-ons which are generally shared to users of Firefox and get feedback about them and will be implemented in Firefox on good reviews. It is very easy to enable Test pilot addons in our browser.
