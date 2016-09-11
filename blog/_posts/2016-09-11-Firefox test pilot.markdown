@@ -13,11 +13,13 @@ We, at Mozilla Tamilnadu community bring amazing new initiatives each and every 
 This time we are going to share more information about Firefox test pilot. 
 
 ***What is test pilot ?***
+
 Test Pilot is a series of stepping stones intended to take a rough concept to a shipping Firefox feature or Add-on.
 
 Test Pilot combines iterative prototyping, user research, and an opt-in user-facing testing platform. Experiments will go through phases which are designed to evaluate new feature concepts quickly and at low cost.
 
 ***What we are going to do ?***
+
 This initiative is to bring awareness about the test pilot add-ons and help other amazing Firefox users to get started with these essential and amazing tools and provide valuable feedback which in turn helps in the growth of Firefox. 
 
 One main thing we are going to do is, sharing the features about these add-ons in our community blog which help everyone to learn more about it and it's features.
@@ -35,13 +37,13 @@ One main thing we are going to do is, sharing the features about these add-ons i
 
 ***How to contribute ?*** 
 
-*Share this blog posts made by our contributors to your friends and family members so they can learn about these addons.*
+- *Share this blog posts made by our contributors to your friends and family members so they can learn about these addons.*
 
-*Organize an install fest in your college, and let us know what others think about these add-ons.*
+- *Organize an install fest in your college, and let us know what others think about these add-ons.*
 
-*If you are techie, go ahead and contribute to the codebase hosted on github.*
+- *If you are techie, go ahead and contribute to the codebase hosted on github.*
 
-*If you are localization expert please stay tuned to learn more about the opportunity to contribute in upcoming days.* 
+- *If you are localization expert please stay tuned to learn more about the opportunity to contribute in upcoming days.* 
 
 
 In this post we will be exploring more how to install Firefox Test Pilot Addons in our browser. Test pilot are amazing add-ons which are generally shared to users of Firefox and get feedback about them and will be implemented in Firefox on good reviews. It is very easy to enable Test pilot addons in our browser.
