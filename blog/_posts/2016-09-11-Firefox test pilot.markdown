@@ -32,11 +32,15 @@ One main thing we are going to do is, sharing the features about these add-ons i
 
 
 
+
 ***How to contribute ?*** 
 
 *Share this blog posts made by our contributors to your friends and family members so they can learn about these addons.*
+
 *Organize an install fest in your college, and let us know what others think about these add-ons.*
+
 *If you are techie, go ahead and contribute to the codebase hosted on github.*
+
 *If you are localization expert please stay tuned to learn more about the opportunity to contribute in upcoming days.* 
 
 
