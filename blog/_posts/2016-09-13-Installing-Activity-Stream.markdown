@@ -1,41 +1,15 @@
 ---
-title:  "Enable Firefox TestPilot Activity Stream & Contribute"
-date:   2016-09-13 13:30:00 +0530
-description: Steps  for Enabeling Activity Stream experiment and paths to contribute
+title:  "Timeline of Bookmarks"
+date:   2016-09-13 06:50:00 +0530
+description: Features of bookmark page in activity stream
 categories: blog
 tags: [community]
-author: iamvp7
+author: ashly_rose
 ---
-
-
-In previous [post]({{ site.url}}/blog/Firefox-test-pilot/) we have been discussing about Test Pilot project. In this post we will be discussing more about how to enable [Activity Stream](http://bit.ly/FxAcSt) after installing [Test Pilot](http://bit.ly/TNFxTp) Addon.
-
-**Now Steps to Enable [Activity Stream](http://bit.ly/FxAcSt).**
-
-- Visit [Activity Stream page](http://bit.ly/FxAcSt) 
-- Click on Activity Stream Button
+[Activity Stream](http://bit.ly/FxAcSt) for Firefox is a collection of all the things you do in the browser that you care about and is displayed in a rich and meaningful way in a single page. It shows rich content with images from recent pages, screenshots, downloads, closing sessions, notifications, and improve your results in the awesome bar. Eventually it hope to be the central feed of the things every user care about. This is currently available with the [Test Pilot](http://bit.ly/TNFxTp) Addon. You can [enable]({{site.url}}/blog/_posts/2016-09-13-Installing-Activity-Stream.markdown) it, after installing the test pilot add-on. The remarkable features of the [Activity Stream](http://bit.ly/FxAcSt) are visual redesign of Bookmark's page, your top Visited websites, trending stories from Pocket in Highlights section and playing videos from Youtube. This blog speaks on the characteristics of the bookmark page.
  
-
-You can also visit experiment pages by clicking experiment name in the Test Pilot Add-on icon
-
-![Test Pilot Experiments]({{ site.url }}/assets/test-pilot-icon.png)
-
-
-**Amazing Features**
-
-Activity Steam has some of the amazing features with it. The detailed information about these features will be shared in upcoming posts. Some of the features are listed below.
-
-- Visual Redesign of Bookmarks page
-- Your top Visited websites
-- Trending stories from Pocket in Highlights section
-- Playing videos from Youtube
+Searching is the source of exploring, but searching a topic in web sometimes ends in finding many new things. Remembering all those pages is really difficult. So a common technique used by everyone is bookmark. But when the count of pages we marked exceeds a certain level, finding the relevant page in the bookmark search becomes a task. Testpilot Activity stream is with a solution now. We have a *timeline for bookmarks* that list the bookmarks made by the user in a well organised way . This helps us to traverse through the list we stored if we know the time we saved it.
  
-
-
-![Test Pilot Experiments]({{ site.url }}/assets/youtube_activity_stream.png)
-
-**Contribution**
-
-- If you find any bug regarding Activity Stream, you can file in the [Github repo under issue tab](https://github.com/mozilla/activity-stream/issues)
-- If you want to discuss more and share your thoughts, visit [discourse](https://discourse.mozilla-community.org/c/test-pilot/activity-stream)
-- If you are coder and would like to fix bugs, start cloing Activity Stream [repo](https://github.com/mozilla/activity-stream)
+ ![Activity stream Bookmark page]({{ site.url }}/assets/activity_stream_bookmarks.png)
+ 
+Like the above screenshot the web pages marked by the users are grouped together as today, yesterday, last week, last month and so on towards the past. This helps us to find the pages which we have marked in very early days.
