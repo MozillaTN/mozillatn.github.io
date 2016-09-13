@@ -14,10 +14,12 @@ In previous [post]({{ site.url}}/blog/Firefox-test-pilot/) we have been discussi
 
 - Visit [Activity Stream page](http://bit.ly/FxAcSt) 
 - Click on Activity Stream Button
+ 
 
 You can also visit experiment pages by clicking experiment name in the Test Pilot Add-on icon
 
 ![Test Pilot Experiments]({{ site.url }}/assets/test-pilot-icon.png)
+
 
 **Amazing Features**
 
@@ -27,10 +29,13 @@ Activity Steam has some of the amazing features with it. The detailed informatio
 - Your top Visited websites
 - Trending stories from Pocket in Highlights section
 - Playing videos from Youtube
+ 
+
 
 ![Test Pilot Experiments]({{ site.url }}/assets/youtube_activity_stream.png)
 
 **Contribution**
+
 - If you find any bug regarding Activity Stream, you can file in the [Github repo under issue tab](https://github.com/mozilla/activity-stream/issues)
 - If you want to discuss more and share your thoughts, visit [discourse](https://discourse.mozilla-community.org/c/test-pilot/activity-stream)
 - If you are coder and would like to fix bugs, start cloing Activity Stream [repo](https://github.com/mozilla/activity-stream)
