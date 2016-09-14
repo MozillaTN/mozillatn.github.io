@@ -1,6 +1,6 @@
 ---
 title:  "Enable Firefox TestPilot Activity Stream & Contribute"
-date:   2016-09-13 13:30:00 +0530
+date:   2016-09-12 20:30:00 +0530
 description: Steps  for Enabeling Activity Stream experiment and paths to contribute
 categories: blog
 tags: [community]
