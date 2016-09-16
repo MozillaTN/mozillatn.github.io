@@ -7,10 +7,6 @@ tags: [community]
 author: soundaryak
 ---
 
-##Highlights
-
-
-
 An [Activity Stream](https://testpilot.firefox.com/experiments/activity-stream) is a list of recent activities performed by an individual, typically on a single website or a browser. Activity Stream for Firefox is a collection of all the things you do in the browser that you care about and visit often. Here, contents are shown with images based on your  recent pages, screenshots, downloads, closing sessions, notifications, and improve your experience. This provides a great way to interact with the contents and pages the user has used over short period of time.
 
 The Activity Stream will feature on the New Tab page and the Timeline page. This feature is now available as a [Test Pilot](https://testpilot.firefox.com/) add-on.
