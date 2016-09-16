@@ -1,7 +1,7 @@
 ---
-title:  "Introducing MozillaTN Open Twitter access to Amazing Contributors"
+title:  "MozillaTN Twitter access to Amazing Contributors"
 date:   2016-09-16 19:28:00 +0530
-description: About highlight feature in Activity Stream
+description: Introducing MozillaTN Open Twitter access to Amazing Contributors
 categories: blog
 tags: [community]
 author: iamvp7
