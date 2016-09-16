@@ -14,6 +14,8 @@ To get started, MozillaTN social Media team came forward to share twitter handle
 
 On sept 17 we have Software Freedom day which is a worldwide celebration of Free software. Almost all Mozilla Communities participate in this event, to promote  Open source contribution, Firefox and other Mozilla products & Vision. On this day two of our young contributors [Paarttipaabhalaji](https://twitter.com/paarilovely) and [Prashanth P](https://twitter.com/prasanthp96) are conducting big events in their college to promote Open source contribution.
 
+![Paarttipaabhalaji and Prashanth ]({{site.url}}/assets/paartha_prasanth.jpg)
+
 The outline  of agenda planned by them is as follows.
 - Introduction to Open source Contribution.
 - Contributing to Webcompat
