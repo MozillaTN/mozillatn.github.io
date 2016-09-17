@@ -1,0 +1,24 @@
+---
+title:  "Top Sites"
+date:   2016-09-17 19:28:00 +0530
+description: About Top Sites feature in Activity Stream
+categories: blog
+tags: [community]
+author: varsheni
+---
+[Activity Stream](http://bit.ly/FxAcSt) for Firefox is a collection/ bundle of things you do in browser that can  be displayed in a constructive and significant manner. This stream will make it easier to navigate through website and content faster. It helps you to rediscover the things you love the most on the web.
+ 
+One of the feature in Activity Stream is  displaying the most viewed websites. This feature will be featured on the New Tab page. You can find this add-on in the [Test Pilot](http://bit.ly/TNFxTp) page.
+ 
+This blog displays the most viewed website by the user (i.e the most viewed content or website used by the user). The format will be in the form of tiles where the user will click on a tile , which will link it to a specific website. At maximum, we can have 5 tiles. Each tile popping up to different websites. Each time you open a tab, you’ll see your top sites based on your bookmarks and history.
+
+![Top Sites 1](https://s15.postimg.org/o3ji804yz/activity_stream_topsites.png)
+
+An example for Top Sites is shown in the above [screenshot](https://s15.postimg.org/o3ji804yz/activity_stream_topsites.png).
+
+![Top Sites 2](https://s15.postimg.org/t4i60w47f/activity_stream_newtab.png)
+
+The above [screenshot](https://s15.postimg.org/t4i60w47f/activity_stream_newtab.png) shows how this feature will look like on the New Tab page.
+
+By using the activity stream, the user can traverse through the browsing history faster and find important Websites and rediscover the content quickly. This approach will help the user by saving time and find what they want.
+
