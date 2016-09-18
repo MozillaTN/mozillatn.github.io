@@ -12,13 +12,13 @@ One of the feature in Activity Stream is  displaying the most viewed websites. T
  
 This blog displays the most viewed website by the user (i.e the most viewed content or website used by the user). The format will be in the form of tiles where the user will click on a tile , which will link it to a specific website. At maximum, we can have 5 tiles. Each tile popping up to different websites. Each time you open a tab, you’ll see your top sites based on your bookmarks and history.
 
-![Top_Sites_1](http://oi65.tinypic.com/2vigg1v.jpg)
+![Top_Sites_1]({{ site.url}}/assets/top_sites.png)
 
-An example for Top Sites is shown in the above [screenshot](http://oi65.tinypic.com/2vigg1v.jpg).
+An example for Top Sites is shown in the above screenshot.
 
-![Top_Sites_2](http://oi68.tinypic.com/ic1o4m.jpg)
+![Top_Sites_2]({{ site.url}}/assets/new_tab.png)
 
-The above [screenshot](http://oi68.tinypic.com/ic1o4m.jpg) shows how this feature will look like on the New Tab page.
+The above screenshot shows how this feature will look like on the New Tab page.
 
 By using the activity stream, the user can traverse through the browsing history faster and find important Websites and rediscover the content quickly. This approach will help the user by saving time and find what they want.
 
