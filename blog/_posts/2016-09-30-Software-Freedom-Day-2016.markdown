@@ -3,7 +3,7 @@ title:  "Software Freedom Day-2016"
 date:   2016-09-30 21:50:00 +0530
 description: SFD2016 at coimbatore.
 tags: [community]
-author: iamvp7
+author: ashly_rose
 ---
 ![Software Freedom Day2016]({{ site.url }}/assets/sfd_front.jpg)
 
