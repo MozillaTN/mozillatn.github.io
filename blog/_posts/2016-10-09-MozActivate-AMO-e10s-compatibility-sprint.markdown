@@ -25,4 +25,6 @@ Instructions can be found in this <a href="https://goo.gl/XXzfRL">etherpad</a>
 
 Join us and make firefox better :)
 
+Update : As per the request of many contributors the sprint is extented to this weekend ( Oct 16th 2016 ) :) Happy Contributing
+
 #MozActivate  #MozActivateIN
