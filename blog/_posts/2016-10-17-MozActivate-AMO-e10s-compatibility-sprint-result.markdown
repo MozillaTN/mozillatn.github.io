@@ -15,7 +15,7 @@ We have called out Mozillians in India to participate in the <a href="https://mo
 
 
 A big thanks for the participants of this sprint!
-
+<ul>
 	<li><a href="https://twitter.com/iamsubhrajyoti">Subhrajyoti Sen</a></li>
 	<li><a href="https://twitter.com/lokeshwaran36">Lokeshwaran</a></li>
 	<li><a href="https://twitter.com/shina_dhingra">Shina Dhingra </a></li>
@@ -24,7 +24,7 @@ A big thanks for the participants of this sprint!
 	<li><a href="https://twitter.com/mdsbzalam">Md Shahbaz Alam</a></li>
 	<li><a href="https://twitter.com/Dhinesh_kumar_M">Dhinesh Aj</a></li>
 	<li><a href="https://twitter.com/bhuvanakotees1">Bhuvana Meenakshi</a></li>
-	
+<ul>	
 Here is the list of verified add-ons :
 
 
