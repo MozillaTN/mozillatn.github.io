@@ -104,13 +104,12 @@ Here is the list of verified add-ons :
       *  the fox only better
       *  s3menu wizard
       *  qr code image generator
-        
-
-
+      
+      
 #MozActivate   #MozActivateIN
-        
+
 Etherpad link : https://public.etherpad-mozilla.org/p/MozActivateIN-e10s-Addon-compatibility
 
-
 PS: individual contributions can be found in the comments section of this blog - https://mozillatn.github.io/blog/MozActivate-AMO-e10s-compatibility-sprint/ 
+
 If you have made the testing and your name didn't appear in blog, Kindly ping me http://telegram.me/prasanthp96  :)
