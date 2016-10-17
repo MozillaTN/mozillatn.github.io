@@ -33,8 +33,8 @@ A big thanks for the participants of this sprint!
 
 Here is the list of verified add-ons :
 
-Gmail™ Notifier +
-Google search link fix
+      *  Gmail™ Notifier +
+      *  Google search link fix
       *  Ciuvo - Price check in your Browser
       *  FindBar Tweak
       *  OmniSidebar
@@ -102,7 +102,7 @@ Google search link fix
       *  searchwp
       *  the fox only better
       *  s3menu wizard
-      *	qr code image generator
+      *	 qr code image generator
       
       
 #MozActivate   #MozActivateIN
