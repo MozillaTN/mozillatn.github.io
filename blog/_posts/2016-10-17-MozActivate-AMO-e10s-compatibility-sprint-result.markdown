@@ -28,7 +28,7 @@ A big thanks for the participants of this sprint!
 	<li><a href="https://twitter.com/nagarajnaidu921">Nagarajnaidu</a></li>
 	<li><a href="https://twitter.com/surentharan7">Surentharan</a></li>
 	<li><a href="https://twitter.com/paarilovely">Paarttipaabhalaji</a></li>
-<ul>	
+</ul>	
 
 
 Here is the list of verified add-ons :
