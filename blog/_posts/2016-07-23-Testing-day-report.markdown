@@ -7,7 +7,7 @@ tags: [community]
 author: prasanthp96
 ---
 
-<img height="20%" width="100%" src="https://pbs.twimg.com/media/ChI8q4UU8AAcw9t.jpg">
+![Firefox 49.0a2 Aurora Testday]({{ site.url }}/assets/qmo.jpeg)
 
 **Hello All!**
 
