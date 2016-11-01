@@ -29,5 +29,6 @@ Instructions can be found in this ([etherpad](https://public.etherpad-mozilla.or
 
  So Girls just cheer up, let's make this a grand Success! 
 
+Note : In previous sprint we have tested some of the add-ons, which you can check [here](https://goo.gl/IQd44a) lets find different amazing add-ons for testing.
 
 #MozActivate #MozActivateIN #Womoz #MozillaTN
