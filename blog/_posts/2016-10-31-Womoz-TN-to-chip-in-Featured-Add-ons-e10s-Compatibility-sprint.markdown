@@ -8,7 +8,7 @@ author: kbmfsa
 Hello Mozillians!
 Now it’s time for the women contributors of Mozilla Tamilnadu to take part in the Featured Add-ons online sprint.
 
-!({{ site.url }}/assets/e10s-womoz.jpg)
+![WoMoz e10s MozAMO ]({{ site.url }}/assets/e10s-womoz.jpg)
 
 ICYMI - In recent days, the firefox browser got its processing capability increased tremendously. This was achieved by the Multiprocessing feature better known as “Electrolysis” was added to Firefox. Millions of firefox users are about to use this “Multiprocess Firefox or (e10s)” very soon.
 Before rolling out the update to all, one thing must be ensured. The Add-ons which are developed before should be checked if they are compatible with the new e10s.
