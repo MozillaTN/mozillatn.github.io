@@ -6,7 +6,7 @@ tags: [community]
 author: kbmfsa
 ---
 Hello Mozillians!
-Now it’s time for the women contributors of Mozilla Tamilnadu to take part in the Featured Add-ons online sprint.
+Now it’s time for the women contributors of Mozilla India to take part in the Featured Add-ons online sprint.
 
 ![WoMoz e10s MozAMO ]({{ site.url }}/assets/e10s-womoz.jpg)
 
