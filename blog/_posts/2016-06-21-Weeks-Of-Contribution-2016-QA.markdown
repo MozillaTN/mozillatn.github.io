@@ -3,7 +3,7 @@ title:  "Weeks of Contribution 2016 - QA - Firefox Nightly"
 date:   2016-06-21 21:50:00 +0530
 description: Mozilla Tamilnadu Community Support Mozilla event plans
 categories: blog
-tags: [community]
+tags: [community,woc,woc2016]
 author: prasanthp96
 ---
 

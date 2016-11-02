@@ -3,7 +3,7 @@ title:  "Weeks of Contribution 2016"
 date:   2016-06-04 17:20:00 +0530
 description: Summer Learning program by MozillaTN Community
 categories: blog
-tags: [community]
+tags: [community,woc,woc2016]
 author: iamvp7
 ---
 Last year Mozilla Tamilnadu community contributors started an initiative  called as weeks of contribution. The main aim of this initiative is to bring first time contributors to contribute to Mozilla Community. We really had great impact in this, around 15 new contributors joined our community and helping to grow us very well. Learn those who joined us last year newly and active [Weeks of Contribution 2015 Report](https://viswaprasathks.wordpress.com/2015/09/06/weeks-of-contribution-impact-on-me-community-part-3/) 

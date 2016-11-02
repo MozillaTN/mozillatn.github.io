@@ -3,7 +3,7 @@ title:  "Weeks of Contribution 2016 - Localization"
 date:   2016-06-17 01:20:00 +0530
 description: Mozilla Tamilnadu Community Localization event plans
 categories: blog
-tags: [community]
+tags: [community,woc,woc2016]
 author: khaleeljageer
 ---
 
