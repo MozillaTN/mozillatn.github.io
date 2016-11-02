@@ -15,3 +15,12 @@
 
 - slug: community 
   name: Community
+
+- slug: firefoxqa
+  name: FirefoxQA
+
+- slug: fxtestpilot
+  name: Fx Test Pilot
+
+- slug: mozactivate
+  name: MozActivate
