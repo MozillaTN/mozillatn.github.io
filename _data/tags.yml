@@ -24,3 +24,18 @@
 
 - slug: mozactivate
   name: MozActivate
+
+- slug: l10n
+  name: Localisation
+
+- slug: sumo
+  name: SUMO
+
+- slug: iot
+  name: IoT
+
+- slug: addons
+  name: Add-Ons
+
+- slug: social
+  name: Social Media
