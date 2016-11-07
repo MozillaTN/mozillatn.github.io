@@ -1,48 +1,63 @@
 - slug: github-pages
   name: GitHub Pages
+  desc: Contents about creating github pages.
 
 - slug: firefoxos
   name: Firefox OS
+  desc: Articles on Fully Open source, Mobile Operating system
 
 - slug: firefox
   name: Firefox
+  desc: Browser with mission, contributed by people and for people.
 
 - slug: google
   name: Google
 
 - slug: addons
   name: Add-ons
+  desc: Customize your browser and make it beautiful and different from others.
 
 - slug: community 
   name: Community
+  desc: Mozilla Tamilnadu Community
 
 - slug: firefoxqa
   name: FirefoxQA
+  desc: Articles related to Firefox Quality Assurance 
+
 
 - slug: fxtestpilot
   name: Fx Test Pilot
+  desc: Articles about Amazing features which will be landing to Firefox in future.
+
 
 - slug: mozactivate
   name: MozActivate
+  desc: A campaign for Mozillians around the world to have impact in areas key to Mozilla’s mission. 
 
 - slug: l10n
   name: Localisation
+  desc: Articles on Localisation
 
 - slug: sumo
   name: SUMO
+  desc: More articles about Support Mozilla.
+
 
 - slug: iot
   name: IoT
+  desc: Articles on Mozilla in Internet of Things.
 
-- slug: addons
-  name: Add-Ons
 
 - slug: social
   name: Social Media
-
+  desc: Articles on Mozilla Tamilnadu Social Media Updates.
 
 - slug: woc2016
   name: WOC 2016
+  desc: WOC 2016 refers to Weeks of contribution program, dedicated to teach first time contributors.
+
 
 - slug: woc
   name: WoC
+  desc: Weeks of contribution program, dedicated to teach first time contributors
