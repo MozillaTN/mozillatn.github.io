@@ -2,18 +2,29 @@
 profile: true
 ---
 
-<div style="float:left;">
-<ul id="post-list" class="indexpage-post" style="float:left;">
+<ul id="tag-post-list" >
     {% for post in paginator.posts %}
         <li>
-            <a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}"><aside class="dates">{{ post.date | date:"%b %d" }}</aside></a>
-            <a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">{{ post.title }} <h2>{{ post.description }}</h2></a>
+		
+		<div class="tagauthor">
+                        <div id="tag-meta">
+                                {% assign author = site.data.people[post.author] %}
+                                        <a href="/about/{{ post.author }}">
+                                                <img class="avatar" src="{{ author.gravatar}}">
+
+                                        </a>
+                        </div>
+                </div>
+
+
+                <div class="tagposts">
+                        <a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}" class="container">{{ post.title }} 
+                                <h2>{{ post.description }}</h2>
+                        </a>
+                </div>
+
+
+
         </li>
     {% endfor %}
 </ul>
-<!--
- <a class="twitter-timeline"  href="https://twitter.com/mozillaTN" data-widget-id="497393013144838146" width="50%" style="float:right;max-width:50%;min-width:50%;" id="twitterid">Tweets by @mozillaTN</a>
-            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
--->
-</div>
-
