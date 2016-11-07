@@ -3,7 +3,24 @@
        
 	  {% if post.categories contains 'blog' %}
 	 <li class="cards">
-            <a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">{{ post.title }} <h2>{{ post.description }}</h2></a>
+		
+		<div class="tagauthor">
+	                <div id="tag-meta">
+        	                {% assign author = site.data.people[post.author] %}
+                	                <a href="/about/{{ post.author }}">
+                        	                <img class="avatar" src="{{ author.gravatar}}">
+
+                                	</a>
+                	</div>
+        	</div>
+
+	
+		<div class="tagposts">
+		        <a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}" class="container">{{ post.title }} 
+                		<h2>{{ post.description }}</h2>
+        		</a>
+        	</div>
+
         </li>
 	
 	  {% endif %}	
