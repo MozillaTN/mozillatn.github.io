@@ -52,7 +52,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 .icon-facebook-rect:before { content: '\e803'; }
 
 /* Spacing */
-.post h1, h3, h4, h5, p, .post-body ul, #post-list li, pre {
+.post h1, h3, h4, h5, p, .post-body ul, #post-list li, pre, #tag-post-list {
 margin-bottom: 20px;
 }
 
@@ -178,8 +178,8 @@ nav.main-nav a.cta {
 /*Accent color*/
 a,
 #title,
-#post-list a:hover,
-#post-list li:hover .dates,
+#tag-post-list a:hover,
+#tag-post-list li:hover .dates,
 #title:hover {
 	text-decoration: none;
 	color: #5badf0;
@@ -188,10 +188,16 @@ a,
 
 p a { color: #5694f1; }
 
+#tag-post-list li {
+padding-top : 20px;
+margin-bottom: 20px;
+}
+
+
 /*Transitions*/
 a,
 #post-nav a,
-#post-list a	{
+#tag-post-list a	{
 	-webkit-transition: all 0.15s ease;
 	-moz-transition: all 0.15s ease;
 	-ms-transition: all 0.15s ease;
@@ -268,7 +274,7 @@ em, i { font-style: italic; }
 	  display: inline-block;
 }
 
-#post-list h2 {
+#tag-post-list h2 {
 	font: normal 17px/1.5em "Helvetica Neue",Helvetica,Arial,sans-serif;
 	color: #aaa;
 	max-width: 400px;
@@ -391,30 +397,30 @@ img {
 /*=========================================
 Post List
 =========================================== */
-#post-list,#archive-list {
+#tag-post-list,#archive-list {
 	margin-top: 20px;
 }
 
-#post-list li,#archive-list li {
+#tag-post-list li,#archive-list li {
 	list-style-type: none;
 }
 
-#post-list li:last-child {
+#tag-post-list li:last-child {
 	margin-bottom: 0;
 }
 
-#post-list li+li {
+#tag-post-list li+li {
 	padding-top: 20px;
 	border-top: 1px solid #eee;
 }
 
-#post-list a {
+#tag-post-list a {
 	color: #333;
 	display: block;
 	font: bold 19px/1.7 "Helvetica Neue",helvetica,Arial,sans-serif;
 }
 
-#post-list .dates {
+#tag-post-list .dates {
 	float: right;
 	position: relative;
 	top: 1px;
@@ -422,7 +428,7 @@ Post List
 	color: #bbb;
 }
 
-#post-list-footer {
+#tag-post-list-footer {
 	border-top: 1px solid #eee;
 	margin-top: 20px;
 	padding-top: 100px;
@@ -610,22 +616,22 @@ h2.month {
   box-shadow: 0 0 0 3px #fff, 0 0 0 4px #eee;
 }
 
-#post-list.archive.readmore h3{
+#tag-post-list.archive.readmore h3{
 
 	  font: 400 20px "Helvetica Neue", Helvetica,Arial,sans-serif;
 	  margin-bottom: 30px;
 }
 
-#post-list.archive.readmore a{
+#tag-post-list.archive.readmore a{
 	font: 400 16px/1.6 "Helvetica Neue",helvetica,Arial,sans-serif;
 	color: #5694f1;
 }
 
-#post-list.archive.readmore a:hover{
+#tag-post-list.archive.readmore a:hover{
 	opacity: 0.8;
 }
 
-#post-list.archive.readmore .dates{
+#tag-post-list.archive.readmore .dates{
 	font: 300 16px/1.6 "Helvetica Neue",helvetica,Arial,sans-serif;
 }
 #sharing a.facebook {
@@ -645,6 +651,119 @@ h2.month {
   margin-left: 2px;
 }
 
+
+.cards {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+	text-decoration: none;
+	list-style-type: none;
+}
+
+.cards:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+	text-decoration: none;
+	list-style-type: none;
+}
+
+.container {
+    padding: 2px 16px;
+	text-decoration: none;
+}
+
+#tag-post-list {
+	
+}
+
+a,
+#title,
+#tag-post-list  a:hover,
+#tag-post-list  li:hover .dates,
+#title:hover {
+        text-decoration: none;
+        color: #5badf0;
+        color: #5694f1;
+}
+
+#tag-post-list .dates {
+        float: right;
+        position: relative;
+        top: 1px;
+        font: 300 16px/1.8 'Open Sans', "Helvetica Neue",helvetica,Arial,sans-serif;
+        color: #bbb;
+        padding-right: 20px;
+}
+
+#tag-post-list h2 {
+        font: normal 17px/1.5em 'Open Sans', Inconsolata, sans-serif, "Helvetica Neue",Helvetica,Arial,sans-serif;
+        color: #aaa;
+        max-width: 600px;
+        margin-top: 2px;
+}
+
+/*=========================================
+Post List
+=========================================== */
+#tag-post-list,#archive-list {
+        margin-top: 10px;
+}
+
+#tag-post-list li,#archive-list li {
+        list-style-type: none;
+}
+
+#tag-post-list li:last-child {
+        margin-bottom: 0;
+        margin-bottom: 20px;
+        padding-top: 20px;
+}
+
+#tag-post-list li+li {
+        padding-top: 20px;
+}
+
+#tag-post-list a {
+        color: #333;
+        display: block;
+        font: bold 16px/1.7 'Open Sans',"Helvetica Neue",helvetica,Arial,sans-serif;
+	padding: 3px;
+	margin: 3px;
+}
+
+#tag-post-list .dates {
+        float: right;
+        position: relative;
+        top: 1px;
+        font: 300 16px/1.8 'Open Sans', "Helvetica Neue",helvetica,Arial,sans-serif;
+        color: #bbb;
+        padding-right: 20px;
+}
+#tag-post-list-footer {
+        border-top: 1px solid #eee;
+        margin-top: 20px;
+        padding-top: 100px;
+}
+
+
+#tag-post-list.archive.readmore h3{
+
+          font: 400 20px 'Open Sans' ,Inconsolata, sans-serif, "Helvetica Neue", Helvetica,Arial,sans-serif;
+          margin-bottom: 30px;
+}
+
+#tag-post-list.archive.readmore a{
+        font: 400 16px/1.6 'Open Sans' , Inconsolata, sans-serif, "Helvetica Neue",helvetica,Arial,sans-serif;
+        color: #5694f1;
+}
+
+#tag-post-list.archive.readmore a:hover{
+        opacity: 0.8;
+}
+
+#tag-post-list.archive.readmore .dates{
+        font: 300 16px/1.6 'Open Sans', "Helvetica Neue",helvetica,Arial,sans-serif;
+}
+
+
 /* Media Queries */
 @media screen and (max-width: 540px) {
 	#wrapper { padding:20px 20px 20px 20px;}
@@ -652,16 +771,29 @@ h2.month {
 	.post { margin: 40px 0; }
 	#footer { margin-top: 60px; }
 
-	#post-list, #archive-list { margin-top: 0; }
+	#tag-post-list, #archive-list { margin-top: 0; }
 	#post-meta { margin-top: 60px; }
 
 	#title { font-size: 17px; }
-	#post-list .dates { display: none; }
+	#tag-post-list .dates { display: none; }
 
-	#post-list-footer { margin-top: 20px; padding-top: 40px; }
+	#tag-post-list-footer { margin-top: 20px; padding-top: 40px; }
 
 	h1 { font-size: 26px; }
 	.post h2.headline { font-size: 13px; }
 	.post h1 { font-size:24px; }
 	.post h2 { font-size:20px; }
+}
+
+.tagauthor{
+	float:right;
+	height: 80px;
+  width: 80px;
+	border-radius: 50%;
+  margin-top: -17px;
+  margin-right: 3px;
+}
+
+.tagposts{
+	width:85%;
 }
