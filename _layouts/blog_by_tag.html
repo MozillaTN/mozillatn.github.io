@@ -4,7 +4,15 @@ archive: true
 ---
 
 <h1>Articles by tag {{ page.tag }}</h1>
-<h2></h2> 
+	{% assign page_tag = page.tag %}
+
+	{% for data_tag in site.data.tags %}
+            {% if data_tag.slug == page.tag %}
+                <h2>{{ data_tag.desc }}</h2>
+            {% endif %}
+        {% endfor %}
+
+
 
 <br />
 <div id='tag-post-list'>
