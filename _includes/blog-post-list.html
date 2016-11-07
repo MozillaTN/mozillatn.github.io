@@ -1,10 +1,8 @@
-
-<ul id="post-list">
+<ul id="tag-post-list">
     {% for post in site.posts %}
        
 	  {% if post.categories contains 'blog' %}
-	 <li>
-            <a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}"><aside class="dates">{{ post.date | date:"%b %d" }}</aside></a>
+	 <li class="cards">
             <a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">{{ post.title }} <h2>{{ post.description }}</h2></a>
         </li>
 	
