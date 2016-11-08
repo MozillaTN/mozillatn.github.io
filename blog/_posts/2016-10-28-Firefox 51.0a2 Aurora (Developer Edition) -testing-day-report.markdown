@@ -4,7 +4,7 @@ date:  2016-11-04 21:50:00 +0530
 description: Mozilla India Community Testing day result
 categories: blog
 tags: [community]
-author: Surentharan R.A
+author: surentharan
 ---
 
 <img height="20%" width="100%" src="https://pbs.twimg.com/media/ChI8q4UU8AAcw9t.jpg">
