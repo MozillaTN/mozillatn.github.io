@@ -3,7 +3,7 @@ title:  "Firefox 49.0a2 Aurora Test day invitation"
 date:   2016-07-21 21:50:00 +0530
 description: Mozilla Tamilnadu Community Testing day invitation
 categories: blog
-tags: [community]
+tags: [firefoxqa]
 author: prasanthp96
 ---
 ![Firefox 49.0a2 Aurora Testday]({{ site.url }}/assets/qmo.jpeg)
