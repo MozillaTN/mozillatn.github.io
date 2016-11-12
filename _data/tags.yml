@@ -61,3 +61,12 @@
 - slug: woc
   name: WoC
   desc: Weeks of contribution program, dedicated to teach first time contributors
+  
+  
+- slug: community-building
+  name: Community Building
+  desc: Posts about  Community building 
+  
+- slug: recognition
+  name: Recognition
+  desc: Contributors Recognition posts
