@@ -2,7 +2,7 @@
 title:  "Featured Add-ons e10s Compatibility sprint"
 date:   2016-09-30 21:50:00 +0530
 description: MozActivate India.
-tags: [community]
+tags: [mozactivate]
 author: prasanthp96
 ---
 
