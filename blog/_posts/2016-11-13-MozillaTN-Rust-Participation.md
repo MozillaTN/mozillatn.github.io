@@ -14,6 +14,9 @@ If you are wondering what **rust** is, this blog is for your guys.
 
 Read more about [RUST](https://www.rust-lang.org/en-US/).
 
+
+![MozillaTN Rust Contributor post]({{ site.url }}/assets/rust-logo-blk.svg)
+
 ## Rust Tutorials
 
 Below are few links that are the best places to get started with rust tutorials :
@@ -71,9 +74,9 @@ As an ending note :)
 * For running follow command below, in the terminal
 
 >
->   rustc main.rs
+>  rustc main.rs
 >
->   ./main
+>  ./main
 >
 
 
