@@ -56,7 +56,7 @@ if you want to conduct an rust event and not sure how to get started tweet to me
 
 As an ending note :)
 
-* Save this snippet as main.rs
+* Save this snippet as **main.rs**
 
 >	
 >	 // Task : Get rusted
@@ -72,6 +72,8 @@ As an ending note :)
 
 >
 >   rustc main.rs
+>
 >   ./main
 >
+
 
