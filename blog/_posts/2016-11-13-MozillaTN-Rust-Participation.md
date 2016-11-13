@@ -35,22 +35,21 @@ Ways of contributing to rust are :
 * Test and learn rust, share your honest feedbacks in form of blogs etc. This will help the rust team to get developers feedback and get better insights.
 * Create awesome cool documentations and code samples for people to use
 * Create crates which can be really usefull developer communities as part of your projects etc
-* if you know a great conference going near your region, go ahead and be an advocate of rust and brag about it
+* if you know a great conference going near your region, go ahead and be an advocate of rust and brag about it.
 
 
 ## Other Contributions
 Wait now is the part where I am gonna mention about the ways people who are really want to do coding but still want to contribute to rust.
 
 * Consider [localization](https://internals.rust-lang.org/t/translations-for-rust/3126) of rust docs so that developers from various regions can learn it, wanna get started with [Tamil localization](https://github.com/dvigneshwer/Rust_Group_Coimbatore/issues/1) 
-* Help advocate rust-lang to awesome developers
-* Conduct great hackathons to create some really cool crate and publish at [crate site](https://crates.io)
+* Help advocate rust-lang to awesome developers.
+* Conduct great hackathons to create some really cool crate and publish at [crate site](https://crates.io) .
 
 
 ## What's cooking in MozillaTN ?
 Mozilla TN want's their contributors to be part of this rust era and contribute constanly to rust language, PFB few ways to get involved,
 
 * Being from an analytics background I am currently working on a deep learning crate, if that sounds interesting feel free to join the club. Follow this [thread](https://github.com/dvigneshwer/Rust_Group_Coimbatore/issues/3).
-
 * If you have made some really cool documentation or code sample which the community can use please go ahead and populate them [here](https://github.com/dvigneshwer/Rust_Group_Coimbatore/issues/2) 
 
 if you want to conduct an rust event and not sure how to get started tweet to me at @dvigneshwer we will plan something really cool for your local developers.
@@ -69,11 +68,10 @@ As an ending note :)
 >	 }
 > 	
 
-* For running follow command below,
-
+* For running follow command below, in the terminal
 
 >
->   $ rustc main.rs
->   $ ./main
+>   rustc main.rs
+>   ./main
 >
 
