@@ -70,7 +70,10 @@ As an ending note :)
 > 	
 
 * For running follow command below,
-~~~~
-$ rustc main.rs
-$ ./main
-~~~~
+
+
+>
+>   $ rustc main.rs
+>   $ ./main
+>
+
