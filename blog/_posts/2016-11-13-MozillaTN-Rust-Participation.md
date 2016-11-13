@@ -10,7 +10,7 @@ author: dvigneshwer
 
 If you are wondering what **rust** is, this blog is for your guys.
 
->> Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety. 
+> Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety. 
 
 Read more about [RUST](https://www.rust-lang.org/en-US/).
 
@@ -58,15 +58,16 @@ if you want to conduct an rust event and not sure how to get started tweet to me
 As an ending note :)
 
 * Save this snippet as main.rs
-~~~~
-// Task : Get rusted
-// Date : 13 Nov 2016
-// Author : Vigneshwer
 
-fn main(){
-	println!("#Happy Rust Programming");
-}
-~~~~
+>	
+>	 // Task : Get rusted
+>	 // Date : 13 Nov 2016
+> 	// Author : Vigneshwer
+>	
+> 	fn main(){
+> 		println!("#Happy Rust Programming");
+>	 }
+> 	
 
 * For running follow command below,
 ~~~~
