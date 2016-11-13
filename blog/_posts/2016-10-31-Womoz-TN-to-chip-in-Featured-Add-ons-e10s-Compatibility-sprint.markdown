@@ -2,7 +2,7 @@
 title:  "Womoz TN to chip in Featured Add-ons e10s Compatibility sprint"
 date:   2016-10-31 21:50:00 +0530
 description: Invite for Womoz TN Featured Add-ons e10s Compatibility sprint.
-tags: [community]
+tags: [addons]
 author: kbmfsa
 ---
 Hello Mozillians!
