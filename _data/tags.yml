@@ -70,3 +70,7 @@
 - slug: recognition
   name: Recognition
   desc: Contributors Recognition posts
+  
+- slug: rust
+  name: Rust Lang
+  desc: Blog post on Most Secure Programming language Rust
