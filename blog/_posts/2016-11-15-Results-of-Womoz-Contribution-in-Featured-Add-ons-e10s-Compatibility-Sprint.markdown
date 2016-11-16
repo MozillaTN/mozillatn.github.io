@@ -3,6 +3,7 @@ title:  "Results of Womoz Contibution in Featured Add-ons e10s Compatibility Spr
 date:   2016-11-15 06:50:00 +0530
 description: Results of Mozilla Community WoMoz participation in Featured Add-ons e10s Compatibility sprint.
 categories: blog
+tiny_url : https://goo.gl/K1I8cR
 tags: [mozactivate, addons]
 author: ashly_rose
 ---
