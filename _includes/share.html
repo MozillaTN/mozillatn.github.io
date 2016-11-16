@@ -1,4 +1,5 @@
-<a class="twitter" href="https://twitter.com/intent/tweet?text={{ site.domain_name }}{{ page.url }} - {{page.title}} by @{{ post.author }} {% for post_tag in post.tags %}  #{{ post_tag }} {% endfor %}"><span class="icon-twitter"> Tweet</span></a>
+{% assign author_social = site.data.people[page.author] %}
+<a class="twitter" href="https://twitter.com/intent/tweet?text={{ site.domain_name }}{{ page.url }} - {{page.title}} by @{{ author_social.twitter }} {% for post_tag in post.tags %}  #{{ post_tag }} {% endfor %}"><span class="icon-twitter"> Tweet</span></a>
 
 <a class="facebook" href="#" onclick="
     window.open(
