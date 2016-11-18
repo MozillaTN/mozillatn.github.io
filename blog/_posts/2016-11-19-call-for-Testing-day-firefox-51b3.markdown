@@ -29,6 +29,7 @@ In this path, coming Friday, November 25th,We are organizing Firefox 51 Beta 3 T
 
 It will be a great learning and contributing experience for everyone. And hereby invite you to join us. Lets work together for a better Firefox!!!
 
+Participants Kindly RSVP by commenting your name along with your twitter handle.
 
 <h5>FAQ</h5>
 
