@@ -5,7 +5,7 @@
     {% assign url_to_post = site.domain_name | append: page.url %}
   {% endif %}
 
-<a class="twitter" href="https://twitter.com/intent/tweet?text={{ url_to_post }} - {{page.title}} by @{{ author_social.twitter }} &hashtags={% for post_tag in post.tags %}  {{ post_tag }}, {% endfor %}"><span class="icon-twitter"> Tweet</span></a>
+<a class="twitter" href="https://twitter.com/intent/tweet?text={{ url_to_post }} - {{page.title}} by @{{ author_social.twitter }} &hashtags={% for post_tag in post.tags %}{{ post_tag }},{% endfor %}"><span class="icon-twitter"> Tweet</span></a>
 
 <a class="facebook" href="#" onclick="
     window.open(
