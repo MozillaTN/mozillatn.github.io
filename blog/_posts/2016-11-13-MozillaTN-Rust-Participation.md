@@ -61,22 +61,24 @@ As an ending note :)
 
 * Save this snippet as **main.rs**
 
->	
->	 // Task : Get rusted
->	 // Date : 13 Nov 2016
-> 	// Author : Vigneshwer
->	
-> 	fn main(){
-> 		println!("#Happy Rust Programming");
->	 }
-> 	
+
+{% highlight rust %} 
+// Task : Get rusted
+// Date : 13 Nov 2016
+// Author : Vigneshwer
+
+fn main(){
+	println!("#Happy Rust Programming");
+}
+
+{% endhighlight %}
 
 * For running follow command below, in the terminal
 
->
->  rustc main.rs
->
->  ./main
->
+{% highlight rust %}     
+  rustc main.rs
+
+  ./main
+{% endhighlight %}
 
 
