@@ -11,6 +11,10 @@ Starting this week we will be sharing more updates on the Exciting things happen
 
 Last week our contributors made some of the great contribution by sharing their talks, sharing learning resources to wide community, participating in Dino tank and helping new contributors to get in touch with Community. Its really exciting week for all of us here.
 
+<a class="twitter-moment" href="https://twitter.com/i/moments/800778523065520142">MozillaTN 3rd Week Nov 2016</a>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 On 12th November 2016 our contributor  [Khaleel Jageer](https://twitter.com/JSKaleel) gave an amazing talk on Open source contribution and Contributing to Firefox Community in ILUGC Meetup, one of the very famous monthly meetup in Chennai. And myself ( [Viswaprasath](https://twitter.com/iamvp7)) had chance to meet two contributors who are doing exceptional contributions at SRM University Chennai. We know it is one of the biggest university in India and one important news hidden is, it is one of the biggest Firefox Student Ambassador Club [SRMKzilla](https://www.facebook.com/Srmkzilla/ ).
 
 Rust Language is Amazing
