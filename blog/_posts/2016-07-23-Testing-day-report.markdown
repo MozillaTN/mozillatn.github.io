@@ -3,7 +3,7 @@ title:  "Result - Firefox 49.0a2 Aurora Test day "
 date:   2016-07-21 21:50:00 +0530
 description: Mozilla India Community Testing day result
 categories: blog
-tags: [community]
+tags: [firefoxqa]
 author: prasanthp96
 ---
 
