@@ -3,7 +3,7 @@ title:  "Firefox 49.0b3 Beta Test day invitation"
 date:   2016-08-10 21:50:00 +0530
 description: Mozilla Tamilnadu Community Testing day invitation
 categories: blog
-tags: [community]
+tags: [firefoxqa]
 author: prasanthp96
 ---
 ![Firefox 49.0b3 Aurora Testday]({{ site.url }}/assets/qmo.jpeg)
