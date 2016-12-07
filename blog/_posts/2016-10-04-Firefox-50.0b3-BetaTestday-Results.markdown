@@ -1,0 +1,32 @@
+---
+title:  "Result - Firefox 50.0b3 BetaTestday"
+date:  2016-10-04 21:50:00 +0530
+description: Mozilla India Community Testing day result
+categories: blog
+tags: [firefoxqa]
+author: prasanthp96
+---
+
+![Firefox 50.0b3 Aurora Testday]({{ site.url }}/assets/qmo.jpeg)
+
+
+**Hello All!**
+
+<p>The  Firefox 51.0b3 Beta  Testday tookplace in September 30th.Before the testday, I posted a message in the Mozilla India telegram group, calling interested people to participate in this Test day.Shortly after the I sent the message, few pinged me that they are interested to join.</p>
+<p>With these awesome contributors, the testday was successfully done.</p>
+
+
+- [Vibhanshu Chaudhary ](https://twitter.com/vibhanshu95)
+- [Surentharan.R.A](https://twitter.com/surentharan7)
+- [Subhrajyoti Sen](https://twitter.com/iamsubhrajyoti)
+- [Bhuvana Meenakshi.K](https://twitter.com/bhuvanakotees1)
+- [Paarttipaabhalaji](https://twitter.com/paarilovely)
+- [P Avinash Sharma]()
+- [Nagaraj V](https://twitter.com/nagarajnaidu921)
+- [Pavithra  R]()
+- [Rajesh. D](https://twitter.com/rajeshhacker023)
+
+<p>Thank you everyone for participating :)</p>
+
+<p>The Mozilla QA has published the results of the testday - check out <a href="https://quality.mozilla.org/2016/10/firefox-50-beta-3-testday-results/">here</a></p>
+<p>Happy Testing!</p>
