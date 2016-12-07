@@ -7,7 +7,7 @@ tags: [firefoxqa]
 author: prasanthp96
 ---
 
-![Firefox 51.0a2 Aurora Testday]({{ site.url }}/assets/qmo.jpeg)
+![Firefox 51.0b3 Beta Testday]({{ site.url }}/assets/qmo.jpeg)
 
 **Hello Everyone!**
 
