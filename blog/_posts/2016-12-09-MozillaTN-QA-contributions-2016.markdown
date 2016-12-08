@@ -20,6 +20,7 @@ Short Metrics:
 - Number of Bugs verified: 25
 - Number of Bugs Filed: 7
 
+
 For the past 5 months , Our contributors have participated in all the testing days. Here is a complete list of testday results.
 
 
@@ -31,6 +32,7 @@ For the past 5 months , Our contributors have participated in all the testing da
 - [Firefox 50 beta 3](https://mozillatn.github.io/blog/Firefox-50.0b3-BetaTestday-Results/)
 - [Firefox 51 Aurora 2](https://mozillatn.github.io/blog/Firefox-51.0a2-Aurora-(Developer-Edition)-testing-day-report/)
 - [Firefox 51 Beta 3](https://mozillatn.github.io/blog/Firefox-51-beta3-Testday-Results/)
+
 
 We whole heartedly thank the awesome participants for joining us in various testdays.
 
@@ -54,6 +56,7 @@ We whole heartedly thank the awesome participants for joining us in various test
 - [SriSailesh](https://twitter.com/saileshbaskar1)
 - [Surentharan.R.A](https://twitter.com/surentharan7)
 - [Survesh Jones](https://twitter.com/survijones)
+
 
 Whenever I post a message in our telegram group regarding the testdays,contributors actively respond to it.This active response is what drives me to host testdays.Their passion to contribute to Mozilla is high as sky. I am glad to contribute along with them. 
 
