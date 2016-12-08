@@ -14,10 +14,11 @@ Hello Readers!!
 2016 was a great year for Mozilla TN community. We did amazing works in various contribution areas. This post will be showcasing our QA contributions to Mozilla.
 
 Short Metrics:
-Number of Testdays attended: 8
-Number of contributors participated from Mozilla TN: 20
-Number of Bugs verified: 25
-Number of Bugs Filed: 7
+=============
+- Number of Testdays attended: 8
+- Number of contributors participated from Mozilla TN: 20
+- Number of Bugs verified: 25
+- Number of Bugs Filed: 7
 
 For the past 5 months , Our contributors have participated in all the testing days. Here is a complete list of testday results.
 
