@@ -1,6 +1,6 @@
 ---
 layout: blog_by_tag
-tag: woc2016
+tag: MozillaTN17
 permalink: /blog/tag/MozillaTN17/
 ---
 
