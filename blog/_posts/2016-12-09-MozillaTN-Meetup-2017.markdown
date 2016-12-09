@@ -5,7 +5,6 @@ description: MozillaTN Meetup 2017 Participation
 categories: blog
 tags: [MozillaTN17]
 author: iamvp7
-tiny_url: https://goo.gl/VDClNN
 ---
 
 **Hola Mozillians of Tamilnadu,**
