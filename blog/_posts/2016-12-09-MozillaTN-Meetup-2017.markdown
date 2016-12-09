@@ -30,11 +30,12 @@ Our Goals for this Meetup:
 - Build strong teams.
 - Build strong recognition practices.
 - Create accountability systems and a code of conduct.
-- Build a plan for increasing diversity and inclusive practice across the community.
+- Build a plan for increasing diversity and inclusive practice across the community
+
 
 
 The main functional areas focussed during this meetup are:
-----------------------------------------------------------
+=========================================================
 
 - Rust 
 - WebVR
@@ -43,18 +44,20 @@ The main functional areas focussed during this meetup are:
 - Webcompat 
 - Localization 
 - WoMoz
-- Social Media.
+- Social Media
+
 
 
 The selection criteria:
------------------------
+======================
 
 - Good track record of contributions in the past 6 months.
 - Interested in evangelizing & mobilizing about the functional areas in their region.
 - Strong commitment towards contributing to any one of the functional areas for the next 6 months. 
 
 
-The most important criteria we are looking for is your plan for the next 6 months in contributing to any of the  functional areas. You are also allowed to share a plan for those functional areas that are not mentioned in the above list.Ex: MDN, SUMO, Codebase contribution and so on. Share you ideas and ways on which you would like to implement, in order to increase the contributor base & activities in those areas as a blog post. Once done, Make sure that you share your blog post with the bigger community on Social Media ( Twitter, Facebook & Telegram), Tag us with #MozillaTN17  (Our official hashtag for the meetup). 
+
+The most important criteria we are looking for is your plan for the next 6 months in contributing to any of the  functional areas. You are also allowed to share a plan for those functional areas that are not mentioned in the above list.Ex: MDN, SUMO, Codebase contribution and so on. Share you ideas and ways on which you would like to implement, in order to increase the contributor base & activities in those areas as a blog post. Once done, Make sure that you share your blog post with the bigger community on Social Media ( Twitter, Facebook & Telegram), Tag us with **#MozillaTN17**  (Our official hashtag for the meetup). 
 
 
 
