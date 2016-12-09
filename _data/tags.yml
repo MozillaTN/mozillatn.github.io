@@ -78,3 +78,7 @@
 - slug: weekly
   name: Weekly Updates
   desc: Series of Posts on MozillaTN weekly updates
+  
+ - slug: MozillaTN17
+  name: MozillaTN 2017
+  desc: MozillaTN Meetup 2017
