@@ -1,10 +1,11 @@
 ---
-title:  "MozillaTN Meetup 2017 @ Coimbatore Call for Participation"
+title:  "MozillaTN Meetup 2017 at Coimbatore Call for Participation"
 date:   2016-12-09 20:40:00 +0530
 description: MozillaTN Meetup 2017 Participation
 categories: blog
 tags: [MozillaTN17]
 author: iamvp7
+tiny_url: https://goo.gl/VDClNN
 ---
 
 **Hola Mozillians of Tamilnadu,**
