@@ -47,6 +47,7 @@ Links to blog posts:
 * [Mozilla TN Rust Participation](https://mozillatn.github.io/blog/MozillaTN-Rust-Participation/)
 
 At MozillaTN we take this oppurtunity to thank few folks and organizationz, who have really helped us to organize these events,
+
 * [SNS College,Coimbatore](http://snsct.org/)
 * [KCT College,Coimabtore](http://www.kgkite.ac.in/)
 * [Sudharsan Rajendran & Team](https://www.linkedin.com/in/sudhar1996)
