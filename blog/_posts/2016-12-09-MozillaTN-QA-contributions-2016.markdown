@@ -1,6 +1,6 @@
 ---
 title:  "Mozilla TamilNadu Community Quality Assurance contribution 2016"
-date:   2016-12-09 21:50:00 +0530
+date:   2016-12-08 21:50:00 +0530
 description: Mozilla Tamilnadu Community Contribution 2016
 categories: blog
 tags: [firefoxqa]
