@@ -59,7 +59,7 @@ margin-bottom: 20px;
 html, body { height: 100%; }
 
 body {
-	font:16px/1 "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font:16px/1.5 'Open Sans',Inconsolata, sans-serif , "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #666;
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizeLegibility;
@@ -71,6 +71,18 @@ background: -o-linear-gradient(top, rgba(164,226,245,1) 0%, rgba(214,233,240,1) 
 background: -ms-linear-gradient(top, rgba(164,226,245,1) 0%, rgba(214,233,240,1) 0%, rgba(214,233,240,1) 0%, rgba(252,252,252,1) 0%, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 95%, rgba(255,255,255,1) 100%);
 background: linear-gradient(to bottom, rgba(164,226,245,1) 0%, rgba(214,233,240,1) 0%, rgba(214,233,240,1) 0%, rgba(252,252,252,1) 0%, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 95%, rgba(255,255,255,1) 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a4e2f5', endColorstr='#ffffff', GradientType=0 );
+
+        margin-top: 10px;
+        font-family: medium-content-serif-font,Georgia,Cambria,"Times New Roman",Times,serif;
+        letter-spacing: .1rem;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 21px;
+        line-height: 1.58;
+        letter-spacing: -.003em;
+
+
+
 }
 
 h1 {
@@ -119,7 +131,7 @@ h2 {
 	  font-weight: 300;
 	  color: #aaa;
 	  margin-top: 10px;
-	  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	  font-family: 'Open Sans',Inconsolata, sans-serif, 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	  font-style: normal;
 
 }
@@ -204,14 +216,25 @@ a,
 	transition: all 0.15s ease;
 }
 
-ul 	{ margin:0; padding:0; }
-li	{ list-style-type:circle; list-style-position:inside; }
+ul      {
+        margin:0;
+        padding:0;
+        padding-left: 1em;
+        text-indent: 2em;
+        }
+
+li	{ list-style-type:square; list-style-position:inside; }
 
 /* Line Height */
 #post-body, p { line-height:1.7; }
 
 b, strong { font-weight: 500;
-  color: #1E2025; }
+  color: #1E2025; 
+	line-height: 1.2;
+        letter-spacing: -1px;
+        font-size: 24px;
+
+}
 em, i { font-style: italic; }
 
 #title {
@@ -251,7 +274,15 @@ em, i { font-style: italic; }
 .post h1 {
 	margin-bottom: 20px;
 	color: #222;
-	font: 300 32px/1.4em "Helvetica Neue", Helvetica,Arial,sans-serif;
+	font: 300 32px/1.4em 'Open Sans',Inconsolata, sans-serif,"Helvetica Neue", Helvetica,Arial,sans-serif;
+	font-size: 2.2em;
+        font-weight: 700;
+        line-height: 1.2;
+        letter-spacing: -1px;
+        margin: 0px;
+        padding: 0px 0px 12px 0px;
+        color: rgba(0, 0, 0, 0.8);
+
 }
 
 .post h2 {
@@ -263,7 +294,7 @@ em, i { font-style: italic; }
 
 .post h2.headline {
 	/*font: italic 22px/1.3em Georgia,serif;*/
-	font: normal 13px/1.5em "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font: normal 13px/1.5em 'Open Sans' , Inconsolata, sans-serif,"Helvetica Neue",Helvetica,Arial,sans-serif;
 	margin: -5px 0 40px 0;
 	color: #b2b9be;
 	  font-size: 13px;
@@ -274,7 +305,7 @@ em, i { font-style: italic; }
 }
 
 #tag-post-list h2 {
-	font: normal 17px/1.5em "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font: normal 17px/1.5em 'Open Sans', Inconsolata, sans-serif, "Helvetica Neue",Helvetica,Arial,sans-serif;
 	color: #aaa;
 	max-width: 400px;
 	margin-top: 2px;
@@ -313,7 +344,8 @@ hr {
 	background: #eee;
 }
 
-span.code { font-family:Menlo, Monaco, Courier; background-color:#EEE; font-size:14px; }
+span.code { font-family:'Open Sans',Inconsolata, sans-serif, Menlo, Monaco, Courier; 
+ background-color:#EEE; font-size:14px; }
 
 pre	{
 	font-family:Menlo, Monaco, Courier;
@@ -416,14 +448,14 @@ Post List
 #tag-post-list a {
 	color: #333;
 	display: block;
-	font: bold 19px/1.7 "Helvetica Neue",helvetica,Arial,sans-serif;
+	font: bold 16px/1.7 'Open Sans',"Helvetica Neue",helvetica,Arial,sans-serif;
 }
 
 #tag-post-list .dates {
 	float: right;
 	position: relative;
 	top: 1px;
-	font: 300 17px/1.8 "Helvetica Neue",helvetica,Arial,sans-serif;
+	font: 300 16px/1.8 'Open Sans', "Helvetica Neue",helvetica,Arial,sans-serif;
 	color: #bbb;
 }
 
@@ -575,7 +607,7 @@ h1.archive {
 
 h2.month {
 	width: 100%;
-	font: bold 13px/1 "Helvetica Neue",helvetica,Arial,sans-serif;
+	font: bold 13px/1 'Open Sans', "Helvetica Neue",helvetica,Arial,sans-serif;
 	text-transform: uppercase;
 	margin-top: 40px;
 	margin-bottom: 10px;
@@ -589,7 +621,7 @@ h2.month {
 
 #archive-list a {
 	display: block;
-	font: bold 17px/1.7 "Helvetica Neue",helvetica,Arial,sans-serif;
+	font: bold 17px/1.7 'Open Sans',"Helvetica Neue",helvetica,Arial,sans-serif;
 	color: #333;
 }
 
@@ -597,7 +629,7 @@ h2.month {
 	float: right;
 	position: relative;
 	top: 1px;
-	font: 300 17px/1.7 "Helvetica Neue",helvetica,Arial,sans-serif;
+	font: 300 16px/1.8 'Open Sans', "Helvetica Neue",helvetica,Arial,sans-serif;
 	color: #bbb;
 }
 
@@ -617,12 +649,13 @@ h2.month {
 
 #tag-post-list.archive.readmore h3{
 
-	  font: 400 20px "Helvetica Neue", Helvetica,Arial,sans-serif;
-	  margin-bottom: 30px;
+	  	font: 400 20px 'Open Sans' ,Inconsolata, sans-serif, "Helvetica Neue", Helvetica,Arial,sans-serif;
+		margin-bottom: 30px;
 }
 
 #tag-post-list.archive.readmore a{
-	font: 400 16px/1.6 "Helvetica Neue",helvetica,Arial,sans-serif;
+	font: 400 16px/1.6 'Open Sans' , Inconsolata, sans-serif, "Helvetica Neue",helvetica,Arial,sans-serif;
+	
 	color: #5694f1;
 }
 
@@ -631,7 +664,7 @@ h2.month {
 }
 
 #tag-post-list.archive.readmore .dates{
-	font: 300 16px/1.6 "Helvetica Neue",helvetica,Arial,sans-serif;
+	font: 300 16px/1.6 'Open Sans', "Helvetica Neue",helvetica,Arial,sans-serif;
 }
 #sharing a.facebook {
   background: #4361b3;
@@ -795,4 +828,30 @@ Post List
 
 .tagposts{
 	width:85%;
+}
+
+#post-list li {
+padding-top : 20px;
+margin-bottom: 20px;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+    padding: 2px 16px;
+}
+
+#post-list-footer { margin-top: 20px; padding-top: 40px; }
+#post-list, #archive-list { margin-top: 0; }
+#post-list .dates { display: none; }
+
+p {
+margin-top: 20px;
 }
