@@ -3,7 +3,7 @@ title:  " Firefox 51.0a2 Aurora Testday invitation"
 date:   2016-10-26 12:50:00 IST
 description: Mozilla Tamilnadu Community Testing day invitation
 categories: blog
-tags: [community]
+tags: [firefoxqa]
 author: paarttipaabhalaji
 ---
 
