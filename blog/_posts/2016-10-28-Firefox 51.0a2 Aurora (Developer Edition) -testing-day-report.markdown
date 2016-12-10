@@ -3,7 +3,7 @@ title:  "Result - Firefox 51.0a2 Aurora (Developer Edition) Testday"
 date:  2016-11-04 21:50:00 +0530
 description: Mozilla India Community Testing day result
 categories: blog
-tags: [community]
+tags: [firefoxqa]
 author: surentharan
 ---
 
