@@ -55,6 +55,9 @@ The selection criteria:
 
 The most important criteria we are looking for is your plan for the next 6 months in contributing to any of the  functional areas. You are also allowed to share a plan for those functional areas that are not mentioned in the above list.Ex: MDN, SUMO, Codebase contribution and so on. Share you ideas and ways on which you would like to implement, in order to increase the contributor base & activities in those areas as a blog post. Once done, Make sure that you share your blog post with the bigger community on Social Media ( Twitter, Facebook & Telegram), Tag us with **#MozillaTN17**  (Our official hashtag for the meetup). 
 
+[Read here](https://goo.gl/SGcL6b) to know more about how to write a successful plan .
+Check out this [Sample Plan](https://goo.gl/cVV8Y2) written by Prasanth
+
 You can apply in this [Google Form](https://goo.gl/forms/OKv9o2EUMBCRwl4N2)
 
 *Note*: The deadline to apply for this event is on **December 18th 6:00PM.**
