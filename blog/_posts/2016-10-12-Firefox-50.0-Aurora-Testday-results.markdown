@@ -12,7 +12,7 @@ author: prasanthp96
 
 **Hello All!**
 
-<p>The  Firefox 51.0b3 Beta  Testday tookplace in September 9th.Before the testday, I posted a message in the Mozilla India telegram group, calling interested people to participate in this Test day. Shortly after the I sent the message, few pinged me that they are interested to join.</p>
+<p>The  Firefox Firefox 50.0 Aurora Testday tookplace in September 9th.Before the testday, I posted a message in the Mozilla India telegram group, calling interested people to participate in this Test day. Shortly after the I sent the message, few pinged me that they are interested to join.</p>
 <p>With these awesome contributors, the testday was successfully done.</p>
 
 
