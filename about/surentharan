@@ -1,0 +1,17 @@
+---
+title: About surentharan R.A
+permalink: about/surentharan
+author: surentharan
+---
+
+
+{% include about.html %}
+
+
+A passionate programmer. Got attracted by Testing contribution area.
+
+continuously working with mozilla to protect web
+
+A socially active person.
+
+{% include authorpost.html %}
