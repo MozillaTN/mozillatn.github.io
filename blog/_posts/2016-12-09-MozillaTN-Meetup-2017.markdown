@@ -71,5 +71,5 @@ For all participants attending the meetup, lunch will be available.
 
 Hope to see you all @ **MozillaTN17** :D 
 
-**Update 1:** Added Sponsorship details.
-**Update 2:** Application deadlines changed from 18th to 21st Dec 2016
+- **Update 1:** Added Sponsorship details.
+- **Update 2:** Application deadlines changed from 18th to 21st Dec 2016
