@@ -8,7 +8,7 @@ author: iamvp7
 tiny_url: https://goo.gl/VDClNN
 ---
 
-**Hola Mozillians of Tamilnadu,**
+# Hola Mozillians of Tamilnadu,
 
 
 We are pleased to announce that we are kickstarting our first ever biggest cohort MozillaTN Meetup 2017 on January 2017 at Coimbatore.
@@ -20,8 +20,7 @@ Mozilla Tamilnadu community is one of the biggest & growing communities in India
 **MozillaTN Meetup 2017** is an annual gathering where all active & potential mozillians across Tamilnadu comes together to share experiences and interact with people, discuss on the goals, activities and brainstorm on the year plan for each of the mozilla's focus areas.
 
 
-Our Goals for this Meetup:
-==========================
+## Our Goals for this Meetup:
 
 
 - Develop a strategy, direction and plan for the future of the community.
@@ -33,8 +32,7 @@ Our Goals for this Meetup:
 - Create accountability systems and a code of conduct.
 - Build a plan for increasing diversity and inclusive practice across the community
 
-The main functional areas focussed during this meetup are:
-=========================================================
+# The main functional areas focussed during this meetup are:
 
 - Rust 
 - WebVR
@@ -45,8 +43,8 @@ The main functional areas focussed during this meetup are:
 - WoMoz
 - Social Media
 
-The selection criteria:
-======================
+### The selection criteria:
+
 
 - Record of contributions in the past 6 months is added advantage.
 - Interested in evangelizing & mobilizing about the functional areas in their region will be great.
@@ -60,8 +58,18 @@ Check out this [Sample Plan](https://goo.gl/cVV8Y2) written by Prasanth
 
 You can apply in this [Google Form](https://goo.gl/forms/OKv9o2EUMBCRwl4N2)
 
-*Note*: The deadline to apply for this event is on **December 18th 6:00PM.**
+*Note*: The deadline to apply for this event is on **December 21st 6:00PM.**
 In case of any queries please ping in our telegram group [@mozillatnc](https://web.telegram.org/#/im?p=@mozillatnc) & [@mozillatn](https://web.telegram.org/#/im?p=@mozillatn) .
 
+#### Date of Meetup : Jan 21st & Jan 22nd 2017
+
+##### Sponsorship
+
+For selected contributors outside coimbatore we are planning to give sponsorship  Partial or fully for Travel,  Stay and food for both the days. We are reviewing applications so we can accomodate maximum number of contributors for this meetup.
+
+For all participants attending the meetup, lunch will be available.
 
 Hope to see you all @ **MozillaTN17** :D 
+
+**Update 1:** Added Sponsorship details.
+**Update 2:** Application deadlines changed from 18th to 21st Dec 2016

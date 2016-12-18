@@ -1,5 +1,5 @@
 /* Reset */
-html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{border:0;font-size:100%;font:inherit;vertical-align:baseline;margin:0;padding:0}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:none}table{border-collapse:collapse;border-spacing:0}
+html,body,div,span,applet,object,iframe,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{border:0;font-size:100%;font:inherit;vertical-align:baseline;margin:0;padding:0}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:none}table{border-collapse:collapse;border-spacing:0}
 *, *:before, *:after { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
 
 /* Clearfix */
@@ -51,9 +51,9 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 .icon-facebook-rect:before { content: '\e803'; }
 
 /* Spacing */
-.post h1, h3, h4, h5, p, .post-body ul, #post-list li, pre, #tag-post-list {
-margin-bottom: 20px;
-margin-top: 20px;
+.post  p, .post-body ul, #post-list li, pre, #tag-post-list {
+margin-bottom: 10px;
+margin-top: 10px;
 }
 
 /* Base */
@@ -86,17 +86,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a4e2f5', end
 
 }
 
-h1 {
-	font-size: 30px;
-	letter-spacing: -1px;
-	color: #222;
-	font-weight: bold;
-}
-
-h2 {
-	font: italic 19px/1.3em Georgia,serif;
-	color: #bbb;
-}
 
 .profile #wrapper {
 	padding: 100px 40px 0px;
@@ -227,7 +216,19 @@ ul      {
 li	{ list-style-type:square; list-style-position:inside; }
 
 /* Line Height */
-#post-body, p { line-height:1.7; }
+
+#post-body, p { 
+ line-height:1.7; 
+ margin-top: 10px;
+         font-family: medium-content-serif-font,Georgia,Cambria,"Times New Roman",Times,serif;
+         letter-spacing: .1rem;
+         font-weight: 400;
+         font-style: normal;
+         font-size: 21px;
+         line-height: 1.58;
+         letter-spacing: -.003em;
+ }
+
 
 b, strong { font-weight: 500;
   color: #1E2025; 
@@ -272,25 +273,6 @@ em, i { font-style: italic; }
 
 }
 
-.post h1 {
-	margin-bottom: 20px;
-	color: #222;
-	font: 300 32px/1.4em 'Open Sans',Inconsolata, sans-serif,"Helvetica Neue", Helvetica,Arial,sans-serif;
-	font-size: 2.2em;
-        font-weight: 700;
-        line-height: 1.2;
-        letter-spacing: -1px;
-        margin: 0px;
-        padding: 0px 0px 12px 0px;
-        color: rgba(0, 0, 0, 0.8);
-
-}
-
-.post h2 {
-	margin-bottom: 40px;
-	  font: 300 24px/1.5 "Helvetica Neue",Helvetica,Arial,sans-serif;
-	  color: #111;
-}
 
 
 .post h2.headline {
@@ -312,18 +294,6 @@ em, i { font-style: italic; }
 	margin-top: 2px;
 }
 
-h3, h4, h5 { color:#333; }
-
-h3 { font-size:20px; font-weight: 400; }
-h4 { font-size:16px; font-weight:bold; }
-h5 { font-size:15px; font-weight: bold; }
-
-h6 {
-	font-size: 13px;
-	font-weight: bold;
-	color: #666;
-	margin-bottom: 6px;
-}
 
 p.small {
 	color: #bbb;
@@ -812,7 +782,6 @@ Post List
 
 	#tag-post-list-footer { margin-top: 20px; padding-top: 40px; }
 
-	h1 { font-size: 26px; }
 	.post h2.headline { font-size: 13px; }
 	.post h1 { font-size:24px; }
 	.post h2 { font-size:20px; }
@@ -855,4 +824,86 @@ margin-bottom: 20px;
 
 p {
 margin-top: 20px;
+}
+
+
+
+.cards {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+
+.cards:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+
+.post h1 { 
+	color: #666;
+        font: 300 28px/2em 'Open Sans',Inconsolata, sans-serif,"Helvetica Neue", Helvetica,Arial,sans-serif;
+        font-weight: 700;
+        line-height: 1.2;
+        letter-spacing: -1px;
+        padding: 0px 0px 12px 0px;
+        color: rgba(0, 0, 0, 0.8);
+	margin-top: 1em;
+	}
+.post h2 { 
+	color: #666;
+        font: 300 24px/1.8em 'Open Sans',Inconsolata, sans-serif,"Helvetica Neue", Helvetica,Arial,sans-serif;
+        font-weight: 600;
+        line-height: 1.2;
+        letter-spacing: -1px;
+        padding: 0px 0px 12px 0px;
+        color: rgba(0, 0, 0, 0.8);
+	margin-top: 1em;
+	}
+
+.post h3 { 
+	color: #666;
+        font: 300 24px/1.6em 'Open Sans',Inconsolata, sans-serif,"Helvetica Neue", Helvetica,Arial,sans-serif;
+        font-weight: 600;
+        line-height: 1.2;
+        letter-spacing: -1px;
+        padding: 0px 0px 12px 0px;
+        color: rgba(0, 0, 0, 0.8);
+        margin-top: 1em;
+
+}
+
+.post h4 {
+	color: #666;
+        font: 300 24px/1.4em 'Open Sans',Inconsolata, sans-serif,"Helvetica Neue", Helvetica,Arial,sans-serif;
+        font-weight: 500;
+        line-height: 1.2;
+        letter-spacing: -1px;
+        padding: 0px 0px 12px 0px;
+        color: rgba(0, 0, 0, 0.8);
+        margin-top: 1em;
+
+}
+
+.post h5 {
+	color: #666;
+        font: 300 24px/1.3em 'Open Sans',Inconsolata, sans-serif,"Helvetica Neue", Helvetica,Arial,sans-serif;
+        font-weight: 500;
+        line-height: 1.2;
+        letter-spacing: -1px;
+        padding: 0px 0px 12px 0px;
+        color: rgba(0, 0, 0, 0.8);
+        margin-top: 1em;
+
+}
+
+
+.post h6 {
+	color: #666;
+        font: 300 24px/1.2em 'Open Sans',Inconsolata, sans-serif,"Helvetica Neue", Helvetica,Arial,sans-serif;
+        font-weight: 500;
+        line-height: 1.2;
+        letter-spacing: -1px;
+        padding: 0px 0px 12px 0px;
+        color: rgba(0, 0, 0, 0.8);
+        margin-top: 1em;
+
 }
