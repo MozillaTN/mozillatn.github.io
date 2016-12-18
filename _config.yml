@@ -8,13 +8,15 @@ blogPage: true
 
 highlighter: rouge
 
-paginate: 5
+paginate: 10
 paginate_path: "/page:num" 
 baseurl: /
 domain_name: 'http://mozillatn.github.io'
 google_analytics: 'UA-63310670-1'
 disqus: true
 disqus_shortname: 'MozillaTN'
+
+markdown: kramdown
 
 # Details for the RSS feed generator
 url:            'http://mozillatn.github.io'

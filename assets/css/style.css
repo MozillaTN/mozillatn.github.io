@@ -160,6 +160,10 @@ nav.main-nav a.cta {
   max-width: 900px;
   margin: 0 auto;
   padding: 60px 40px 100px 40px;
+	
+  box-shadow: 5px 5px 20px #878787;
+  background-color: #fff;
+
 }
 
 #wrapper.home {
