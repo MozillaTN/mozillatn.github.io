@@ -28,7 +28,7 @@ Our Interaction with the community people and contributors is mainly through the
 MozillaTN Community Social media current status:
 ===============================================
 
-- Facebook - 1500+ Likes 30- Reach Avg
+- Facebook - 1500+ Likes 300- Reach Avg
 - Twitter -   220+ Followers
 - Website -  20 Visits per day Avg
 - Telegram Channel -  80+ Followers
