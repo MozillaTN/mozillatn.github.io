@@ -3,8 +3,8 @@ title:  "JOURNEY OF MOZILLATN SOCIAL MEDIA TEAM"
 date:   2016-12-18 21:50:00 +0530
 description: Mozilla Tamilnadu Community Contribution 2016
 categories: blog
-tags: [Social Media Team MozillaTN ]
-author: Selva Makilan
+tags: [Social Media Team MozillaTN , MozillaTN17]
+author: Makilan
 ---
 Hello Mozillians,
 Mozilla Tamilanadu is also one of the most active community in India
