@@ -37,7 +37,8 @@ Functional areas and heads:
 ==========================
 - Localization By Khaleel Jageer
 - Rust By Vigneshwar
-- Virtual Reality, WebCompat By Karthikeyan , Prasanth
+- Virtual Reality By Karthikeyan
+- WebCompat By Prasanth
 - WoMoz  By Ashly
 - WebExtension By Viswaprasath
 
