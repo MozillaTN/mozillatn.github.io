@@ -13,12 +13,24 @@ Mozilla Tamilanadu is also one of the most active community in India
 
 Social media is one of the most powerful weapons that is changing the way we perceive the world. With the aid of social media, we as a collective have become more connected than ever before. In that retrospect, social media is not exactly a media, but an interface to engage and build relationships with people. And we, the Mozilla TN social media team have focused on doing this for the past couple of months.
 
-Initially, MozillaTN social media team included only a few members 1.Makilan 2.Gowtham 3.Kanitha guided by Regional Ambassador Lead.
+At the begining, MozillaTN Social media Team had only 3 amazing rulers guided by [Karthickeyan](https://twitter.com/hellokarthic) - Our Regional Ambassador Lead-
+- [Makilan](https://twitter.com/selva_makilan) 
+- [Gowtham](https://twitter.com/GVRGowtham) 
+- [Kanitha](https://www.facebook.com/kani.thangaraj)
+
 
 ![Social Media]({{ site.url }}/assets/mozilltn_socialmediateam.png)
 
 
-After a half year of intense collaborative efforts, many changes occurred in Social media team and has expanded. Now the crew includes 1.Ashly rose Mathew, 2.Prasanth and also the design team members 1.Nirmal GL, 2.Bhuvana Meenakshi 3.Rohit lead by Selva Makilan.
+After 6 months of intense collaborative efforts,Lots of improvements & protocols were defined for the team.Along with this, the social media also expanded its team size.
+Presently, the crew includes:
+- [Makilan](https://twitter.com/selva_makilan)- Co-Lead
+- [Ashly rose Mathew](https://twitter.com/ashlirosemathew)- Co-Lead & content Writer, 
+- [Prasanth](https://twitter.com/prasanthp96)- Content Publisher
+- [Bhuvana Meenakshi](https://twitter.com/bhuvanakotees1)- Content Writer
+- [Nirmal GL](https://twitter.com/glnirmal) - Design Lead
+- [Rohit](https://twitter.com/blahatrohit)- Co-Designer
+
 It has been a great experience so far! And we had the pleasure of contributing in various ways to the community through our blog posts. For more information -[blog]( https://mozillatn.github.io/blog/Social-Media-Team-Half-yearly-updates/) 
 
 ![Social Media]({{ site.url }}/assets/media.jpg)
@@ -35,9 +47,18 @@ MozillaTN Community Social media current status:
  
 Functional areas and heads:
 ==========================
-- Localization By Khaleel Jageer
-- Rust By Vigneshwar
-- Virtual Reality, WebCompat By Karthikeyan , Prasanth
-- WoMoz  By Ashly
-- WebExtension By Viswaprasath
+- Localization By [Khaleel Jageer](https://twitter.com/JSKaleel)
+- Rust By [Vigneshwar](https://twitter.com/dvigneshwer)
+- Virtual Reality By [Karthikeyan](https://twitter.com/hellokarthic) 
+- WebCompat By [Prasanth](https://twitter.com/prasanthp96)
+- WoMoz  By [Ashly rose mathew](https://twitter.com/ashlirosemathew)
+- WebExtension By [Viswaprasath](https://twitter.com/iamVP7)
+- Social Media By [Selva Makilan](https://twitter.com/selva_makilan)
+
+Social Media Team Goals for 2017:
+================================
+   
+- Increase the number of  followers on our Social media page.
+- Make a strong Engagement between contributors and Community
+- Build a better infrastructure and outreach 
 
