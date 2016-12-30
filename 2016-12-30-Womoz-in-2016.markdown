@@ -1,0 +1,43 @@
+---
+title:  "WomozTN in 2016"
+date:   2016-11-15 06:50:00 +0530
+description: Journey of Womoz Tamilnadu in 2016.
+categories: blog
+tiny_url : 
+tags: [mozactivate, MozillaTN17]
+author: ashly_rose
+---
+
+Hello Cheers!!!!!!!!!
+       
+       
+[Mozilla Tamilnadu]({{ site.url }}) had a great year in 2016. The scale on growth was remarkably high and there was a strong surge in the count of active contributors. 
+
+One among the remarkable development is the formation of Womoz Tamilnadu team. Womoz is the collective name given to the women contributors of Mozilla. From the beginning Mozilla Tamilnadu had Women contributors, but the count was less to be called as a team. Finally  in 2016 the Womoz team was formed with 12 active and enthusiastic women contributors who were part of “Week of Contribution 2016” program and was named WomozTN. 
+
+![WomozTN logo]({{ site.url }}/assets/photo851572752601163784.jpg)
+As stated, it was initially formed with 12 women contributors who were  part of WOC 2016 as a Telegram group. They started their contribution in Mozilla through [Localisation for Tamil](https://mozillatn.github.io/blog/A-New-Promising-Power-On-Track/) and translated 992 strings as a whole. This marked the beginning of WomozTN.
+
+Later as a team they decided to grow and help their fellow women in their colleges to learn and contribute towards Mozilla. To motivate and maintain the spirit a [Hangouts call](https://public.etherpad-mozilla.org/p/WomozTN_Hangouts_call1(25-09-2016)) with *"Drashti Pandya"* from Gujarat was aranged on sep25. This gave them a greater confidence and the community started to grow. By this time the team started contributing towards SUMO projects, test days and web extensions.
+
+On Oct 30 the team had their next call organised by Fahima with Karthickeyan who shared about the latest tracks in Mozilla. As a result of this call the first sprint exclusively for Girls  “ Featured Add-ons e10s Compatibility sprint ” was organised by Ashly Rose and Bhuvana Meenakshi. A [invite](https://mozillatn.github.io/blog/Womoz-TN-to-chip-in-Featured-Add-ons-e10s-Compatibility-sprint/) was made to all the Womoz to take part in the sprint and it lasted nearly for 5 dyas. 
+
+This was the first ever sprint organised only for girls and a total of 32 addons were tested. Though may turned up these three have shown a greater interest: 
+
+ - [Fahima Zulfath](https://twitter.com/FahimaZulfath)
+ - [R.Krithika Sowbarnika](https://twitter.com/ragavaa25)
+ - [Vishwa Kotecha](https://twitter.com/KotechaVishwa)
+
+*'Though I was basically from ECE, I had a thirst towards programming and testing. I had attended some previous test days, but this sprint was close to my heart as it was exclusively for girls.'  - Fahima Zulfath,WomozTN*
+ 
+As a part of WomozTN Ashly Rose and Bhuvana Meenakshi had attended the Dino Tank workshop Bangalore on “Connecting rural Women to Internet” during 18th Nov to 20th Nov. They shared their thoughts with the others after the workshop. The workshop showed a path on the way the WomozTN have to proceed in the upcoming year.
+
+*'The workshop lightened the other side of the society which we haven’t turned to. It revealed the ratio of girls and Women who are still away from technical development and said us that it's our responsibility to educate them.'  - Ashly Rose.* 
+
+*'I dwell in Salem, one of the developing cities in Tamil Nadu and the disadvantage of being in such cities is that, any technology update gets implemented very slowly. This way I was able to share my views on many issues and how internet awareness needs a reach in many rural areas of India.'   - Bhuvana Meenakshi K*
+
+After a six months of flourishing journey,now the team have 25+ members lead by Ashly Rose.This was the count as of the day the blog was pushed. Now the team is completely set into the track and it is sure that in the upcoming year they will contribute with better benchmarks.
+
+
+**“We, the Womoz  Tamilnadu hereby take an oath to reach out to more women in our surrounding and thereby will include the success stories of at least 20 Women in our next year end blog.!!!!!!!”
+                                                                                                                       - Womoz Tamilnadu**
