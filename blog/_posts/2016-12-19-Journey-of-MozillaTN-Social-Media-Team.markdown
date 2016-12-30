@@ -43,8 +43,8 @@ Our Interaction with the community people and contributors is mainly through the
 - Facebook - 1500+ Likes 300- Reach Avg
 - Twitter -   220+ Followers
 - Website -  20 Visits per day Avg
-- Telegram Channel -  80+ Followers
- 
+- Telegram Channel - 80+ Followers
+
 # Functional areas and heads:
 
 - Localization By [Khaleel Jageer](https://twitter.com/JSKaleel)
