@@ -1,6 +1,6 @@
 ---
 title:  "WomozTN in 2016"
-date:   2016-11-15 06:50:00 +0530
+date:   2016-12-30 17:50:00 +0530
 description: Journey of Womoz Tamilnadu in 2016.
 categories: blog
 tiny_url : https://goo.gl/1wruY2
