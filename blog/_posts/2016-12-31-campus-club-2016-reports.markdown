@@ -5,7 +5,7 @@ description: Status reports of new campus clubs established in 2016
 categories: blog
 tiny_url : https://goo.gl/3mD4S8
 tags: [campusclub, MozillaTN17]
-author: karthickeyan
+author: Karthickeyan
 ---
 
 2016 had been a great year for Mozilla with a lot of new goals, transitioning of FSA into Campus Clubs, Lot of improvements in the Community
@@ -17,12 +17,12 @@ Here are the list of Mozilla Campus clubs inaugurated in 2016
 
 
 
- - [Amrita University, Coimbatore](https://twitter.com/FahimaZulfath)
- - [IIIT D& M College, Chennai](https://twitter.com/ragavaa25)
- - [Bannari Amman Institute of Technology, Sathyamangalam](https://twitter.com/KotechaVishwa)
- - [SNS college of Technology, Coimbatore](https://twitter.com/KotechaVishwa)
- - [Sri Krishna College of Technology, Coimbatore](https://twitter.com/KotechaVishwa)
- - [KCG College of Technology, Chennai](https://twitter.com/KotechaVishwa)
+ - [Amrita University, Coimbatore](https://mozkarthic.wordpress.com/2016/04/16/mozilla-qa-at-anokha-2016/)
+ - [IIIT D& M College, Chennai](https://mozkarthic.wordpress.com/2016/04/16/seminar-on-mln-at-iiitdm-techfest-samgatha-16/)
+ - [Bannari Amman Institute of Technology, Sathyamangalam](https://mozkarthic.wordpress.com/2016/10/25/campus-club-inauguration-at-bannari-amman-institute-of-technology/)
+ - [SNS college of Technology, Coimbatore](https://www.facebook.com/hellokarthic/media_set?set=a.1198098773544530.1073741833.100000332562614&type=3)
+ - [Sri Krishna College of Technology, Coimbatore](https://www.facebook.com/hellokarthic/media_set?set=a.1198098773544530.1073741833.100000332562614&type=3)
+ - [KCG College of Technology, Chennai](https://www.facebook.com/hellokarthic/media_set?set=a.1175417699145971.1073741832.100000332562614&type=3)
 
 
 **Metrics for 2016:**
