@@ -5,7 +5,7 @@ description: Status reports of new campus clubs established in 2016
 categories: blog
 tiny_url : https://goo.gl/3mD4S8
 tags: [campusclub, MozillaTN17]
-author: Karthickeyan
+author: karthic
 ---
 
 2016 had been a great year for Mozilla with a lot of new goals, transitioning of FSA into Campus Clubs, Lot of improvements in the Community
