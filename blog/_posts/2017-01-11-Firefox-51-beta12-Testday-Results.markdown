@@ -42,7 +42,7 @@ author: prasanthp96
 - [Dinesh kumar](https://twitter.com/Dhinesh_Kumar_M)
 - [Kavi Priya ](https://twitter.com/Kavianandha0594)
 
-<p>Thank you everyone for participating :)</p>
-<p> Here is our results - [Etherpad](https://public.etherpad-mozilla.org/p/MozillaIndiaQA-testday-20170106)<p>Lets continue to participate in future Testdays and help Firefox and it's users.</p>
-<p>The Mozilla QA has published the results of the testday - check out [here](https://quality.mozilla.org/2017/01/firefox-51-beta-12-testday-results)</p>
+Thank you everyone for participating :)
+Here is our results - [Etherpad](https://public.etherpad-mozilla.org/p/MozillaIndiaQA-testday-20170106). Lets continue to participate in future Testdays and help Firefox and it's users.
+The Mozilla QA has published the results of the testday - check out [here](https://quality.mozilla.org/2017/01/firefox-51-beta-12-testday-results)
 <p>Happy Testing!</p>
