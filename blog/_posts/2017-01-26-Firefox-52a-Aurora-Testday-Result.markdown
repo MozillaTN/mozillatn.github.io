@@ -1,6 +1,6 @@
 ---
 title:  "Result - Firefox 52a Aurora Testday"
-date:  2017-01-20 21:50:00 +0530
+date:  2017-01-26 21:50:00 +0530
 description: Mozilla India Community Testing day result
 categories: blog
 tags: [firefoxqa]
