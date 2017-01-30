@@ -11,7 +11,7 @@ author: surentharan
 
 **Hello Everyone!**
 
-on monday, 30th January 2017, We will have our weekly Bug Triage Day.We’ll be Triaging the bugs on the Latest Nightly Browser. Check out the detailed instructions via this [etherpad](https://public.etherpad-mozilla.org/p/MozillaIN_QA_Bug_Triage_Day_20170130)
+on monday, 30th January 2017, We will have our weekly Bug Triage Day. Check out the detailed instructions via this [etherpad](https://public.etherpad-mozilla.org/p/MozillaIN_QA_Bug_Triage_Day_20170130)
 
 It will be a great learning and contributing experience for everyone. And hereby invite you to join us. Lets work together for a better Firefox!!!
 
