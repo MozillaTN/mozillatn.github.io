@@ -11,7 +11,7 @@ author: surentharan
 
 **Hello Everyone!**
 
-Coming Friday, 3rd February, We will have another testday, Firefox 52 beta 3. We’ll be focusing our testing on the following features:DTMF, Screen Sharing and <select> drop-down improvements features. Check out the detailed instructions via this [etherpad](https://public.etherpad-mozilla.org/p/MozillaIn-QA-testday-20170203)
+Coming Friday, 3rd February, We will have another testday, Firefox 52 beta 3. We’ll be focusing our testing on the following features:DTMF, Screen Sharing and < select > drop-down improvements features. Check out the detailed instructions via this [etherpad](https://public.etherpad-mozilla.org/p/MozillaIn-QA-testday-20170203)
 
 It will be a great learning and contributing experience for everyone. And hereby invite you to join us. Lets work together for a better Firefox!!!
 
