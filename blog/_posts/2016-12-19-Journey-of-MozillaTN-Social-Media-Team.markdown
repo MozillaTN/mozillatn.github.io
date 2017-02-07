@@ -9,7 +9,6 @@ author: Makilan
 Hello Mozillians,
 Mozilla Tamilanadu is also one of the most active community in India
 
-![Social Media]({{ site.url }}/assets/socialmedia.jpeg)
 
 Social media is one of the most powerful weapons that is changing the way we perceive the world. With the aid of social media, we as a collective have become more connected than ever before. In that retrospect, social media is not exactly a media, but an interface to engage and build relationships with people. And we, the Mozilla TN social media team have focused on doing this for the past couple of months.
 
