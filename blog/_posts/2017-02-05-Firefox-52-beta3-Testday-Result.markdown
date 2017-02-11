@@ -12,7 +12,7 @@ author: surentharan
 
 **Hello All!**
 
-<p>The  Firefox 52 Beta3 Testday tookplace on Feburary 3rd 2017. The main focus during the testing was around DTMF, Screen Sharing, <select> drop-down improvements, Bug Verification and Bug Triage. Before the testday, I posted a message in the Mozilla India telegram group, calling interested people to participate in this Test day.Shortly after the I sent the message, few pinged me that they are interested to join.</p>
+<p>The  Firefox 52 Beta3 Testday tookplace on Feburary 3rd 2017. The main focus during the testing was around DTMF, Screen Sharing, < select > drop-down improvements, Bug Verification and Bug Triage. Before the testday, I posted a message in the Mozilla India telegram group, calling interested people to participate in this Test day.Shortly after the I sent the message, few pinged me that they are interested to join.</p>
 <p>With these 10 awesome contributors, the testday was successfully done.</p>
 
 
