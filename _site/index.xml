@@ -3,169 +3,137 @@
   <channel>
     <title>MozillaTN</title>
     <description>Mozilla Tamilnadu Community Website, highlights more about contributors contribution and tutorials to get started with Community contribution.</description>
-    <link>http://mozillatn.github.io</link>
-    <atom:link href="http://mozillatn.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Social Media Team Half yearly updates</title>
+        <title>Firefox 52 beta 7 Test day invitation</title>
         
         
-          <description>&lt;p&gt;Hello Mozillians,&lt;/p&gt;
+          <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/qmo.jpeg&quot; alt=&quot;Firefox 52 beta 7 Test day&quot; /&gt;&lt;/p&gt;
 
 </description>
         
-        <pubDate>Thu, 14 Jul 2016 23:50:00 +0530</pubDate>
-        <link>http://mozillatn.github.io/blog/Social-Media-Team-Half-yearly-updates/</link>
-        <guid isPermaLink="true">http://mozillatn.github.io/blog/Social-Media-Team-Half-yearly-updates/</guid>
+        <pubDate>Fri, 10 Feb 2017 01:30:00 +0530</pubDate>
+        <link>http://localhost:4000/blog/call-for-Testing-day-firefox-52-beta7/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/call-for-Testing-day-firefox-52-beta7/</guid>
       </item>
     
       <item>
-        <title>Weeks of Contribution 2016 - Addons</title>
+        <title>Result - Firefox 52 Beta3 Testday</title>
         
         
-          <description>&lt;p&gt;&lt;img height=&quot;20%&quot; width=&quot;100%&quot; src=&quot;http://mozillatn.github.io/assets/add_ons_mozillatnwoc.jpg&quot; /&gt;&lt;/p&gt;
+          <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/qmo.jpeg&quot; alt=&quot;Firefox 52 Beta3 Testday&quot; /&gt;&lt;/p&gt;
 
 </description>
         
-        <pubDate>Wed, 06 Jul 2016 21:50:00 +0530</pubDate>
-        <link>http://mozillatn.github.io/blog/Weeks-Of-Contribution-2016-AMO/</link>
-        <guid isPermaLink="true">http://mozillatn.github.io/blog/Weeks-Of-Contribution-2016-AMO/</guid>
+        <pubDate>Sun, 05 Feb 2017 21:50:00 +0530</pubDate>
+        <link>http://localhost:4000/blog/Firefox-52-beta3-Testday-Result/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/Firefox-52-beta3-Testday-Result/</guid>
       </item>
     
       <item>
-        <title>Weeks of Contribution 2016 - QA - Firefox Nightly</title>
+        <title>Firefox 52 beta 3 Test day invitation</title>
         
         
-          <description>&lt;p&gt;&lt;img height=&quot;20%&quot; width=&quot;100%&quot; src=&quot;/assets/MozillTN_WOC_QA.jpg&quot; /&gt;&lt;/p&gt;
+          <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/qmo.jpeg&quot; alt=&quot;Firefox 51a Aurora Testday&quot; /&gt;&lt;/p&gt;
 
 </description>
         
-        <pubDate>Tue, 21 Jun 2016 21:50:00 +0530</pubDate>
-        <link>http://mozillatn.github.io/blog/Weeks-Of-Contribution-2016-QA/</link>
-        <guid isPermaLink="true">http://mozillatn.github.io/blog/Weeks-Of-Contribution-2016-QA/</guid>
+        <pubDate>Wed, 01 Feb 2017 05:55:00 +0530</pubDate>
+        <link>http://localhost:4000/blog/call-for-Testing-day-firefox-52-beta3/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/call-for-Testing-day-firefox-52-beta3/</guid>
       </item>
     
       <item>
-        <title>Weeks of Contribution 2016 - SUMO</title>
+        <title>Bug Verification day invitation</title>
         
         
-          <description>&lt;p&gt;&lt;img height=&quot;20%&quot; width=&quot;100%&quot; src=&quot;http://mozillatn.github.io/assets/SUMO_TN.jpg&quot; /&gt;&lt;/p&gt;
+          <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/qmo.jpeg&quot; alt=&quot;Bug Verification day&quot; /&gt;&lt;/p&gt;
 
 </description>
         
-        <pubDate>Mon, 20 Jun 2016 21:50:00 +0530</pubDate>
-        <link>http://mozillatn.github.io/blog/Weeks-Of-Contribution-2016-SUMO/</link>
-        <guid isPermaLink="true">http://mozillatn.github.io/blog/Weeks-Of-Contribution-2016-SUMO/</guid>
+        <pubDate>Tue, 31 Jan 2017 12:20:00 +0530</pubDate>
+        <link>http://localhost:4000/blog/call-for-bug-verification-day/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/call-for-bug-verification-day/</guid>
       </item>
     
       <item>
-        <title>Weeks of Contribution 2016 - Localization</title>
+        <title>Bug Triage day invitation</title>
         
         
-          <description>&lt;p&gt;&lt;img src=&quot;http://mozillatn.github.io/assets/MozillTN_WOC_L10N.jpg&quot; alt=&quot;Weeks of Contribution Localization&quot; /&gt;&lt;/p&gt;
+          <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/qmo.jpeg&quot; alt=&quot;Bug Triage Day&quot; /&gt;&lt;/p&gt;
 
 </description>
         
-        <pubDate>Fri, 17 Jun 2016 01:20:00 +0530</pubDate>
-        <link>http://mozillatn.github.io/blog/Weeks-Of-Contribution-2016-L10N/</link>
-        <guid isPermaLink="true">http://mozillatn.github.io/blog/Weeks-Of-Contribution-2016-L10N/</guid>
+        <pubDate>Mon, 30 Jan 2017 14:45:00 +0530</pubDate>
+        <link>http://localhost:4000/blog/call-for-bug-triage-day/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/call-for-bug-triage-day/</guid>
       </item>
     
       <item>
-        <title>Weeks of Contribution 2016 - FAQ</title>
+        <title>Result - Firefox 52a Aurora Testday</title>
         
         
-          <description>&lt;p&gt;&lt;strong&gt;What is Weeks Of Contributions ?&lt;/strong&gt;&lt;/p&gt;
+          <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/qmo.jpeg&quot; alt=&quot;Firefox 52a Aurora Testday&quot; /&gt;&lt;/p&gt;
 
 </description>
         
-        <pubDate>Sat, 11 Jun 2016 17:20:00 +0530</pubDate>
-        <link>http://mozillatn.github.io/blog/Weeks-Of-Contribution-2016-FAQ/</link>
-        <guid isPermaLink="true">http://mozillatn.github.io/blog/Weeks-Of-Contribution-2016-FAQ/</guid>
+        <pubDate>Thu, 26 Jan 2017 21:50:00 +0530</pubDate>
+        <link>http://localhost:4000/blog/Firefox-52a-Aurora-Testday-Result/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/Firefox-52a-Aurora-Testday-Result/</guid>
       </item>
     
       <item>
-        <title>Weeks of Contribution 2016</title>
+        <title>Firefox 52a Aurora Test day invitation</title>
         
         
-          <description>&lt;p&gt;Last year Mozilla Tamilnadu community contributors started an initiative  called as weeks of contribution. The main aim of this initiative is to bring first time contributors to contribute to Mozilla Community. We really had great impact in this, around 15 new contributors joined our community and helping to grow us very well. Learn those who joined us last year newly and active &lt;a href=&quot;https://viswaprasathks.wordpress.com/2015/09/06/weeks-of-contribution-impact-on-me-community-part-3/&quot;&gt;Weeks of Contribution 2015 Report&lt;/a&gt;&lt;/p&gt;
+          <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/qmo.jpeg&quot; alt=&quot;Firefox 51a Aurora Testday&quot; /&gt;&lt;/p&gt;
 
 </description>
         
-        <pubDate>Sat, 04 Jun 2016 17:20:00 +0530</pubDate>
-        <link>http://mozillatn.github.io/blog/Weeks-Of-Contribution-2016/</link>
-        <guid isPermaLink="true">http://mozillatn.github.io/blog/Weeks-Of-Contribution-2016/</guid>
+        <pubDate>Wed, 18 Jan 2017 21:50:00 +0530</pubDate>
+        <link>http://localhost:4000/blog/call-for-Testing-day-firefox-52a/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/call-for-Testing-day-firefox-52a/</guid>
       </item>
     
       <item>
-        <title>Add yourself as Author</title>
+        <title>Result - Firefox 51.0b12 BetaTestday</title>
         
         
-          <description>&lt;p&gt;On April 1st MozillaTN community released new version of the &lt;a href=&quot;http://mozillatn.github.io/&quot;&gt;Website&lt;/a&gt;. The main aim of this website is to bring all the community related or contribution related materials at one place. As a first step we have successfully integrated our community blog here. So this website in future will have details like active club in Tamilnadu, how to get started with various contribution areas, details about task force members of Tamilnadu community and much more.&lt;/p&gt;
+          <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/qmo.jpeg&quot; alt=&quot;Firefox 51.0b12 Aurora Testday&quot; /&gt;&lt;/p&gt;
 
 </description>
         
-        <pubDate>Tue, 05 Apr 2016 07:50:00 +0530</pubDate>
-        <link>http://mozillatn.github.io/blog/Add-Yourself-As-Author/</link>
-        <guid isPermaLink="true">http://mozillatn.github.io/blog/Add-Yourself-As-Author/</guid>
+        <pubDate>Wed, 11 Jan 2017 21:50:00 +0530</pubDate>
+        <link>http://localhost:4000/blog/Firefox-51-beta12-Testday-Results/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/Firefox-51-beta12-Testday-Results/</guid>
       </item>
     
       <item>
-        <title>Prasanth is budding FSA started contribution with Localization</title>
+        <title>Firefox 51b12 Beta Test day invitation</title>
         
         
-          <description>&lt;p&gt;&lt;strong&gt;1) Please introduce yourself and give us three keywords that would define you the best.&lt;img class=&quot;  wp-image-560 alignright&quot; src=&quot;/assets/prashantj.jpg&quot; alt=&quot;Prashantj&quot; width=&quot;380&quot; height=&quot;380&quot; /&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;My name is P.Prasanth.I am studying 2nd year BE Computer Science and Engineering in Sri Krishna College of Engineering and Technology, Coimbatore. A passionate programmer , An active social media user and a kind of a person who always look forward for an opportunity to meet new people.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;2) What area are you from [city]?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;I am from Madurai. But staying in Coimbatore as I am studying here.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;3) What do you do as a career [job/school/retired]?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Student.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;4) List a favorite hobby or something about yourself that you&#39;d like to share.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Hearing musics,reading books, blogging are my hobbies.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;5) Links to your website, blog, etc.?&lt;/strong&gt;&lt;br /&gt;
-Blog :-    &lt;a href=&quot;http://foxprasanth.github.io/&quot;&gt;http://foxprasanth.github.io/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;6) How did you discover the Web?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;During my childhood,it was my elder sister, who introduced me to web, by calling me to accompany her, whenever she went to internet cafes.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;7) How did you hear about Mozilla and Mozilla Tamilnadu Community?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;I heard about Mozilla during a tech meetup in Madurai. I was introduced to Mozilla TamilNadu Community by Gautham Venkat, a fellow FSA from Amritha University.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;8) How and why did you start contributing to Mozilla?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;It all started in localisation event which took place during inauguration of MozMadurai.&lt;/p&gt;
-&lt;p&gt;I started contributing to Mozilla because I felt that such contribution would have a great positive impact me. As I felt , I have grown my skills over the past months.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;10) What’s the contribution you’re the most proud of?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The best contribution that I made is “The privacy campaign” which I conducted in my college.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;11) What advice would you give to someone who is new and interested in contributing to Mozilla?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The common problem faced by the begineers is hesitation to mingle. Never hesitate to ask doubts. Because with each doubts , we get each new ideas.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;12) If you had one word or sentence to describe Mozilla, what would it be?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;I will describe Mozilla as “the best community for learning and teaching as well!”&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;13) What exciting things do you envision for you and Mozilla in the future?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;I could see Mozilla community growing in a rapid pace. With more events coming up, more contributions generated, there comes more innovation. Mozilla will strive hard to keep the Web open and I could see myself helping for it’s great cause.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;14) Is there anything else you&#39;d like to say or add to the above questions?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Nothing more.Start working today! and make a better tomorrow.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;15) Please tell us more about your community. Is there anything you find particularly interesting or special about it?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The speciality of Mozilla TamilNadu community is it active participation and its nature to help new FSAs and guide them.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;16) What’s your best memory with your fellow community members?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The best event is the localization event by Gautham @MozspaceMadurai.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://foxprasanth.github.io/events/2015/12/21/MozMdu-inaugration/&quot;&gt;http://foxprasanth.github.io/events/2015/12/21/MozMdu-inaugration/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-</description>
-        
-        <pubDate>Fri, 11 Mar 2016 17:06:46 +0530</pubDate>
-        <link>http://mozillatn.github.io/blog/contributor%20post/prasanth-is-budding-fsa-started-contribution-with-localization/</link>
-        <guid isPermaLink="true">http://mozillatn.github.io/blog/contributor%20post/prasanth-is-budding-fsa-started-contribution-with-localization/</guid>
-      </item>
-    
-      <item>
-        <title>Writing My First Extension (Firefox Add-ons)</title>
-        
-        
-          <description>&lt;p&gt;In last post I was writing about &lt;a href=&quot;&quot;&gt;Getting Started with WebExtension&lt;/a&gt;. Its very exicting to learn something new in Web each and everyday. And as a developer the feel when we know our software (General term you can replace with WebExtension)  is going to reach many users its awesome feeling.&lt;/p&gt;
+          <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/qmo.jpeg&quot; alt=&quot;Firefox 51b12 Beta Testday&quot; /&gt;&lt;/p&gt;
 
 </description>
         
-        <pubDate>Thu, 10 Mar 2016 07:50:00 +0530</pubDate>
-        <link>http://mozillatn.github.io/clubs/Writing-My-First-Extension/</link>
-        <guid isPermaLink="true">http://mozillatn.github.io/clubs/Writing-My-First-Extension/</guid>
+        <pubDate>Tue, 03 Jan 2017 21:50:00 +0530</pubDate>
+        <link>http://localhost:4000/blog/call-for-Testing-day-firefox-51b12/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/call-for-Testing-day-firefox-51b12/</guid>
+      </item>
+    
+      <item>
+        <title>Campus Club Report 2016</title>
+        
+        
+          <description>&lt;p&gt;2016 had been a great year for Mozilla with a lot of new goals, transitioning of FSA into Campus Clubs, Lot of improvements in the Community&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 31 Dec 2016 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/blog/campus-club-2016-reports/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/campus-club-2016-reports/</guid>
       </item>
     
   </channel>

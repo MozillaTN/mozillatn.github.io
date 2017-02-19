@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="google-site-verification" content="ZfPaSlr3bwFrxIPqW-2BYwe7bEGwZF8SaJ1kj8UX88A" />
+  <title>MozillaTN - About surentharan R.A</title>
+  <link rel="shortcut icon" href="/assets/images/favicon.ico">
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="alternate" type="application/rss+xml" title="My Blog" href="/rss.xml">
+  <link rel="stylesheet" href="/assets/css/highlight.css">
+</head>
+<body>
+
+  <nav class="main-nav">
+        <a href="/"> Home </a>
+            <a href="/blog">Blog </a>
+            <a href="/cal">Events</a>
+            <a href="/contact">Event Request </a>
+</nav>
+
+
+  
+
+  <section id="wrapper" class="">
+    <!--<div id="post-meta" class="clearfix">
+        
+        <a href="http://twitter.com/surentharan7">
+        <img class="avatar" src="https://secure.gravatar.com/avatar/285ed40aea324821f3b0ebebf8075629">
+        </a>
+	<div>
+            <span class="dark">About Surentharan R.A</span>
+            <span>Contributor</span>
+        </div> 
+</div>
+-->
+<div class="profile">
+    <section id="wrapper">
+        <header id="header">
+            <a href="/about">
+                <img id="avatar" class="2x" src="https://secure.gravatar.com/avatar/285ed40aea324821f3b0ebebf8075629"/>
+            </a>
+            <h1>Surentharan R.A</h1>
+            <h2>Contributor</h2>
+        </header>
+    </section>
+</div>
+
+
+
+
+
+A passionate programmer. Got attracted by Testing contribution area.
+
+continuously working with mozilla to protect web
+
+A socially active person.
+
+<ul id="post-list">
+<br /> <br />
+<h2>	<b> surentharan Posts </b> </h2>
+<br /> <br />
+    
+          
+         <li>
+            <a href="/blog/call-for-Testing-day-firefox-52-beta7/"><aside class="dates">Feb 10</aside></a>
+            <a href="/blog/call-for-Testing-day-firefox-52-beta7/">Firefox 52 beta 7 Test day invitation <h2>Mozilla Tamilnadu Community Testing day invitation</h2></a>
+        </li>
+
+          
+    
+          
+         <li>
+            <a href="/blog/Firefox-52-beta3-Testday-Result/"><aside class="dates">Feb 05</aside></a>
+            <a href="/blog/Firefox-52-beta3-Testday-Result/">Result - Firefox 52 Beta3 Testday <h2>Mozilla India Community Testing day result</h2></a>
+        </li>
+
+          
+    
+          
+         <li>
+            <a href="/blog/call-for-Testing-day-firefox-52-beta3/"><aside class="dates">Feb 01</aside></a>
+            <a href="/blog/call-for-Testing-day-firefox-52-beta3/">Firefox 52 beta 3 Test day invitation <h2>Mozilla Tamilnadu Community Testing day invitation</h2></a>
+        </li>
+
+          
+    
+          
+         <li>
+            <a href="/blog/call-for-bug-verification-day/"><aside class="dates">Jan 31</aside></a>
+            <a href="/blog/call-for-bug-verification-day/">Bug Verification day invitation <h2>Mozilla Tamilnadu Community Bug verification day invitation</h2></a>
+        </li>
+
+          
+    
+          
+         <li>
+            <a href="/blog/call-for-bug-triage-day/"><aside class="dates">Jan 30</aside></a>
+            <a href="/blog/call-for-bug-triage-day/">Bug Triage day invitation <h2>Mozilla Tamilnadu Community Bug Triage day invitation</h2></a>
+        </li>
+
+          
+    
+          
+         <li>
+            <a href="/blog/Firefox-52a-Aurora-Testday-Result/"><aside class="dates">Jan 26</aside></a>
+            <a href="/blog/Firefox-52a-Aurora-Testday-Result/">Result - Firefox 52a Aurora Testday <h2>Mozilla India Community Testing day result</h2></a>
+        </li>
+
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+         <li>
+            <a href="/blog/Firefox-51.0a2-Aurora-(Developer-Edition)-testing-day-report/"><aside class="dates">Nov 04</aside></a>
+            <a href="/blog/Firefox-51.0a2-Aurora-(Developer-Edition)-testing-day-report/">Result - Firefox 51.0a2 Aurora (Developer Edition) Testday <h2>Mozilla India Community Testing day result</h2></a>
+        </li>
+
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+</ul>
+
+
+
+  </section>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script src="/assets/js/main.js"></script>
+  <script src="/assets/js/highlight.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script>
+
+
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-63310670-1', 'auto');
+    ga('send', 'pageview');
+  </script>
+</body>
+</html>
+
+
+
