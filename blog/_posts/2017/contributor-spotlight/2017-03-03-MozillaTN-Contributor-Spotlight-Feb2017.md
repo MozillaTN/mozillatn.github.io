@@ -1,6 +1,6 @@
 ---
 title:  "MozillaTN Contributor spotlight Feb 2017"
-date:   2017-01-03 21:50:00 +0530
+date:   2017-03-03 21:50:00 +0530
 description: Amazing contributors around MozillaTN and their amazing event experience.
 categories: blog
 tags: [spotlight]
