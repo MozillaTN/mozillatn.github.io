@@ -39,6 +39,12 @@ Our MozillaTN space coordinator team led by Sriram from KGiSL organised an amazi
 
 SRMKzilla is one of the biggest Campus club in Tamilnadu with 80 student contributors. On 25th Feb they organised an small meetup session to share more about Mozilla Communities and WebVR, and planned for the upcoming meetup which is going to happen in their college. You can find report [here](https://mozillatn.github.io/srmkzilla/blog/Saturday-ChillOut-3) 
 
+### L10N Sprint at MEC
+
+Adam went back to his college and had wonderful session about Localization. He shared about how he started contributing to Mozilla, how it helped him and then contributing to L10N projects. He was very excited to go back to his college and share his knowledge with his juniors.
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FMohammedAdam24%2Fposts%2F1845301572409164&width=500" width="500" height="839" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
 
 ### Website development by Campus Clubs
 
