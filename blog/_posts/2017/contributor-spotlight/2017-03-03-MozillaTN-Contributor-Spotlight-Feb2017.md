@@ -4,6 +4,7 @@ date:   2017-03-03 21:50:00 +0530
 description: Amazing contributors around MozillaTN and their amazing event experience.
 categories: blog
 tags: [spotlight]
+tiny_url : https://goo.gl/IqiouY
 author: iamvp7
 ---
 
