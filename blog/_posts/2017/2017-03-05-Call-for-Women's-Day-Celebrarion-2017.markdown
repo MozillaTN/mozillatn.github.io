@@ -3,14 +3,14 @@ title:  "Call for Women's Day celebration 2017"
 date:   2017-03-05 17:50:00 +0530
 description: Call for participating in Women's day celebration.
 categories: blog
-tiny_url : 
+tiny_url : https://goo.gl/Qygwo0
 tags: [mozactivate, MozillaTN17]
 author: ashly_rose
 ---
 
 Hello Cheers!!!
 
-  **“Ready to initiate the change” and here we go. Join hands with us**
+  **“Ready to initiate the change” and here we go. Join hands with us**
 
 
  International Women's Day (March 8) is a global day celebrating the social, economic, cultural and political achievements of women. Though many women are marking their achievements in various fields, we have women who fears to come out of their home.
