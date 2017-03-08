@@ -4,6 +4,7 @@ date:   2017-03-08 21:50:00 +0530
 description: QA
 categories: blog
 tags: [firefoxqa]
+tiny_url: https://goo.gl/NoP4Uw
 author: prasanthp96
 ---
 
