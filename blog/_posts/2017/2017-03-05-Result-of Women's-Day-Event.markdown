@@ -3,7 +3,7 @@ title:  "Result of Women's Day Events 2017"
 date:   2017-03-28 17:50:00 +0530
 description: Result of Women's day celebration.
 categories: blog
-tiny_url : 
+tiny_url : https://goo.gl/IK0Ca3
 tags: [mozactivate, MozillaTN17]
 author: ashly_rose
 ---
