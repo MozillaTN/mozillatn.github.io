@@ -22,20 +22,20 @@ Hello cheers!
  
  Four colleges came forward to organise the  events. These events were lead by the womozTN members of each college. We followed a common agenda. The session was started with the presentation on “Women in Tech, What are we and what we can”. Following that, there was a introduction to Mozilla and its key focus areas as most of the participants were non-mozillians. We also had a small presentation about Mozilla Tamilnadu and WomozTN. The next session was hands-on which was based on the interest of the event organisers.
             
-  - **SNS College of Technology, Coimbatore:**
+- **SNS College of Technology, Coimbatore:**
        The event was lead by Kavya along with a team of 5 organisers. A total of 21 participants attended the event.  The event focused on testing. 
             
       *"we girls celebrated the elegance of womenhood along with the sessional demonstrations of widely discussed topics of open source community to the score inspired many girls to accomplish the growing technology ...!!" - Pavithra (Member*
 
-  - **Dhirajlal Gandhi College of Technology, Salem:**
+- **Dhirajlal Gandhi College of Technology, Salem:**
        The event here was organised by Ashly Rose Mathew M and there was a team three more people supporting her. The hands-on session was on Rust programming. In a team of thirty participants, 23 were girls.
             
       *"The day was too great, I learnt a lot about Mozilla and its focus areas, Web extensions have attracted me and I am going to start contributing in it"- Monishaa Devi*
                   
-  - **KGISL College of Technology, Coimbatore:**
+- **KGISL College of Technology, Coimbatore:**
        The event was organised by Pavithra along with a team of 5 contributors. There were a team of 30 + participants. The hands on session was on QA testing.
 
-  - M**ailam Engineering College,Villupuram:**
+- **Mailam Engineering College,Villupuram:**
        The event was organised by Kavipriya. There were a sum of 20 + participants. They had a hands on testing.
             
             
