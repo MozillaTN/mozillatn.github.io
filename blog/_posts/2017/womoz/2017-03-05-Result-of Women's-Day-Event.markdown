@@ -25,12 +25,12 @@ Hello cheers!
 - **SNS College of Technology, Coimbatore:**
        The event was lead by Kavya along with a team of 5 organisers. A total of 21 participants attended the event.  The event focused on testing. 
             
-      *"we girls celebrated the elegance of womenhood along with the sessional demonstrations of widely discussed topics of open source community to the score inspired many girls to accomplish the growing technology ...!!" - Pavithra (Member*
+      "we girls celebrated the elegance of womenhood along with the sessional demonstrations of widely discussed topics of open source community to the score inspired many girls to accomplish the growing technology ...!!" - Pavithra (Member)
 
 - **Dhirajlal Gandhi College of Technology, Salem:**
        The event here was organised by Ashly Rose Mathew M and there was a team three more people supporting her. The hands-on session was on Rust programming. In a team of thirty participants, 23 were girls.
             
-      *"The day was too great, I learnt a lot about Mozilla and its focus areas, Web extensions have attracted me and I am going to start contributing in it"- Monishaa Devi*
+      "The day was too great, I learnt a lot about Mozilla and its focus areas, Web extensions have attracted me and I am going to start contributing in it"- Monishaa Devi
                   
 - **KGISL College of Technology, Coimbatore:**
        The event was organised by Pavithra along with a team of 5 contributors. There were a team of 30 + participants. The hands on session was on QA testing.
@@ -41,7 +41,7 @@ Hello cheers!
             
  On the whole, a sum of  100 + participants were there. Out of which 70 of them were girls. This is a remarkable achievement in the history of [Mozilla Tamilnadu]( site.url ) , in special WomozTN. With the quote “Of the women, for the Women and By the Women”, we all belive that we have sown the seed of change in the minds of all those girls, who attended the event on that day.  
             
- "I am personaly very proud that I was supported by such a great team of enthusiastic people who are linked minded. I would like to register my sincere thanks to each and every contributor in Mozilla Tamilnadu who has supported us to make this event happen"- Ashly Rose*
+ "I am personaly very proud that I was supported by such a great team of enthusiastic people who are linked minded. I would like to register my sincere thanks to each and every contributor in Mozilla Tamilnadu who has supported us to make this event happen"- Ashly Rose
 
-  Looking forward for more such events!!!
+**Looking forward for more such events!!!**
 
