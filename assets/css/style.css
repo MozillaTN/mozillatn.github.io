@@ -210,14 +210,17 @@ a,
 	transition: all 0.15s ease;
 }
 
-ul      {
+ul,ol      {
         margin:0;
         padding:0;
         padding-left: 1em;
         text-indent: 2em;
         }
 
-li	{ list-style-type:square; list-style-position:inside; }
+
+ul li   { list-style-type:square; list-style-position:inside; }
+
+ol li      { list-style-type:upper-roman; list-style-position:inside; }
 
 /* Line Height */
 
