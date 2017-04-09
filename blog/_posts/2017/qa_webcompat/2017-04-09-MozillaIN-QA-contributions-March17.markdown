@@ -4,7 +4,7 @@ date:   2017-04-09 21:50:00 +0530
 description: QA
 categories: blog
 tags: [firefoxqa]
-tiny_url: https://goo.gl/NoP4Uw
+tiny_url:
 author: surentharan
 ---
 
