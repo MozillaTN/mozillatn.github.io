@@ -4,11 +4,11 @@ date:   2017-04-10 21:50:00 +0530
 description: Amazing contributors around MozillaTN and their amazing event experience.
 categories: blog
 tags: [spotlight]
-tiny_url : 
+tiny_url : https://goo.gl/BScbfM 
 author: iamvp7
 ---
 
-[MozillaTN]({{ site.url }}) is growing big day by day. And as per one of the goals of MozillaTN17 we are getting large number of evangelist. We should find sometime to see what our amazing contributors around Tamilnadu did in past month. Each month our community is collecting the event detail report in github under the repo [MozillaTN-events](https://github.com/MozillaTN/mozillatn-events/issues/3).
+[MozillaTN]({{ site.url }}) is growing big day by day. And as per one of the goals of MozillaTN17 we are getting large number of evangelist. We should find sometime to see what our amazing contributors around Tamilnadu did in past month. Each month our community is collecting the event detail report in github under the repo [MozillaTN-events](https://github.com/MozillaTN/mozillatn-events/issues/5).
 
 In March we had amazing number of events around Tamilnadu. Short gist about the list of events we had
 
@@ -27,7 +27,7 @@ In March we had amazing number of events around Tamilnadu. Short gist about the 
 
 Mozillians around Tanjore, Tamilnadu (India) organised MozCafe event at  Tradent technologies,Tanjore. The main aim of this event was to share more about the various contribution areas of Mozilla. Our active contributor Barani along with our Social Media lead Makilan organised this amazing event. The detailed event report is shared by Barani in the [post]({{ site.url}}/KingsCampusClub/blog/MozCafe).
 
-![MozillaTN Tanjor Mozcafe] ({{site.url}}/assets/images/2017/mozcafe_tanjore_mar_2017.jpg)
+![MozillaTN Tanjor Mozcafe]({{site.url}}/assets/images/2017/mozcafe_tanjore_mar_2017.jpg)
 
 
 ### WoMoz in Action
@@ -60,7 +60,7 @@ SNSCT is has one of the amazing set of contributors in [MozillaTN]( {{ site.url}
 - 100 WebSites verified
 - 31 bugs Filed
 
-![MozillaTN SNSCT WebCompat] ({{site.url}}/assets/images/2017/mozillatn_snsct_webcompat_mar_2017.jpg)
+![MozillaTN SNSCT WebCompat]({{site.url}}/assets/images/2017/mozillatn_snsct_webcompat_mar_2017.jpg)
 
 ### Mozactivate hackathon at KCG
 
@@ -81,6 +81,7 @@ Ashley is one of the amazing WoMoz from MozillaTN. She has a good leadership ski
 At this moment we are very excited to congratulate Prasanth from SKCET who is named as Friends of Add-ons, it is amazing to see him getting featured in AMO [blog](https://blog.mozilla.org/addons/2017/03/31/friend-add-ons-prasanth/)
 
 
+### Notes
 
 **Note** : For the April 2017 please comment all your event report at github [issue](https://github.com/MozillaTN/mozillatn-events/issues/5). There are large number of ways to contribute to Mozilla Community. Follow your passion and start contributing.
 
