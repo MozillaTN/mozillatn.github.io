@@ -39,7 +39,7 @@ Hello cheers!
        The event was organised by Kavipriya. There were a sum of 20 + participants. They had a hands on testing.
             
             
- On the whole, a sum of  100 + participants were there. Out of which 70 of them were girls. This is a remarkable achievement in the history of [Mozilla Tamilnadu]( site.url ) , in special WomozTN. With the quote “Of the women, for the Women and By the Women”, we all belive that we have sown the seed of change in the minds of all those girls, who attended the event on that day.  
+ On the whole, a sum of  100 + participants were there. Out of which 70 of them were girls. This is a remarkable achievement in the history of [Mozilla Tamilnadu]( {{site.url}} ) , in special WomozTN. With the quote “Of the women, for the Women and By the Women”, we all belive that we have sown the seed of change in the minds of all those girls, who attended the event on that day.  
             
  "I am personaly very proud that I was supported by such a great team of enthusiastic people who are linked minded. I would like to register my sincere thanks to each and every contributor in Mozilla Tamilnadu who has supported us to make this event happen"- Ashly Rose
 
