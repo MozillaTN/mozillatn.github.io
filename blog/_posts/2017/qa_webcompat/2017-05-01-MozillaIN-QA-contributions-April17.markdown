@@ -18,7 +18,6 @@ Short Metrics:
 =============
 - Number of contributors participated from Mozilla TN: 19
 - Number of Bugs verified: 26
-- Number of Bugs Filed: 0
 - Number of Bugs Triaged: 12
 
 The results are listed below.
