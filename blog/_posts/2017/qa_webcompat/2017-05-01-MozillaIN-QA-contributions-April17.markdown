@@ -16,7 +16,7 @@ Our community is doing a consistent contribution in [QA](http://quality.mozilla.
 
 Short Metrics:
 =============
-- Number of contributors participated from Mozilla TN: 19
+- Number of contributors participated: 19
 - Number of Bugs verified: 26
 - Number of Bugs Triaged: 12
 
