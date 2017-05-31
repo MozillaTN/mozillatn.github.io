@@ -6,7 +6,7 @@
           {% if post.author contains page.author %}
          <li>
             <a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}"><aside class="dates">{{ post.date | date:"%b %d" }}</aside></a>
-            <a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">{{ post.title }} <h2>{{ post.description }}</h2></a>
+            <a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">{{ post.title }} <h2 class="author-post-list-css">{{ post.description }}</h2></a>
         </li>
 
           {% endif %}
