@@ -37,9 +37,9 @@ The results are listed below.
 We whole heartedly thank the awesome participants for joining us.
 
 - [Surentharan .R.A](https://twitter.com/surentharan7)
-- [Fahima Zulfath A]()
+- [Fahima Zulfath A](https://twitter.com/FahimaZulfath)
 - [Baranitharan](https://twitter.com/baranicool)
-- [Sriram]()
+- [Sriram](https://twitter.com/imSriramB)
 - [vignesh kumar]()
 
 
