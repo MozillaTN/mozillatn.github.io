@@ -43,5 +43,5 @@ These event is organized with the objective to bring more power users for nightl
    * No of people switchback to Firefox Nightly from other browsers: 8
    * No of bug filled in Webcompat: 2
    * No of blogs generated: 4
-   * No of active contributor after the event: 5
+   
 
