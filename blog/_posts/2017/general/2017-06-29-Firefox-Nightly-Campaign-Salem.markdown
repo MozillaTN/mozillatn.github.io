@@ -4,8 +4,10 @@ date:   2017-06-29 10:50:00 +0530
 description: Mozilla Tamilnadu Community participation in INUsesFxNightly Campaign
 categories: blog
 tags: [community]
-author: fahima_zulfath
+author: Fahima Zulfath
 ---
+
+![InUsesFxNightly]({{ site.url }}/assets/InUsesFxNightly.jpg)
 
 During the month of May and June 2017, [Mozilla India](https://blog.mozillaindia.org/1801) have organised a campaign called 
 **India Uses Firefox Nightly**  especially for the developers of India to enjoy the pre-released version of Firefox. The main motto of this campaign is to create awarness about pre-release version available as Nightly and targeting more power users for nightly. Contributing for Nightly is the easy way to make Firefox more stable during its initial stage of development before getting released in the mainstream. Mozilla Tamilnadu community is very happy to be the part of this campaign and organised a event called "Firefox Nightly Campaign" at Salem on June 18, 2017.
