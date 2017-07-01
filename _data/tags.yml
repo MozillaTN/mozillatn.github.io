@@ -24,7 +24,10 @@
 - slug: firefoxqa
   name: FirefoxQA
   desc: Articles related to Firefox Quality Assurance 
-
+  
+- slug: fxwebcompat
+  name: Firefox Webcompat
+  desc: Articles related to Firefox Quality Assurance 
 
 - slug: fxtestpilot
   name: Fx Test Pilot
