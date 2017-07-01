@@ -3,7 +3,7 @@ title:  "Firefox Nightly Campaign at Salem"
 date:   2017-06-29 10:50:00 +0530
 description: Mozilla Tamilnadu Community participation in INUsesFxNightly Campaign
 categories: blog
-tags: [community]
+tags: [firefoxqa,fxwebcompat]
 author: Fahima Zulfath
 ---
 
@@ -40,8 +40,8 @@ These event is organized with the objective to bring more power users for nightl
    * No of attendees at the event: 15
    * No of Firefox Nightly installed: 11 Laptops / 5 Mobile / 1 Tab
    * No of participants will contribute in Firefox Nightly after event: 6
-   * No of people switchback to Firefox Nightly from other browsers: 8
-   * No of bug filled in Webcompat: 2
+   * No of people switchback to Firefox Nightly from other browsers: Almost everyone
+   * No of bug filed in Webcompat: 2
    * No of blogs generated: 4
    
 
