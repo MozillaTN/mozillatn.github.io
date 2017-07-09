@@ -12,7 +12,7 @@ Hello Readers!!
 
 ![May Month Report]({{ site.url }}/assets/qmo.jpeg)
 
-Our community is doing a consistent contribution in [QA](http://quality.mozilla.org/) by participating in various testdays,bug verifications days and triage days. Here is a report on our QA activities during April Month 2017.
+Our community is doing a consistent contribution in [QA](http://quality.mozilla.org/) by participating in various testdays,bug verifications days and triage days. Here is a report on our QA activities during May Month 2017.
 
 Short Metrics:
 =============
