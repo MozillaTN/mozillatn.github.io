@@ -28,27 +28,27 @@ The results are listed below.
 - [Bug Verification day - 20170607](https://public.etherpad-mozilla.org/p/MozillaIN_QA_Bug_Verification_Day_20170607)
 - [Bug Triage Day - 20170612](https://public.etherpad-mozilla.org/p/MozillaIN_QA_Bug_Triage_Day_20170612)
 - [Bug Verification day - 20170614](https://public.etherpad-mozilla.org/p/MozillaIN_QA_Bug_Verification_Day_20170614)
-- [Bug Triage Day - 2017/ 06 / 19](https://public.etherpad-mozilla.org/p/MozillaIN_QA_Bug_Triage_Day_20170619)
-- [Bug Verification day-2017 / 06 / 21](https://public.etherpad-mozilla.org/p/MozillaIN_QA_Bug_Verification_Day_20170621)
-- [Firefox 55 Beta4 Testday - 2017 / 06 / 23 ](https://public.etherpad-mozilla.org/p/MozillaIN_QA_Firefox_55_Beta_4_Testday)
-- [Bug Triage Day - 2017/ 06 / 26](https://public.etherpad-mozilla.org/p/MozillaIN_QA_Bug_Triage_Day_20170626)
-- [Bug Verification day-2017 / 06 / 28](https://public.etherpad-mozilla.org/p/MozillaIN_QA_Bug_Verification_Day_20170628)
+- [Bug Triage Day - 20170619](https://public.etherpad-mozilla.org/p/MozillaIN_QA_Bug_Triage_Day_20170619)
+- [Bug Verification day-20170621](https://public.etherpad-mozilla.org/p/MozillaIN_QA_Bug_Verification_Day_20170621)
+- [Firefox 55 Beta4 Testday - 20170623](https://public.etherpad-mozilla.org/p/MozillaIN_QA_Firefox_55_Beta_4_Testday)
+- [Bug Triage Day - 20170626](https://public.etherpad-mozilla.org/p/MozillaIN_QA_Bug_Triage_Day_20170626)
+- [Bug Verification day - 20170628](https://public.etherpad-mozilla.org/p/MozillaIN_QA_Bug_Verification_Day_20170628)
 
 
 We whole heartedly thank the awesome participants for joining us.
 
 - [Fahima Zulfath A](https://twitter.com/FahimaZulfath)
-- [Pavithra Roselin](https://twitter.com/)
+- [Pavithra Roselin](https://twitter.com/RoselinPavithra)
 - [Surentharan .R.A](https://twitter.com/surentharan7)
 - [Rohit R](https://twitter.com/)
-- [Vinothini.K](https://twitter.com/)
+- [Vinothini.K](https://twitter.com/vinosri99)
 - [Sriram B](https://twitter.com/imSriramB)
 - [Baranitharan](https://twitter.com/baranicool)
 - [Terryjohn](https://twitter.com/)
 - [P Avinash Sharma](https://twitter.com/)
 - [Abirami S D](https://twitter.com/)
 - [Ponmurugesh](https://twitter.com/)
-- [Subash M](https://twitter.com/)
+- [Subash M](https://twitter.com/subahiphop4)
 - [Aravind Arul](https://twitter.com/)
 
 Thats's all for June. 
