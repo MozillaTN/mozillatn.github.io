@@ -19,7 +19,7 @@ disqus_shortname: 'MozillaTN'
 markdown: kramdown
 
 # Details for the RSS feed generator
-url:            'http://mozillatn.github.io'
+url:            'https://mozillatn.github.io'
 author:         'mozillatn'
 authorTwitter:  'MozillaTN'
 
