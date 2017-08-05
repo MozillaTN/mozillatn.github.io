@@ -1,5 +1,5 @@
 ---
-title:  "Mozilla India Community Quality Assurance contribution June 2017"
+title:  "Mozilla India Community Quality Assurance contribution July 2017"
 date:   2017-08-04 20:50:00 +0530
 description: QA
 categories: blog
@@ -49,7 +49,7 @@ We whole heartedly thank the awesome participants for joining us.
 - [Terryjohn](https://twitter.com/)
 - [Kaviya D](https://twitter.com/)
 - [Nagarajan ](https://twitter.com/nagarajnaidu921)
-- [Vinothini.K](https://twitter.com/vinosri99
+- [Vinothini.K](https://twitter.com/vinosri99)
 - [Haritha K Sankari](https://twitter.com/)
 - [Abirami S D](https://twitter.com/)
 - [Bharathvaj](https://twitter.com/)
