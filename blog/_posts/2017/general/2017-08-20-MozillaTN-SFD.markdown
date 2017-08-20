@@ -81,7 +81,7 @@ On 17 sep 2016, we celebrated SFD at coimbatore and organized two events in SNS 
 
 **Where do I can register for an event ?**
 
-    - [Click here](https://goo.gl/x745rQ)
+- [Click here](https://goo.gl/x745rQ)
     
 **What is the last date of registration ?**
 
@@ -89,9 +89,8 @@ On 17 sep 2016, we celebrated SFD at coimbatore and organized two events in SNS 
 
 **Any queries?** feel free to ping **MozillaTN**
 
-    - [Telegram](https://t.me/mozillatnc)
-    - [Facebook](https://www.facebook.com/MozillaTN/)
-    - [Twitter](https://twitter.com/mozillaTN)
- 
+  - [Telegram](https://t.me/mozillatnc)
+  - [Facebook](https://www.facebook.com/MozillaTN/)
+  - [Twitter](https://twitter.com/mozillaTN)
 
 Image credits: [Google](https://www.google.co.in/search?q=software+freedom+day&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjYkc6W0uPVAhWFtI8KHcNmBhMQ_AUICigB&biw=1366&bih=659)
