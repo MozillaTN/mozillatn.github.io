@@ -85,7 +85,7 @@ On 17 sep 2016, we celebrated SFD at coimbatore and organized two events in SNS 
     
 **What is the last date of registration ?**
 
-    - 22nd Aug 2017
+    - 23nd Aug 2017
 
 **Any queries?** feel free to ping **MozillaTN**
 
