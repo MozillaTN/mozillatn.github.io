@@ -91,3 +91,12 @@
   name: Contributor SpotLight
   desc: Posts about Amazing contributors of MozillaTN community
 
+- slug: mozillatnsfd
+  name: MozillaTN Software Freedom Day
+  desc: Posts about MozillaTN community invovlement in SFD
+
+
+- slug: mozillatnsfd17
+  name: MozillaTN Software Freedom Day 2017
+  desc: Posts about MozillaTN community invovlement in SFD 2017
+
