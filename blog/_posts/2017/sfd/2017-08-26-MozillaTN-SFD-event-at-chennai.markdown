@@ -1,6 +1,6 @@
 ---
 title:  "MozillaTN- Software Freedom Day at Chennai"
-date:   2017-08-26 10:50:00 +0530
+date:   2017-08-29 10:50:00 +0530
 description: Software Freedom Day (SFD) organized by Digital Freedom Foundation, is an annual worldwide celebration for Free software. Happening at Chennai by MozillaTN community
 categories: blog
 tags: [l10n,firefoxqa,fxwebcompat,rust,community,MozillaTNSFD,MozillaTNSFD17]
