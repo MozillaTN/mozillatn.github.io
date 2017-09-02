@@ -24,6 +24,9 @@ After a lot of struggle our Mozilla community got a opportunity to do more offli
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+**Date** : 16th September 2017 - 17th September 2017
+**Time** : 9:00 AM - 6:00 PM
+
 ### SFD event at space
 
 So this year our MozillaTN community is very excited to host SFD event in this space. We are planning to conduct technical talks and hackathons. This year our community is very aggressively bring technical contributors from different parts of Tamilnadu, with this agenda we will be having  2 days WebExtension hackathon.
