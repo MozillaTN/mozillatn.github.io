@@ -6,7 +6,7 @@ categories: blog
 tags: [addons]
 author: Ms.K.Bhuvana Meenakshi
 ---
-![add-ons-advisory-board]({{ site.baseurl }}assets/add-ons-advisory-board.png)
+![add-ons-advisory-board]({{ site.url }}/assets/add-ons-advisory-board.png)
 
 Extremely happy for contributing in Add-ons featured board. 
 I learnt a lot of things and was very cautious while giving my votes. Having been part of the board helped me earn a collection of 15 
