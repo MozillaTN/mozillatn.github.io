@@ -9,8 +9,20 @@ author: Fahima Zulfath
 
 ![FxQuantumSprint]({{ site.url }}/assets/images/2017/FxQuantumSprint.jpg)
 
-         During 2-8 October 2017, Mozilla Community started a sprint called [Firefox Quantum Sprint](https://firefoxsprint.mozilla.community/) 
- to make a successful launch of Firfox Quantum in Beta.Motto of Firefox Quantum Sprint is to make a difference by ensuring that Firefox runs smoothly for all websites and its an opporunity to make Firefox rise again with additional power. In order to motivate many mozilla campus club, we organised **Firefox Quantum Sprint** at Salem on October 2,2017. The event started with the following flow,
+**What is Firefox Quantum?**
+Firefox Quantum is a new browser by Mozilla. Now the beta version(57) has been released to Windows, Linux and Mac platforms. Firefox Quantum is 2X faster than Firefox 52 beta.
+
+**Features:**
+    * New Browser engine built with RUST language
+    * Separate CSS engine called Stylo
+    * 2X speed
+    * 30% less RAM
+    * Improved UI
+
+**What we did?**
+During 2-8 October 2017, Mozilla Community started a sprint called [Firefox Quantum Sprint](https://firefoxsprint.mozilla.community/) to make a successful launch of Firfox Quantum in Beta.Motto of Firefox Quantum Sprint is to make a difference by ensuring that Firefox runs smoothly for all websites and its an opporunity to make Firefox rise again with additional power. In order to motivate many mozilla campus club, we organised **Firefox Quantum Sprint** at Salem on October 2,2017.
+
+The event started with the following flow,
 
 * Getting started with Mozilla Community
 * Introduction about Web Compatibility Issues
@@ -21,7 +33,7 @@ author: Fahima Zulfath
 **VENUE:** CCI Computer Education, VRK building, near Palace theater, Salem, Tamilnadu.
 **TIME:** 10.00 AM to 1.00 PM.
 
-         The event was sucessfully conducted with vibrant number of contributor around Salem from various Mozilla Campus club. The Sprint results can be seen in this [Etherpad](https://public.etherpad-mozilla.org/p/Firefox_Quantum_Sprint_-_Salem). We had a great time organising the event in Salem. We would like to register our sincere thanks to everyone who volunteered for this event.
+The event was sucessfully conducted with vibrant number of contributor around Salem from various Mozilla Campus club. The Sprint results can be seen in this [Etherpad](https://public.etherpad-mozilla.org/p/Firefox_Quantum_Sprint_-_Salem). We had a great time organising the event in Salem. We would like to register our sincere thanks to everyone who volunteered for this event.
          
 METRICS ACHIEVED:
 * No of attendees at the event: 10
