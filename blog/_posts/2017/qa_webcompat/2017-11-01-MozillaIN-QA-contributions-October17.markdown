@@ -38,7 +38,7 @@ We whole heartedly thank the awesome participants for joining us.
 
 - [Fahima Zulfath A](https://twitter.com/FahimaZulfath)
 - [Surentharan R A](https://twitter.com/surentharan7)
-- [Bhuvana Meenakshi.K](https://twitter.com/)
+- [Bhuvana Meenakshi.K](https://twitter.com/bhuvanakotees1)
 
 Thats's all for October. 
 Our community will continue our contributions to Mozilla and help firefox to become better than ever.
