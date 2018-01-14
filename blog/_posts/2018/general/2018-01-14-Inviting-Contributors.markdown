@@ -41,8 +41,15 @@ In this role first we expect all the Students Club to maintain club websites lik
 - [mkcezilla](https://mozillatn.github.io/mkcezilla/)
 
 Second coordinate with other student contributors and encourage them to contribute in various ways.
-
 Third make sure you foucs on anyone technical contribution areas, so you can build yourself and help you in long time. 
+
+If you are interested, the leave the comment at the end of the blog post with following details
+
+- Name
+- Interested to become Social media contributor / Community Coordiantor.
+- Previous Experience if any
+- Your Telegram handle
+
 
 Exciting to see how 2018 is going to be for our MozillaTN community. There are lot of ways we are contribute and learn a lot.
 
