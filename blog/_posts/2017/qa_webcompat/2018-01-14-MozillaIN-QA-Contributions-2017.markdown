@@ -17,7 +17,7 @@ Once we started to think, what we did for 2017? Every contributor of [Mozilla In
 **“We believe on quality rather than quantity counts”**
 
 Now, it's time to show our quality. Mozilla India is very happy and excited to showcase our QA contributions to Mozilla.
-In 2017, Mozilla India had **70+** vibrant number of contributors who worked with full fire throughout the year and participated on **100+** events. They actively involved themselves with huge passion in various QA bug events like [Bug Triage Day](https://developer.mozilla.org/en-US/docs/Mozilla/QA/Bug_Triage_Day), [Bug Verification day](https://developer.mozilla.org/en-US/docs/Mozilla/QA/Bug_Verification_Day), QA Test Day, [Reporting bugs](https://developer.mozilla.org/en-US/docs/Mozilla/QA/Bug_writing_guidelines), etc on both offline and online. Our QA contributors doesn't stop here itself, they also want to teach the web to others. Several QA contributors organized bug events in their college campus club and brought many new contributors to the web. And they are responsible and playing a vital role in bringing up the count 71 this year. We would like to thank [Ms. Krishnaveni](https://twitter.com/venikrishbm) for supporting us on creating etherpad for the bug events. Mozilla India community wants to convey a special thanks to all of them for their hard work and supporting us in several ways.
+In 2017, Mozilla India had **70+** vibrant number of contributors who worked with full fire throughout the year and participated on **100+** events. They actively involved themselves with huge passion in various QA bug events like [Bug Triage Day](https://developer.mozilla.org/en-US/docs/Mozilla/QA/Bug_Triage_Day), [Bug Verification day](https://developer.mozilla.org/en-US/docs/Mozilla/QA/Bug_Verification_Day), QA Test Day, [Reporting bugs](https://developer.mozilla.org/en-US/docs/Mozilla/QA/Bug_writing_guidelines), etc on both offline and online. Our QA contributors doesn't stop here itself, they also want to teach the web to others. Several QA contributors organized bug events in their college campus club and brought many new contributors to the web. And they are responsible and playing a vital role in bringing up the count 71 this year.  We would like to thank [Ms. Krishnaveni](https://twitter.com/venikrishbm) for supporting us on creating etherpad for the bug events. Currently, we have **200** members in our MozillaIN QA telegram channel to share each other view on various QA projects going on. Mozilla India community wants to convey a special thanks to all of them for their hard work and supporting us in several ways.
 
 Here is our proud 71 contributors
 
@@ -71,6 +71,7 @@ After a vigorous analysis, Mozilla India is very excited and happy to congrats o
 - Number of Bug Triage Day participated : 33
 - Number of Bug Verification Day participated : 45
 - Number of Bugs Reported : 53
+- Members in Telegram channel: 200
 
 Apart from bug events we organized and involved ourselves in many important campaigns. Here are few Interesting experience we had hosting an event for testing.
 
