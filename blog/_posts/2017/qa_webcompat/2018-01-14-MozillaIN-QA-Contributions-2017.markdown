@@ -88,4 +88,4 @@ That was an amazing time we had together as a community in the proud name of **M
 
 **#MozLove** to all the contributors, because you are the key to this success community!!!  
 
-   *Happy Contributions!!! Happy Testing!!
+   *Happy Contributions!!! Happy Testing!!*
