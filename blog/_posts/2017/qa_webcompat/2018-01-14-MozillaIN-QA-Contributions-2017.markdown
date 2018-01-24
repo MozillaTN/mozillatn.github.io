@@ -12,14 +12,14 @@ Hello Mozillians!!
 ![QA Glimpse of 2017]({{ site.url }}/assets/qmo.jpeg)
 
 
-Let's take a moment to remember what we did in 2017 for Mozilla. Every contributor of [Mozilla India](https://wiki.mozilla.org/India) starts to jump with joy, their mind had more traffic on remembering all the events they did, because it is much as a wide Sky. We have lot of contribution areas but 
+Let's take a moment to remember what we did in 2017 for Mozilla. Walk through the past shows the path for future. Every contributor of [Mozilla India](https://wiki.mozilla.org/India) is up in joy as their past year have a lot to be listed. The curve of Learning and contributions have a significant increase for every individual contributor. Though we’ve lot of contributors at Mozilla India contributing to different projects, organizing events and promoting the mission of Mozilla but what we believe is that  
 
-**“We believe on quality rather than quantity counts”**
-
+**“Quality rather than Quantity counts.”**
+ 
 Now, it's time to show our quality. Mozilla India is very happy and excited to showcase our QA contributions to Mozilla.
-In 2017, Mozilla India had **70+** vibrant number of contributors who worked with full fire throughout the year and participated on **100+** events. They actively involved themselves with huge passion in various QA bug events like [Bug Triage Day](https://developer.mozilla.org/en-US/docs/Mozilla/QA/Bug_Triage_Day), [Bug Verification day](https://developer.mozilla.org/en-US/docs/Mozilla/QA/Bug_Verification_Day), QA Test Day, [Reporting bugs](https://developer.mozilla.org/en-US/docs/Mozilla/QA/Bug_writing_guidelines), etc on both offline and online. The help of our QA contributors was not limited only to Test Day events. They started teaching the web to others. Several QA contributors organized bug events in their college campus club and brought many new contributors to the web. And they are responsible and playing a vital role in bringing up the count 71 this year.  Currently, we have **200** members in our MozillaIN QA telegram channel to share each other view on various QA projects going on. Mozilla India community wants to convey a special thanks to all of them for their hard work and supporting us in several ways.
+In 2017, Mozilla India had **70+** vibrant number of contributors who worked with full fire throughout the year and participated on **100+** events. They actively involved themselves with huge passion in various QA bug events like [Bug Triage Day](https://developer.mozilla.org/en-US/docs/Mozilla/QA/Bug_Triage_Day), [Bug Verification day](https://developer.mozilla.org/en-US/docs/Mozilla/QA/Bug_Verification_Day), QA Test Day, [Reporting bugs](https://developer.mozilla.org/en-US/docs/Mozilla/QA/Bug_writing_guidelines), etc on both offline and online. The help of our QA contributors was not limited only to Test Day events. They started teaching the web to others. Several QA contributors organized bug events in their college campus club and brought many new contributors to the web. And they are responsible and playing a vital role in bringing up the count 71 this year.  Currently, we have **200+** members in our MozillaIN QA telegram channel to share each other view on various QA projects going on. Mozilla India community wants to convey a special thanks to all of them for their hard work and supporting us in several ways.
 
-Here is our proud 71 contributors
+Here are our proud 71 contributors
 
 | Contributor | List|
 | --- | --- |
@@ -71,7 +71,21 @@ After a vigorous analysis, Mozilla India is very excited and happy to congrats o
 - Number of Bug Triage Day participated : 33
 - Number of Bug Verification Day participated : 45
 - Number of Bugs Reported : 53
-- Members in Telegram channel: 200
+- Members in Telegram channel: 200+
+
+**MONTHLY REPORTS:**
+
+- [February 2017](https://mozillatn.github.io/blog/MozillaIN-QA-contributions-Feb17/)
+- [March 2017](https://mozillatn.github.io/blog/MozillaIN-QA-contributions-March17/)
+- [April 2017](https://mozillatn.github.io/blog/MozillaIN-QA-contributions-April17/)
+- [May 2017](https://mozillatn.github.io/blog/MozillaIN-QA-contributions-May17/)
+- [June 2017](https://mozillatn.github.io/blog/MozillaIN-QA-contributions-June17/)
+- [July 2017](https://mozillatn.github.io/blog/MozillaIN-QA-contributions-July17/)
+- [August 2017](https://mozillatn.github.io/blog/MozillaIN-QA-contributions-August17/)
+- [September 2017](https://mozillatn.github.io/blog/MozillaIN-QA-contributions-September17/)
+- [October 2017](https://mozillatn.github.io/blog/MozillaIN-QA-contributions-October17/)
+- [November 2017](https://mozillatn.github.io/blog/MozillaIN-QA-contributions-November17/)
+- [December 2017](https://mozillatn.github.io/blog/MozillaIN-QA-contributions-December17/)
 
 Apart from bug events we organized and involved ourselves in many important campaigns. Here are few Interesting experience we had hosting an event for testing.
 
@@ -85,7 +99,9 @@ October was a very special month for mozilla, every mozillian consistently worke
 
 In the end of the month we had a [QA call](https://fahimazulfath.wordpress.com/2017/12/24/qa-test-day-online-event/) for newbies to help them participating in QA Test Days.  In case you missed the call. you can watch the video in [YouTube](https://www.youtube.com/playlist?list=PLV5zqYRQOU3lJ1zWsLS9OUYYjmHtkhc0x&jct=ijtCDC9slLtDSnHkyt-t7bKGgMvezA). 
  
-That was an amazing time we had together as a community in the proud name of **Mozilla India**. Words are powerless to express the gratitude for the community members for taken initiatives to achieve this metrics and for supporting us in all aspects. Last but not least Mozilla India would like to thank **Mr. Mihai Boldan**, **Mr. Mike Taylor** and **Mr. pasal Chevrel** for mentoring us. Many thanks to [Mr. Prasanth](https://twitter.com/prasanthp96), [Mr. Surentharan](https://twitter.com/surentharan7), [Ms. Fahima Zulfath](https://twitter.com/FahimaZulfath) and [Ms. Krishnaveni](https://twitter.com/venikrishbm) for supporting us on organizing the bug events. We are looking for tremendous powerful contributions from all of you in upcoming QA days.
+That was an amazing time we had together as a community in the proud name of **Mozilla India**. Words are powerless to express the gratitude for the community members for taken initiatives to achieve this metrics and for supporting us in all aspects. Last but not least Mozilla India would like to thank [Mr. Mihai Boldan](https://mozillians.org/en-US/u/mboldan/), [Mr. Mike Taylor](https://mozillians.org/en-US/u/miketaylr/) and [Mr. Pasal Chevrel](https://mozillians.org/en-US/u/pascalc/) for mentoring us.
+
+Many thanks to [Mr. Prasanth](https://twitter.com/prasanthp96), [Mr. Surentharan](https://twitter.com/surentharan7), [Ms. Fahima Zulfath](https://twitter.com/FahimaZulfath) and [Ms. Krishnaveni](https://twitter.com/venikrishbm) for supporting us on organizing the bug events. We are looking for tremendous powerful contributions from all of you in upcoming QA days.
 
 **#MozLove** to all the contributors, because you are the key to this success community!!!  
 
