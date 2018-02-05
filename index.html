@@ -28,21 +28,20 @@
         </li>
     {% endfor %}
 </ul> -->
-<div calss="card-deck">
+<div calss="row">
 	    {% for post in paginator.posts %}
-	    
+	    <div calss="col-1 col-sm-1 col-md-3 col-lg-4">
 		
 		{% assign author = site.data.people[post.author] %}
 			<div class="card">
-				<a href="/about/{{ post.author }}"><img src="{{ author.gravatar}}"></a>
-														       <div class="card-body">
+				<img calss="card-img-top" src="{{ author.gravatar}}">
 				<div calss="card-body">
 						       <a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">{{ post.title }} 
                                 <h2>{{ post.description }}</h2>
 				</div>
 			</div>
 			
-			
+			</div>
 			{% endfor %}
 </div>
 
