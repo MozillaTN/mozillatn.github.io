@@ -32,19 +32,13 @@
 
 <div class="row">
 	{% for post in paginator.posts %}
-	<div class="col-md-3">
-		<div class="card">
-			{% assign author = site.data.people[post.author] %}
-    <a href="/about/{{ post.author }}"><img class="card-img-top" src="{{ author.gravatar}}"></a>
-    <div class="card-body">
-	    <a  href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}" class="card-title>{{ post.title }}
-										   
-										   <small>{{ post.description }}</small>
-	</a>
-     
-    </div>
-  </div>
+	<div class="card">
+		{% assign author = site.data.people[post.author] %}
+		<a  href="/about/{{ post.author }}"><img class="card-img-top" src="{{ author.gravatar}}"></a>
+		<div class="card-body">
+			<a class="card-title" href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">{{ post.title }}<small>{{ post.description }}</small></a>
+		</div>
 	</div>
-	 {% endfor %}
+	{% endfor %}		
 </div>
 
