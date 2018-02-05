@@ -34,17 +34,16 @@
 	{% for post in paginator.posts %}
 	<div class="col-md-3">
 		<div class="card">
+			{% assign author = site.data.people[post.author] %}
     <a href="/about/{{ post.author }}"><img class="card-img-top" src="{{ author.gravatar}}"></a>
     <div class="card-body">
-	    <div class="card-title">
-		    <a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">{{ post.title }}
-			    <h4>{{ post.description }}</h4>
-					</a>
-	    </div>
+	    <a  href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}" class="card-title>{{ post.title }}
+										   
+										   <small>{{ post.description }}</small>
+	</a>
      
     </div>
   </div>
-
 	</div>
 	 {% endfor %}
 </div>
