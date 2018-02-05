@@ -28,9 +28,9 @@
         </li>
     {% endfor %}
 </ul> -->
-<div class="row>
+<div calss="card-deck">
 	    {% for post in paginator.posts %}
-	    <div calss="col-md-6">
+	    
 		
 		{% assign author = site.data.people[post.author] %}
 			<div class="card">
@@ -41,9 +41,8 @@
                                 <h2>{{ post.description }}</h2>
 				</div>
 			</div>
-			</div>
+			
 			
 			{% endfor %}
-		</div>
- </div>
+</div>
 
