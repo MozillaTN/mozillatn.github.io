@@ -34,13 +34,14 @@
 		{% assign author = site.data.people[post.author] %}
 			<div class="card">
 				<a href="/about/{{ post.author }}"><img class="card-img-top" src="{{ author.gravatar}}"></a>
-			</div>
-			<div class="card-body">
+														       <div class="card-body">
 				<div calss="card-title">
 						       <a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">{{ post.title }} 
                                 <h2>{{ post.description }}</h2>
 				</div>
 			</div>
+			</div>
+			
 			{% endfor %}
 		</div>
  </div>
