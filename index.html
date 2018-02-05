@@ -29,8 +29,9 @@
     {% endfor %}
 </ul> -->
 <div class="row>
+	    {% for post in paginator.posts %}
 	    <div calss="col-1 col-sm-2 col-md-3">
-		{% for post in paginator.posts %}
+		
 		{% assign author = site.data.people[post.author] %}
 			<div class="card">
 				<a href="/about/{{ post.author }}"><img class="img-thumbnail" src="{{ author.gravatar}}"></a>
