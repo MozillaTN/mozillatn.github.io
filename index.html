@@ -2,7 +2,7 @@
 ---
 
 
-<!-- 	<ul id="tag-post-list" >
+	<ul id="tag-post-list" >
     {% for post in paginator.posts %}
         <li class="cards">
 		
@@ -27,21 +27,17 @@
 
         </li>
     {% endfor %}
-</ul> -->
-<div calss="row">
-	    {% for post in paginator.posts %}
-	    <div calss="col-1 col-sm-1 col-md-3 col-lg-4">
-		
-		{% assign author = site.data.people[post.author] %}
-			<div class="card">
-				<a href="/about/{{ post.author }}"><img calss="card-img-top" src="{{ author.gravatar}}"></a>
-				<div calss="card-body">
-						       <a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">{{ post.title }} 
-                                <h2>{{ post.description }}</h2>
-				</div>
-			</div>
-			
-			</div>
-			{% endfor %}
+</ul>
+
+
+<div class="row">
+	{% for post in paginator.posts %}
+	<div class="col-1 col-sm-1 col-md-3">
+		<div calss="card">
+			{% assign author = site.data.people[post.author] %}
+			<a class="card-img-top"><img class="avatar" src="{{ author.gravatar}}"></a>
+		</div> 
+	</div>
+	 {% endfor %}
 </div>
 
