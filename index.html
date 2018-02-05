@@ -32,7 +32,7 @@
 
 <div class="row">
 	{% for post in paginator.posts %}
-	<div class="col-1 col-sm-1 col-md-3">
+	<div class="col-md-3">
 		<div calss="card">
 			{% assign author = site.data.people[post.author] %}
 			<a href="/about/{{ post.author }}"><img class="card-img-top" src="{{ author.gravatar}}"></a>
