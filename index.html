@@ -37,8 +37,8 @@
     <a href="/about/{{ post.author }}"><img class="card-img-top" src="{{ author.gravatar}}"></a>
     <div class="card-body">
 	    <div class="card-title">
-		    <a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}"><b>{{ post.title }}</b>
-			    <h4><small>{{ post.description }}</small></h4>
+		    <a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">{{ post.title }}
+			    <h4>{{ post.description }}</h4>
 					</a>
 	    </div>
      
