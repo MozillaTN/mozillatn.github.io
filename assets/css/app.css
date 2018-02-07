@@ -2,11 +2,12 @@
     position: absolute;
     top: 0;
     width: 99%;
-    height: 100%;
+    height: inherit;
     color: #fff;
     padding: 0 2px;
     opacity: 0;
     text-align: center;
+    background-color:red;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     -o-transition: all 0.3s;
