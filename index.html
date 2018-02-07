@@ -51,13 +51,14 @@
     <div class="col-12 col-sm-6 col-md-2 col-lg-4">
         <div class="card post">
             {% assign author = site.data.people[post.author] %}
+		<div class="post-details">
+                <a href="/about/{{ post.author }}"<img  class="img-thambnail" src="{{ author.gravatar}}"></a>
+            </div>
             <a href="/about/{{ post.author }}"><img class="card-img-top" src="{{ author.gravatar}}"></a>
             <div class="card-body">
                 <a class="card-title" href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}"><b>{{ post.title }}</b><br><small>{{ post.description }}</small></a>
             </div>
-            <div class="post-details">
-                <img  class="img-thambnail" src="{{ author.gravatar}}">
-            </div>
+            
         </div>
     </div>
     {% endfor %}
