@@ -4,7 +4,8 @@
     width: inherit;
     height: inherit;
     color: #fff;
-    padding: 30px 30px;
+    padding: 15px 15px;
+    border-radius:100%
     opacity: 0;
     text-align: center;
     background-color:rgba(255,0,0,0.8);
