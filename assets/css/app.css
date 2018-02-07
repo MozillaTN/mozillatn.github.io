@@ -13,7 +13,7 @@
     transition: all 0.3s;
 }
 
-.post:hover .post-details {
+.post-img:hover .post-details {
     opacity: 1;
     -webkit-animation: bounceIn;
     animation: bounceIn;
