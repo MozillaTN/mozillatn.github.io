@@ -1,7 +1,7 @@
 .post-details {
     position: absolute;
     top: 0;
-    width: calc(inherit + 30px);
+    width: calc(inherit + 30%);
     height: inherit;
     color: #fff;
     padding: 0 2px;
