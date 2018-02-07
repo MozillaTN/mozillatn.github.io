@@ -55,10 +55,9 @@
             <div class="card-body">
                 <a class="card-title" href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}"><b>{{ post.title }}</b><br><small>{{ post.description }}</small></a>
             </div>
-		<div class="post-details">
+		<a href="/about/{{ post.author }}"><div class="post-details">
                     <img class="img-thambnail" src="{{ author.gravatar}}">
-			<a href="/about/{{ post.author }}"><span class="oi" data-glyph="link-intact"></span></a>
-                </div>
+                </div></a>
         </div>
     </div>
     {% endfor %}
