@@ -37,7 +37,7 @@
 		{% assign author = site.data.people[post.author] %}
 		<a  href="/about/{{ post.author }}"><img class="card-img-top" src="{{ author.gravatar}}"></a>
 		<div class="card-body">
-			<a class="card-title" href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}"><b>{{ post.title }}</b><br><small>{{ post.description }}</small></a>
+			<a class="card-title" href="{{ site.baseurl }} '/' {{ post.url | remove_first: '/' }}"><b>{{ post.title }}</b><br><small>{{ post.description }}</small></a>
 		</div>
 	</div>
 	</div>
