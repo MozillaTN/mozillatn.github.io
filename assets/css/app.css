@@ -1,10 +1,10 @@
 .post-details {
     position: absolute;
     top: 0;
-    width: 30%;
-    height: 30%;
+    width: inherit;
+    height: inherit;
     color: #fff;
-    padding: 0 2px;
+    padding: 30px 30px;
     opacity: 0;
     text-align: center;
     background-color:rgba(255,0,0,0.8);
