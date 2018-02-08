@@ -52,7 +52,7 @@
         <div class="card post">
             {% assign author = site.data.people[post.author] %}
 		{% if post.cover %}
-                <img class="card-img-top" src="{{ post.cover}}">
+                <img class="card-img-top" src="{{ site.baseurl }}{{ post.cover}}">
 		{% else %}
 		<img class="card-img-top" src="https://nagarajnaidu921.github.io/mozillatn.github.io/assets/sfd1_2k17.jpg">
 		{% endif %}
