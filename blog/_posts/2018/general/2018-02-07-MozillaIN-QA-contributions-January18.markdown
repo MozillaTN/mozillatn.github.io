@@ -35,7 +35,7 @@ The results are listed below.
 We whole heartedly thank the awesome participants for joining us.
 
 - [Amit Kumar Singh](https://twitter.com/amitsin6h)
-- [Krishnaveni.B](https://twitter.com/venikrishbm)
+- [Fahima Zulfath A](https://twitter.com/FahimaZulfath)
 - [Aditya Anand](https://twitter.com/@Aditya2519Anand)
 
 
