@@ -34,10 +34,10 @@
 <div class="row">
     {% for post in paginator.posts %}
     <div class="col-12 col-sm-6 col-md-2 col-lg-4 mt-3">
-        <div class="card post" style="min-height:400px; max-height:600px;">
+        <div class="card post" style="min-height:400px; max-height:500px;">
             {% assign author = site.data.people[post.author] %}
 		{% if post.cover %}
-                <img class="card-img-top" src="{{ site.baseurl }}{{ post.cover}}" style="height:200px;">
+                <img class="card-img-top" src="{{ site.baseurl }}{{ post.cover}}" style="height:240px;">
 		{% else %}
 		<img class="card-img-top " src="https://nagarajnaidu921.github.io/mozillatn.github.io/assets/moztnlogo.jpg" style="height:200px;">
 		{% endif %}
