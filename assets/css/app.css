@@ -22,6 +22,10 @@
     -webkit-animation-duration: 1s;
 }
 
+.post a {
+    text-decoration:none;
+}
+
 @-webkit-keyframes bounceIn {
     0%,
     20%,
