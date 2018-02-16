@@ -37,9 +37,9 @@
         <div class="card post" style="min-height:400px; max-height:600px;">
             {% assign author = site.data.people[post.author] %}
 		{% if post.cover %}
-                <img class="card-img-top" src="{{ site.baseurl }}{{ post.cover}}">
+                <img class="card-img-top" src="{{ site.baseurl }}{{ post.cover}}" style="height:200px;">
 		{% else %}
-		<img class="card-img-top " src="https://nagarajnaidu921.github.io/mozillatn.github.io/assets/moztnlogo.jpg">
+		<img class="card-img-top " src="https://nagarajnaidu921.github.io/mozillatn.github.io/assets/moztnlogo.jpg" style="height:200px;">
 		{% endif %}
 		
             <div class="card-body">
