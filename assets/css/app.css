@@ -22,8 +22,12 @@
     -webkit-animation-duration: 1s;
 }
 
-.card-body a {
-    text-decoration:none;
+.post a {
+    text-decoration:none !important;
+    color: balck;
+}
+.post a:hover{
+    color: #007bff;
 }
 
 @-webkit-keyframes bounceIn {
