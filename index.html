@@ -34,15 +34,15 @@
 <div class="row">
     {% for post in paginator.posts %}
     <div class="col-12 col-sm-6 col-md-2 col-lg-4 mt-3">
-        <div class="card post" style="min-height:400px; max-height:500px;">
+        <div class="card post" style="max-height:400px;">
             {% assign author = site.data.people[post.author] %}
 		{% if post.cover %}
-                <img class="card-img-top" src="{{ site.baseurl }}{{ post.cover}}" style="height:240px;">
+                <img class="card-img-top" src="{{ site.baseurl }}{{ post.cover}}" style="height:250px;">
 		{% else %}
 		<img class="card-img-top " src="https://nagarajnaidu921.github.io/mozillatn.github.io/assets/moztnlogo.jpg" style="height:200px;">
 		{% endif %}
 		
-            <div class="card-body" style="max-height:100px;">
+            <div class="card-body" style="max-height:150px;">
                 <a class="card-title" href="{{ site.baseurl }}/{{ post.url | remove_first: '/' }}"><b>{{ post.title }}</b><br><small>{{ post.description }}</small></a>
             </div>
 		<a href="/about/{{ post.author }}"><div class="post-details">
