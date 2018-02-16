@@ -34,7 +34,7 @@
 <div class="row">
     {% for post in paginator.posts %}
     <div class="col-12 col-sm-6 col-md-2 col-lg-4 mt-3">
-        <div class="card post" style="min-height:200px;">
+        <div class="card post" style="max-height:200px;">
             {% assign author = site.data.people[post.author] %}
 		{% if post.cover %}
                 <img class="card-img-top" src="{{ site.baseurl }}{{ post.cover}}">
