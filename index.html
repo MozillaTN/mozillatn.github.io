@@ -39,14 +39,14 @@
 		{% if post.cover %}
                 <img class="card-img-top" src="{{ site.baseurl }}{{ post.cover}}">
 		{% else %}
-		<img class="card-img-top" src="https://nagarajnaidu921.github.io/mozillatn.github.io/assets/moztnlogo.jpg">
+		<img class="card-img-top " src="https://nagarajnaidu921.github.io/mozillatn.github.io/assets/moztnlogo.jpg">
 		{% endif %}
 		
             <div class="card-body">
                 <a class="card-title" href="{{ site.baseurl }}/{{ post.url | remove_first: '/' }}"><b>{{ post.title }}</b><br><small>{{ post.description }}</small></a>
             </div>
 		<a href="/about/{{ post.author }}"><div class="post-details">
-                    <img class="img-thambnail" src="{{ author.gravatar}}">
+                    <img class="img-thambnail rounded-circle" src="{{ author.gravatar}}">
                 </div></a>
         </div>
     </div>
