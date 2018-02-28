@@ -9,9 +9,9 @@ author: Fahima Zulfath
 
 Hey Mozillians,
 
- International Women's Day, March 8th is a global day seeks to celebrate the social, economic, cultural and political achievements of women, as well as act as a catalyst for change when it comes to gender equality. Though many women are marking their achievements in various fields, we have women who fears to come out of their home.
+ International Women's Day (March 8) is a global day celebrating the social, economic, cultural and political achievements of women, as well as act as a catalyst for change when it comes to gender equality. Though many women are marking their achievements in various fields, we have women who fears to come out of their home.
 
- We as **WoMozTN**(Women in [Mozilla Tamilnadu]({{ site.url }}))** who are part of this technical world, strongly believe that it’s our responsibility to open the opportunity which we got to the fellow girls with this. With this spirit we are organising an event for girls on March. This is going to be one among the biggest event hosted **by Women and for Women**.
+ We as **WoMozTN**(Women in [Mozilla Tamilnadu]({{ site.url }})) who are part of this technical world, strongly believe that it’s our responsibility to open the opportunity which we got to the fellow girls with this. With this spirit we are organising an event for girls on March. This is going to be one among the biggest event hosted **by Women and for Women**.
 
 ![WomozTN logo]({{ site.url }}/assets/photo851572752601163784.jpg)
 
@@ -34,7 +34,7 @@ We are inviting contributors to host events and support women contributors to co
 *Note: Contributors can host events in March. Once completed the sprint task, please express your enthisiasm in tweets with the above hashtag.
 The presentation going to be used will be centralised one, so that the content shared will be same at all the places.*
 
-If your are interested to organise the event or to participate as an individual contributor, mark your presence in the [etherpad](https://public.etherpad-mozilla.org/p/WoMozTN_Sprint_2018). if any queries, please do ping us on telegram @Zulfath or @kbmfsa. 
+If your are interested to organise the event or to participate as an individual contributor, mark your presence in the [etherpad](https://public.etherpad-mozilla.org/p/WoMozTN_Sprint_2018). If any queries, please do ping us on telegram @Zulfath or @kbmfsa. 
 
 Looking forward to have more active participants and an interesting Team activity.
 
