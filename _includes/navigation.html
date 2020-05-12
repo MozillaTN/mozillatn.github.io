@@ -1,7 +1,39 @@
-<nav class="main-nav">
-        <a href="{{ site.url }}/"> Home </a>
-            <a href="{{ site.url }}/blog">Blog </a>
-            <a href="{{ site.url }}/cal">Events</a>
-            <a href="{{ site.url }}/contact">Event Request </a>
-	    <a href="{{ site.url }}/chat">Chat</a>
+<!-- <nav class="main-nav">
+<a href="{{ site.url }}/"> Home </a>
+ <a href="{{ site.url }}/blog">Blog </a>
+ <a href="{{ site.url }}/cal">Events</a>
+<a href="{{ site.url }}/contact">Event Request </a>
+<a href="{{ site.url }}/chat">Chat</a>
+	</nav> -->
+
+<!-- bs4 navbar -->
+<nav class="navbar navbar-expand-lg navbar-light bg-primary fixed-top">
+	<div class="container">
+	<a class="navbar-brand" style="color:white" href="#"><b>MozillaTn</b></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse justify-content-md-end" id="navbarTogglerDemo02">
+   <ul class="navbar-nav">
+      <li class="nav-item active">
+        <a class="nav-link" href="{{ site.url }}/" style="color:white"> Home </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link"  href="{{ site.url }}/blog" style="color:white">Blog </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link"  href="{{ site.url }}/cal" style="color:white">Events</a>
+      </li>
+	<li class="nav-item">
+        <a class="nav-link"  href="{{ site.url }}/contact" style="color:white">Event Request </a>
+      </li>
+	<li class="nav-item">
+        <a class="nav-link"  href="{{ site.url }}/chat" style="color:white">Chat</a>
+      </li> 
+    </ul>
+  </div>
+	</div>
 </nav>
+
+

@@ -1,4 +1,4 @@
-<ul id="tag-post-list">
+<!-- <ul id="tag-post-list">
     {% for post in site.posts %}
        
 	  {% if post.categories contains 'blog' %}
@@ -10,7 +10,7 @@
                 	                <a href="/about/{{ post.author }}">
                         	                <img class="avatar" src="{{ author.gravatar}}">
 
-                                	</a>
+                                	
                 	</div>
         	</div>
 
@@ -25,8 +25,34 @@
 	
 	  {% endif %}	
     {% endfor %}
-</ul>
+</ul> -->
 
-{% if paginator.previous_page or paginator.next_page %}
+nagaraj
+<!-- <div class="row">
+	<div class="col-md-4 col-sm-12">
+{% for post in site.posts %}
+{% if post.categories contains 'blog' %}
+<div class="card">
+	
+		{% assign author = site.data.people[post.author] %}
+	<a href="/about/{{ post.author }}">
+                        	                <img class="card-img-top" src="{{ author.gravatar}}">
+
+	</a>
+	<div class="card-body">
+		<div class="card-title">
+			<a href="{{ post.url }}" class="container">{{ post.title }} 
+                		<h2>{{ post.description }}</h2>
+        		</a>
+		</div>
+	</div>
+	 
+</div>
+  {% endif %}	
+    {% endfor %}
+	</div>
+</div>
+ -->
+<!-- {% if paginator.previous_page or paginator.next_page %}
     {% include pagination.html %}
-{% endif %}
+{% endif %} -->

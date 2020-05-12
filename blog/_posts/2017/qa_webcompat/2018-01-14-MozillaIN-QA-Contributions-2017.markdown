@@ -5,6 +5,7 @@ description: Mozilla India Community Contribution 2017
 categories: blog
 tags: [firefoxqa,mozillatn17]
 author: Fahima Zulfath
+cover: '/assets/qmo.jpeg'
 ---
 
 Hello Mozillians!!
